@@ -1,0 +1,2041 @@
+OrderID,CustomerName,Category,Region,PaymentMethod,Quantity,UnitPrice,OrderDate,Discount_%
+11964,Charles Williams,CLOTHING,WEST,Cash on Delivery,5.0,35.13,"February 20, 2024",5.0
+10431,Arjun Gupta,Books,West,Debit Card,2.0,13.22,"November 13, 2023",0.0
+10707,Jessica Iyer,Home and Kitchen,North,Debit Card,4.0,32.51,"April 03, 2023",5.0
+10330,  Richard Davis  , Electronics,West,Credit Card,1.0,304.38,07-02-2024,5.0
+10339,William Smith,ELECTRONICS,WEST,Credit Card,5.0,319.77,"October 29, 2024",0.0
+10921,Thomas Patel,electronics,WEST,Cash on Delivery,4.0,217.1,07-30-2024,15.0
+11167,Meera Gupta,books,west,,5.0,14.03,01-04-2024,0.0
+11983,Rahul Gupta,Sports,EAST,Credit Card,2.0,55.6,2023-10-31,0.0
+11580,Joseph Smith,home & kitchen,West,Credit Card,2.0,44.46,05-02-2023,15.0
+10375,Meera Garcia,Sports,North,Debit Card,5.0,$75.02,"November 11, 2024",20.0
+11446,Jessica Rodriguez,sports,north,UPI,3.0,84.1,02/01/2024,20.0
+11104,Arjun Miller,toys,WEST,Cash on Delivery,2.0,22.16,2024-10-12,5.0
+11421,Vikram Jones,books,West,PayPal,4.0,10.35,28/10/2024,0.0
+11443,Patricia Iyer,BOOKS,NORTH,UPI,2.0,17.5,2023-10-28,0.0
+10700,,Home and Kitchen,EAST,Credit Card,2.0,53.52,02-06-2024,0.0
+10423,Ananya Smith,Home & Kitchen,east,Credit Card,2.0,94.77,04-13-2023,0.0
+11470,Thomas Singh,toys,SOUTH,Cash on Delivery,4.0,27.23,2024-04-12,5.0
+10127,Charles Garcia,clothing, North,PayPal,4.0,35.98,06-21-2023,10.0
+11774,Ananya Singh,HOME & KITCHEN,SOUTH,,4.0,54.83,2023-04-10,15.0
+10275,Neha Jones,Clothing,EAST,Credit Card,3.0,40.07,"September 04, 2023",5.0
+10470,Thomas Brown,Sports,East,Cash on Delivery,4.0,45.42,"December 17, 2024",0.0
+10986,James Gupta,home & kitchen,South,Credit Card,5.0,42.03,05/04/2023,20.0
+10471,Priya Singh,Cloth ing,WEST,Debit Card,2.0,41.57,04-19-2023,20.0
+10928,Karen Rao,Beauty,SOUTH,Cash on Delivery,5.0,26.14,"December 19, 2023",15.0
+11481,Karen Singh, Beauty,west,Cash on Delivery,4.0,24.62,11/07/2023,20.0
+11819,Sarah Sharma,Home & Kitchen,WEST,Credit Card,5.0,103.88,06/07/2023,15.0
+11369,Jennifer Kumar,SPORTS,east,UPI,2.0,51.36,07-20-2023,15.0
+11758,Jessica Sharma,TOYS,SOUTH,UPI,1.0,19.57,"November 11, 2024",0.0
+11487,,electronics,east,Credit Card,4.0,$273.50,2024-10-16,0.0
+10328,Elizabeth Martinez,Toy's,north,Cash on Delivery,3.0,47.61,"July 19, 2024",5.0
+11832,Meera Martinez,Home & Kitchen, North,Cash on Delivery,1.0,$54.62,2023-02-12,20.0
+10657,Jennifer Garcia,books,North,UPI,1.0,15.1,"February 14, 2024",15.0
+10876,James Martinez,Beauty,North,UPI,5.0,$33.13,01-29-2024,20.0
+11389,  Kavya Davis  ,Home and Kitchen,west,UPI,1.0,83.28,2023-11-08,5.0
+10110,Sarah Garcia,ELECTRONICS,SOUTH,UPI,4.0,267.61,04-23-2023,0.0
+10196,Kavya Brown, Electronics,west,PayPal,2.0,235.83,11-30-2023,10.0
+10367,Richard Martinez,Electronic ,North,PayPal,3.0,,"October 14, 2024",0.0
+11244,William Kumar,Sports,East ,Cash on Delivery,2.0,54.3,11/01/2024,15.0
+11568,James Rao,TOYS,south,PayPal,5.0,,2023-07-09,5.0
+11094,Richard Nair,Toys,West,PayPal,3.0,26.46,2023-01-05,10.0
+10340,Charles Iyer,clothing,WEST,Cash on Delivery,3.0,50.3,2023-05-21,0.0
+11132,Charles Iyer,Cloth ing,East ,Debit Card,4.0,41.58,07/06/2024,5.0
+11950,Robert Johnson,BOOKS, North,Credit Card,5.0,$16.14,18/04/2024,15.0
+10983,William Nair,TOYS,West,PayPal,3.0,36.98,28/09/2024,10.0
+11516,Ananya Martinez,Sports,west,PayPal,2.0,100.68,06-30-2023,0.0
+11072,Aditya Reddy,sports, North,UPI,4.0,68.17,"February 16, 2024",0.0
+10860,Jennifer Sharma,Toy's,east,Debit Card,4.0,41.89,"December 16, 2024",20.0
+10717,Susan Garcia,home & kitchen,south,UPI,5.0,44.7,04-01-2023,0.0
+10358,Karen Das,Books,EAST,Credit Card,1.0,13.56,"January 05, 2023",0.0
+11724,Jennifer Williams,Home and Kitchen,North,PayPal,2.0,$56.25,2023-10-18,0.0
+10640,James Martinez,TOYS,West,UPI,3.0,39.98,03-25-2024,0.0
+11970,Patricia Rodriguez,clothing,North,Debit Card,2.0,46.72,04-23-2024,0.0
+10751,Jennifer Kumar,clothing,south,Debit Card,2.0,17.82,16/11/2023,20.0
+10725,Rahul Patel,,East ,Debit Card,3.0,27.69,29/07/2023,10.0
+10002,Jessica Gupta,ELECTRONICS, North,UPI,4.0,67.07,"November 30, 2024",0.0
+10862,Joseph Williams,BOOKS,EAST,PayPal,2.0,12.42,18/08/2023,20.0
+11692,Barbara Rao,electronics,west,Cash on Delivery,4.0,318.98,08/10/2024,0.0
+11947,Linda Das,Electronic ,east,Debit Card,1.0,256.03,05-06-2023,5.0
+10997,  Linda Williams  ,Books,west,Debit Card,3.0,27.54,2023-01-15,0.0
+11691,Aditya Davis,Clothing,East,Credit Card,3.0,49.73,02-19-2024,0.0
+10259,,Toy's,south,Debit Card,4.0,21.01,06-12-2023,0.0
+11802,Richard Miller, Beauty,west,UPI,2.0,35.22,12/08/2024,0.0
+10977,Meera Gupta,books,WEST,Credit Card,5.0,16.25,10-20-2024,10.0
+11614,Mary Brown,Toy's,WEST,Debit Card,2.0,42.76,08-14-2024,
+10802,Michael Singh, Beauty,west,,,20.44,"April 24, 2024",
+10933,Joseph Johnson,Beauty,South,Credit Card,1.0,17.74,19/11/2023,15.0
+10623,Jennifer Jones,Clothing,NORTH,Credit Card,1.0,25.61,"April 21, 2024",0.0
+10415,John Martinez,BOOKS,South,,1.0,15.04,09-21-2024,20.0
+10108,Thomas Miller,Electronics, North,Cash on Delivery,5.0,333.05,2023-12-26,15.0
+11259,Karen Sharma,BOOKS,North,UPI,5.0,20.08,"September 19, 2024",0.0
+10034,Susan Nair,clothing,East ,PayPal,1.0,57.25,05-26-2024,20.0
+10262,Ananya Reddy,Clothing,WEST,Debit Card,5.0,46.51,"November 10, 2023",10.0
+11678,Joseph Iyer,Toys,South,Cash on Delivery,3.0,$26.21,01/05/2024,15.0
+10619,Charles Rao,Electronic ,East ,PayPal,4.0,$268.45,2023-10-25,15.0
+11208,Meera Martinez,HOME & KITCHEN,West,PayPal,3.0,45.2,"May 27, 2024",20.0
+10419,David Martinez, Beauty,EAST,PayPal,4.0,29.13,11-04-2024,15.0
+10386,John Nair,toys, North,Cash on Delivery,5.0,$50.61,12/07/2023,15.0
+11037,Karen Martinez,Home & Kitchen,EAST,Cash on Delivery,3.0,61.02,08/01/2023,0.0
+11027,Priya Gupta,HOME & KITCHEN,,PayPal,1.0,54.1,05-17-2024,
+10918,Patricia Singh,CLOTHING,East,Debit Card,4.0,40.49,06-18-2024,10.0
+11333,Patricia Iyer,Cloth ing, North,PayPal,3.0,38.08,04/09/2023,20.0
+11371,Kavya Singh,books,WEST,Cash on Delivery,2.0,10.99,02-12-2023,
+11495,David Rao,Sports,west,UPI,5.0,63.11,11-27-2024,0.0
+11354,Rahul Rao,home & kitchen,SOUTH,Debit Card,1.0,96.17,2023-12-05,0.0
+11168,Susan Garcia,ELECTRONICS,west,Credit Card,1.0,402.87,26/09/2023,15.0
+10611,Ananya Miller,clothing,east,Credit Card,2.0,35.42,"May 12, 2023",20.0
+10789,David Garcia,,WEST,,1.0,53.06,10-15-2023,0.0
+10571,Joseph Jones,ELECTRONICS,East,Debit Card,3.0,311.57,14/05/2023,15.0
+10204,David Singh,Sports,East,Credit Card,3.0,43.44,"October 11, 2024",15.0
+11050,Aditya Rodriguez,books,South,UPI,3.0,13.89,2024-06-12,0.0
+10229,Aditya Reddy, Beauty,SOUTH,Credit Card,4.0,21.74,"September 15, 2024",
+11973,Susan Jones,Books,WEST,PayPal,4.0,17.65,2023-06-29,0.0
+11744,  Patricia Reddy  ,books,south,PayPal,1.0,12.93,"June 05, 2023",15.0
+10185,Linda Reddy,Clothing,South,Cash on Delivery,4.0,46.04,2024-01-10,
+10687,John Das,Sports, North,PayPal,1.0,39.1,2023-05-25,20.0
+10955,Richard Sharma, Electronics,WEST,Debit Card,5.0,289.78,"October 10, 2024",
+11945,Richard Smith,clothing,West,Credit Card,2.0,21.7,2023-06-09,
+11461,Charles Singh, Beauty,South,Debit Card,4.0,29.77,2024-05-12,0.0
+10705,Neha Miller,TOYS,north,Debit Card,3.0,33.28,2023-09-09,15.0
+11739,Robert Reddy,toys,South,PayPal,1.0,19.33,11-15-2024,0.0
+10351,James Miller,Sports,south,UPI,5.0,43.13,2024-10-26,0.0
+10308,Aditya Patel,beauty,East ,PayPal,2.0,$25.61,30/01/2023,0.0
+11829,William Garcia,toys,SOUTH,PayPal,5.0,12.43,2024-02-29,10.0
+10832,Thomas Gupta,Electronics,WEST,Debit Card,4.0,239.61,17/05/2024,5.0
+10684,Michael Patel,Toys,WEST,Debit Card,5.0,38.88,"October 27, 2023",0.0
+10237,Priya Reddy,electronics,North,UPI,1.0,348.34,"January 13, 2024",5.0
+10879,Ananya Gupta,sports,South,UPI,4.0,,24/02/2024,5.0
+10978,James Johnson,BOOKS,west,UPI,1.0,10.06,17/04/2024,0.0
+11165,Sarah Iyer,BOOKS,South,Cash on Delivery,3.0,,11-14-2024,0.0
+11465,James Iyer,Toy's,west,Debit Card,5.0,42.63,11-13-2023,0.0
+11559,Susan Singh,TOYS,South,UPI,4.0,$22.60,2024-04-01,0.0
+10681,Robert Iyer,home & kitchen,west,,4.0,$53.01,"February 24, 2024",0.0
+10912,David Martinez,HOME & KITCHEN,west,,4.0,59.49,"October 01, 2024",10.0
+10824,Jessica Davis,Electronics,South,Debit Card,455.0,208.34,2024-07-27,10.0
+10200,Aditya Rodriguez,clothing,East,Debit Card,5.0,41.47,"December 26, 2024",
+11756,Charles Rao,BEAUTY,East ,UPI,3.0,19.33,"September 29, 2023",0.0
+11499,Rohan Davis,Home and Kitchen,West,Cash on Delivery,5.0,57.9,12-31-2023,5.0
+10140,Robert Garcia,Sports,South,Credit Card,2.0,44.48,20/05/2024,0.0
+10596,Rahul Gupta,home & kitchen,South,UPI,3.0,78.63,04-11-2024,20.0
+10037,  Joseph Williams  ,SPORTS,West,Debit Card,4.0,72.97,"December 16, 2023",5.0
+11133,Elizabeth Davis,HOME & KITCHEN, North,Credit Card,3.0,61.21,19/07/2023,20.0
+11210,Neha Jones,Clothing,East,UPI,1.0,30.88,08/07/2024,10.0
+11490,Arjun Gupta,Sports,West,UPI,3.0,80.28,26/11/2024,0.0
+10397,Joseph Martinez,Sports,South,Credit Card,3.0,43.07,2023-05-14,
+10820,Richard Smith,Sports,SOUTH,Debit Card,3.0,51.35,2023-05-01,
+10058,Meera Smith, Electronics,east,Debit Card,4.0,286.95,04/01/2024,5.0
+11787,  Kavya Nair  ,Toy's,West,Debit Card,1.0,1035.809789697705,"February 24, 2024",
+11523,Rohan Patel,SPORTS,west,Cash on Delivery,5.0,56.13,02-14-2024,0.0
+10895,Vikram Davis,toys,south,Debit Card,1.0,41.06,"November 06, 2023",15.0
+10206,Michael Kumar,Electronic , North,Cash on Delivery,2.0,279.25,"October 15, 2023",0.0
+11985,Kavya Patel, Electronics,East,Credit Card,3.0,290.06,08-25-2024,0.0
+10430,William Johnson,beauty,West,,3.0,24.02,"February 18, 2024",5.0
+10300,Jessica Smith,Beauty,west,UPI,4.0,27.0,03-20-2024,0.0
+10660,William Johnson,Clothing,south,Cash on Delivery,2.0,35.0,01-25-2023,20.0
+11375,Joseph Sharma,Home & Kitchen,east,Cash on Delivery,1.0,47.66,"February 24, 2024",0.0
+11784,,Cloth ing,west,Credit Card,2.0,50.05,20/06/2024,0.0
+10412,Arjun Martinez,,West,Cash on Delivery,4.0,41.86,2023-10-10,10.0
+11113,John Rodriguez,sports,south,PayPal,3.0,44.62,"September 11, 2024",
+10007,Richard Rodriguez, Electronics,WEST,Cash on Delivery,-4.0,262.85,01-15-2024,0.0
+10350,Barbara Martinez,BOOKS,WEST,Credit Card,4.0,11.1,11-28-2024,0.0
+10721,Michael Martinez,TOYS,South,PayPal,5.0,48.38,05-08-2023,15.0
+11010,Aditya Gupta,SPORTS,south,PayPal,,47.01,2024-11-14,15.0
+11841,Michael Brown,Home and Kitchen,west,UPI,5.0,71.81,09/11/2024,0.0
+10507,Robert Martinez,BEAUTY,SOUTH,Credit Card,3.0,23.4,2024-03-22,
+10020,Rohan Sharma,Electronics,East,UPI,2.0,239.7,2023-07-17,0.0
+10506,Joseph Davis,toys,West,Cash on Delivery,2.0,36.59,2023-05-26,0.0
+11880,Charles Jones,Toy's,,PayPal,2.0,32.08,12-20-2024,
+11067,Aditya Patel,Books,west,PayPal,5.0,10.87,"February 17, 2024",0.0
+10586,Meera Nair,electronics,West,PayPal,3.0,246.72,"April 26, 2024",20.0
+10833,  Jennifer Patel  ,ELECTRONICS,East ,PayPal,2.0,218.21,2023-08-12,0.0
+10500,Robert Nair,,East,Credit Card,4.0,732.0368574905696,03/09/2024,20.0
+11539,Charles Rao,SPORTS,west,Cash on Delivery,2.0,8.81,2023-10-22,15.0
+11153,Mary Patel,BOOKS,West,Credit Card,4.0,8.8,2024-04-22,15.0
+11813,Susan Garcia,Books,West,Cash on Delivery,2.0,19.88,06-11-2023,
+11765,John Martinez,Electronics,South,Credit Card,4.0,14824.491819232393,13/07/2024,5.0
+11817,John Gupta,Toy's,West,Cash on Delivery,1.0,30.66,18/06/2024,
+11949,Barbara Jones,SPORTS, North,PayPal,3.0,$28.76,"February 01, 2023",20.0
+10943,Neha Reddy,books,SOUTH,Debit Card,5.0,22.75,11-17-2024,10.0
+10540,Robert Das,books,WEST,Credit Card,2.0,21.38,2024-06-11,20.0
+10740,Thomas Smith,Sports,SOUTH,Debit Card,4.0,52.38,"January 07, 2023",0.0
+11564,Priya Williams,sports,North,,1.0,70.74,2023-08-22,10.0
+10396,Charles Das,BOOKS,EAST,Debit Card,4.0,14.48,18/04/2023,15.0
+11520,Joseph Garcia,sports,North,UPI,2.0,66.2,11-06-2023,10.0
+11058,Elizabeth Martinez,Beauty,NORTH,Debit Card,2.0,25.34,27/07/2023,15.0
+11256,Patricia Singh,HOME & KITCHEN,East ,Cash on Delivery,,23.53,"December 03, 2023",0.0
+11792,Rohan Davis,SPORTS,South,Credit Card,3.0,66.32,2024-12-17,15.0
+10172,  Karen Jones  , Beauty, North,UPI,5.0,27.99,2023-01-24,15.0
+11534,Jessica Williams,Beauty,West,Debit Card,2.0,25.34,28/05/2023,5.0
+11659,Jennifer Brown,CLOTHING,south,UPI,2.0,7.33,"July 17, 2024",10.0
+10514,Vikram Gupta,BOOKS,East ,UPI,5.0,15.44,2024-10-03,5.0
+11928,Joseph Nair,sports,East ,Credit Card,1.0,34.13,22/04/2023,0.0
+10620,Priya Williams, Electronics,south,PayPal,3.0,191.35,27/11/2024,5.0
+11775,Meera Singh,TOYS,south,PayPal,1.0,39.26,29/03/2023,0.0
+10051,Michael Singh,Electronic ,EAST,Debit Card,4.0,494.05,2023-09-22,
+10036,James Davis,Clothing,South,UPI,4.0,34.34,04/09/2024,15.0
+10779,James Smith,CLOTHING,South,Cash on Delivery,1.0,$38.41,11-19-2023,0.0
+11295,Rahul Iyer,toys,EAST,Cash on Delivery,1.0,32.6,"February 23, 2024",15.0
+10653,Mary Martinez,Beauty,east,,4.0,30.77,02-01-2024,5.0
+10217,Mary Johnson,ELECTRONICS,east,UPI,5.0,331.27,2024-11-05,0.0
+10284,Thomas Davis,Toy's,east,Debit Card,3.0,41.77,2024-08-18,15.0
+11668,Sarah Das,home & kitchen,North,UPI,4.0,37.09,09-26-2024,0.0
+11753,John Nair,Home and Kitchen,North,PayPal,1.0,35.37,2023-06-29,15.0
+11277,Ananya Patel,CLOTHING,west,Cash on Delivery,1.0,27.77,"October 27, 2024",15.0
+10830,Kavya Iyer,Toy's,SOUTH,Cash on Delivery,4.0,28.31,2023-12-28,0.0
+11332,Jennifer Sharma,Beauty,NORTH,UPI,3.0,$18.33,2024-02-19,15.0
+10374,Meera Iyer, Electronics,East ,UPI,4.0,201.03,17/10/2023,20.0
+10984,Jessica Reddy,Toys,NORTH,Credit Card,4.0,40.71,2023-01-08,0.0
+10410,James Garcia,toys,West,Cash on Delivery,452.0,25.56,05-01-2023,10.0
+11996,Ananya Martinez,electronics,east,UPI,5.0,348.43,22/11/2024,20.0
+11850,John Rodriguez,HOME & KITCHEN,west,PayPal,4.0,75.21,"October 10, 2024",15.0
+11330,John Rodriguez,TOYS,south,PayPal,5.0,19.58,03-17-2024,5.0
+10146,Robert Davis,clothing,WEST,Cash on Delivery,3.0,40.52,2024-11-28,
+10613,Kavya Garcia,TOYS,south,Credit Card,2.0,$12.49,03-14-2024,0.0
+11467,David Jones,Electronics,east,Credit Card,3.0,328.81,30/01/2023,5.0
+11275,James Nair,TOYS,North,PayPal,4.0,14.48,26/09/2023,
+10360,Barbara Kumar,CLOTHING,South,Credit Card,5.0,33.24,2024-06-03,
+11179,Arjun Garcia,Electronic ,EAST,PayPal,4.0,241.3,11/06/2023,20.0
+11164,Meera Nair,beauty,SOUTH,UPI,5.0,17.49,"July 20, 2023",5.0
+11889,Aditya Kumar, Beauty,NORTH,Cash on Delivery,5.0,12.27,12/06/2023,0.0
+11828,Rahul Nair,Electronic ,SOUTH,UPI,2.0,135.78,"December 02, 2023",0.0
+10241,Linda Singh,sports,SOUTH,UPI,5.0,54.96,2024-09-29,0.0
+10492,Neha Davis,TOYS,East ,Cash on Delivery,2.0,$21.43,2024-12-17,
+11432,Ananya Brown,Electronic ,NORTH,Debit Card,3.0,9648.051963413132,09-16-2024,0.0
+11293,Michael Das,home & kitchen,SOUTH,Debit Card,,87.03,"November 07, 2024",10.0
+11763,Ananya Nair,BOOKS,West,Debit Card,1.0,,2024-11-24,0.0
+11338,David Brown, Beauty,East,Debit Card,2.0,19.63,28/08/2024,15.0
+11863,,Beauty,SOUTH,,4.0,31.52,"July 06, 2024",10.0
+11034,Michael Brown,Books,WEST,UPI,3.0,19.35,"July 09, 2023",10.0
+11912,Barbara Davis,Toy's,east,PayPal,5.0,15.48,2023-06-16,5.0
+11650,Mary Davis,Beauty,North,UPI,5.0,$34.03,01-27-2024,0.0
+11323,Kavya Reddy,BOOKS,NORTH,Debit Card,5.0,13.7,"June 10, 2023",0.0
+11151,William Sharma,BOOKS,SOUTH,Debit Card,5.0,17.23,2024-05-01,20.0
+11442,Barbara Gupta,electronics,SOUTH,Cash on Delivery,4.0,296.21,26/10/2023,0.0
+10739,  Joseph Rao  ,HOME & KITCHEN,SOUTH,Cash on Delivery,1.0,53.28,05/12/2024,0.0
+11877,Karen Jones,HOME & KITCHEN,WEST,UPI,5.0,64.65,"May 26, 2024",15.0
+10141,Neha Martinez,Home and Kitchen,west,Debit Card,2.0,50.44,07-26-2024,15.0
+10565,John Martinez,Sports,SOUTH,Debit Card,5.0,,27/12/2024,0.0
+10868,Charles Williams,CLOTHING,South,Cash on Delivery,1.0,65.37,09/08/2024,0.0
+11885,Sarah Brown,Clothing,NORTH,Debit Card,3.0,43.58,13/04/2023,0.0
+10837,Rohan Patel,toys,west,Debit Card,1.0,31.99,"September 26, 2024",0.0
+11891,Priya Reddy,toys,WEST,UPI,5.0,21.76,"July 04, 2024",15.0
+11715,Aditya Garcia,clothing,SOUTH,UPI,4.0,28.51,06-10-2024,0.0
+11599,Mary Smith,Books,North,,4.0,14.65,15/01/2023,20.0
+11884,Rohan Davis,Electronics,South,PayPal,5.0,282.37,2024-04-20,0.0
+11678,Joseph Iyer,Toys,South,Cash on Delivery,3.0,26.21,2024-05-01,15.0
+11049,  Kavya Rodriguez  ,clothing,,Debit Card,2.0,35.89,"July 31, 2024",5.0
+11427,  James Miller  ,TOYS,East,Debit Card,3.0,$38.15,11-14-2024,5.0
+11844,Neha Kumar,BEAUTY,North,Debit Card,3.0,18.55,07/01/2023,0.0
+10572,Meera Rao,SPORTS,East ,Credit Card,4.0,41.98,2023-11-15,5.0
+11872,William Rodriguez,Clothing,West,Credit Card,3.0,39.54,2023-02-06,0.0
+10694,John Miller,home & kitchen,West,PayPal,3.0,94.71,"June 12, 2024",20.0
+11285,Mary Singh,home & kitchen,South,UPI,1.0,73.4,28/11/2024,0.0
+10501,Patricia Kumar,home & kitchen,south,Cash on Delivery,1.0,84.22,12-21-2023,20.0
+10517,Susan Das,Home and Kitchen,East,Debit Card,4.0,53.35,06/03/2024,10.0
+11682,David Miller,Cloth ing,east,PayPal,5.0,,"February 20, 2024",5.0
+10556,William Singh,Sports,east,UPI,4.0,49.56,2024-09-26,
+10179,John Das, Beauty,SOUTH,UPI,1.0,19.3,2023-09-14,0.0
+10438,Joseph Gupta,Cloth ing,,,2.0,45.56,12/03/2024,
+10488,Thomas Sharma,Cloth ing,SOUTH,UPI,1.0,44.98,"March 11, 2023",0.0
+11476,Robert Gupta,Home & Kitchen,east,Credit Card,4.0,92.35,2023-12-07,15.0
+11992,Neha Rao,Books,north,UPI,1.0,13.13,"May 24, 2023",15.0
+11118,Mary Miller,HOME & KITCHEN,NORTH,Debit Card,4.0,81.63,25/07/2024,15.0
+10353,Robert Rodriguez,Toys,east,Debit Card,4.0,31.18,2024-09-07,5.0
+10299,Susan Kumar,Home & Kitchen,East ,UPI,5.0,64.84,"May 07, 2023",0.0
+11713,Kavya Rao,clothing,west,Credit Card,1.0,,04-01-2024,0.0
+11246,William Smith,books,South,Cash on Delivery,5.0,14.54,01-10-2024,15.0
+10454,Arjun Rodriguez,SPORTS,EAST,UPI,5.0,52.25,"August 03, 2023",10.0
+10593,Priya Miller, Beauty,East ,Cash on Delivery,2.0,22.26,07-25-2024,20.0
+11447,Joseph Brown,Beauty,NORTH,Cash on Delivery,1.0,31.47,"July 17, 2023",0.0
+10325,Charles Singh,ELECTRONICS,east,UPI,2.0,244.1,"April 09, 2024",0.0
+10071,John Brown,books,South,Debit Card,3.0,15.52,03-22-2023,0.0
+10527,Elizabeth Iyer,sports,east,Credit Card,4.0,48.46,14/07/2023,0.0
+10768,Robert Reddy,CLOTHING,West,UPI,1.0,35.4,"February 07, 2024",5.0
+11401,Robert Jones,Toys,east,Credit Card,5.0,23.39,02-03-2024,20.0
+11618,Joseph Singh,Home and Kitchen,NORTH,Cash on Delivery,1.0,2455.15620177718,"November 13, 2023",5.0
+11903,,Electronic ,NORTH,Cash on Delivery,5.0,267.92,2023-05-18,15.0
+11610,Joseph Garcia,beauty, North,Cash on Delivery,2.0,16.83,"February 05, 2023",0.0
+11921,Joseph Gupta,sports,WEST,UPI,4.0,47.01,2024-01-28,0.0
+11968,Karen Das,Home & Kitchen,south,Credit Card,5.0,69.84,27/07/2024,5.0
+11137,Aditya Das,books,EAST,Cash on Delivery,5.0,17.82,06-07-2023,0.0
+10729,Vikram Garcia,clothing,South,PayPal,3.0,43.58,08/11/2024,0.0
+11089,Barbara Kumar,Toys,East ,PayPal,4.0,30.01,2023-01-22,15.0
+11488,Jennifer Rao, Electronics,,UPI,2.0,226.82,"July 13, 2023",0.0
+11882,Ananya Martinez,BEAUTY,SOUTH,,1.0,17.5,01/06/2023,0.0
+10544,Linda Das, Beauty,west,Debit Card,3.0,35.84,2023-07-30,0.0
+10116,John Jones,home & kitchen,south,Credit Card,4.0,$51.75,2024-06-15,0.0
+11693,Aditya Garcia,Toys,EAST,UPI,2.0,20.14,08-27-2024,15.0
+11159,Susan Davis,Books,WEST,PayPal,4.0,$22.21,"April 27, 2024",15.0
+10004,Aditya Gupta, Beauty,SOUTH,UPI,5.0,20.5,"December 06, 2023",10.0
+10311,Elizabeth Reddy,BOOKS,WEST,PayPal,3.0,$4.24,2024-10-30,15.0
+10046,Rahul Johnson,BEAUTY,North,UPI,5.0,21.35,08-24-2024,0.0
+10341,  Arjun Martinez  ,CLOTHING,EAST,Cash on Delivery,2.0,41.82,"December 29, 2024",10.0
+11200,Rahul Rao,beauty,west,PayPal,5.0,29.86,06/03/2024,0.0
+10835,Jennifer Das, Electronics,WEST,Credit Card,5.0,233.52,26/08/2024,0.0
+10887,James Davis,Toy's,south,Cash on Delivery,2.0,36.66,2024-12-16,20.0
+11399,Robert Kumar,Toys, North,UPI,3.0,24.69,"August 30, 2024",0.0
+11595,Barbara Smith,ELECTRONICS,West,Debit Card,2.0,264.45,"November 24, 2024",20.0
+10278,Arjun Smith,Toys,EAST,UPI,5.0,30.63,"June 05, 2023",0.0
+11631,Elizabeth Iyer,Toys,west,Credit Card,1.0,9.11,05-22-2024,5.0
+11022,Joseph Singh,Clothing,west,UPI,3.0,48.73,"December 06, 2024",15.0
+10638,Patricia Reddy,SPORTS, North,PayPal,1.0,36.89,2023-06-06,5.0
+11620,Richard Davis,SPORTS,North,UPI,5.0,67.16,2023-03-26,5.0
+11974,Jessica Reddy,beauty, North,Cash on Delivery,2.0,26.28,2023-07-05,0.0
+10194,Jessica Garcia,sports,,UPI,4.0,28.09,"February 12, 2023",0.0
+11931,David Jones,Books,east,PayPal,4.0,14.04,2024-02-28,10.0
+10806,Linda Brown,CLOTHING,West,Credit Card,5.0,39.94,"November 05, 2023",0.0
+11638,Elizabeth Iyer,SPORTS,South,Debit Card,1.0,71.52,29/01/2023,20.0
+11518,Thomas Smith,clothing,WEST,UPI,3.0,$56.17,23/12/2024,
+10372,Joseph Reddy, Beauty,East,Cash on Delivery,4.0,23.58,"March 25, 2023",0.0
+10800,Meera Rao,BEAUTY,West,Cash on Delivery,4.0,19.85,06-04-2024,0.0
+10504,Sarah Reddy,Books,South,Cash on Delivery,2.0,9.83,"August 18, 2023",20.0
+11816,Vikram Rodriguez,home & kitchen,SOUTH,UPI,1.0,$39.93,29/01/2023,10.0
+11301,Barbara Smith,TOYS,north,Debit Card,5.0,40.54,"March 22, 2023",20.0
+11226,James Brown,Electronic ,north,UPI,5.0,,07-01-2024,0.0
+10298,Michael Rodriguez,SPORTS,North,PayPal,3.0,40.38,"July 24, 2024",15.0
+11198,Rohan Williams,Home and Kitchen,west,UPI,,95.4,2023-01-13,10.0
+10450,Sarah Nair,Toys,SOUTH,PayPal,2.0,38.57,08/02/2024,0.0
+11042,David Das,SPORTS,south,Debit Card,4.0,75.35,01-29-2023,10.0
+10109,Rahul Iyer,Books,East,PayPal,3.0,15.79,12-23-2024,0.0
+10817,Rohan Sharma,Toy's,East ,PayPal,,28.63,2023-10-29,0.0
+11944,Charles Miller,HOME & KITCHEN,East,Cash on Delivery,1.0,53.58,"December 24, 2023",5.0
+11297,Barbara Brown,Toy's,North,PayPal,1.0,35.18,"March 24, 2023",15.0
+10426,Joseph Williams,ELECTRONICS,East,Credit Card,2.0,151.06,2024-03-04,0.0
+10562,Neha Sharma,HOME & KITCHEN,SOUTH,Debit Card,1.0,$36.73,"December 30, 2023",5.0
+10595,Priya Garcia,ELECTRONICS,north,PayPal,2.0,228.81,2023-04-16,0.0
+11656,Arjun Garcia,CLOTHING,north,PayPal,5.0,,2023-07-05,15.0
+10095,Charles Davis,books,East ,UPI,3.0,$22.54,01-26-2024,20.0
+11890,  David Garcia  ,Electronic ,WEST,Cash on Delivery,5.0,158.29,2023-06-26,10.0
+11719,  Rohan Johnson  ,sports,WEST,PayPal,3.0,61.49,2024-12-05,20.0
+10019,,Electronic ,EAST,,2.0,284.31,22/02/2023,0.0
+10691,Ananya Williams,Electronics, North,PayPal,3.0,288.49,01/03/2024,0.0
+11051,Patricia Kumar,Electronic ,east,Cash on Delivery,2.0,77.39,02/12/2023,15.0
+11348,Elizabeth Rodriguez,books,east,Cash on Delivery,3.0,17.45,16/08/2023,
+10946,Meera Smith,books,west,PayPal,,17.21,2024-03-24,0.0
+11281,Jessica Kumar,toys,EAST,UPI,5.0,18.09,2024-11-21,20.0
+11158,Linda Davis,Cloth ing,South,Debit Card,4.0,52.56,2023-02-09,5.0
+11673,Thomas Singh,BOOKS,EAST,UPI,4.0,15.09,"January 24, 2023",0.0
+11773,James Garcia,BOOKS,WEST,UPI,5.0,7.72,04/06/2024,0.0
+11941,William Williams,Electronics,north,Cash on Delivery,3.0,,"November 07, 2023",0.0
+10222,William Reddy,Home & Kitchen,NORTH,Credit Card,2.0,56.16,01-17-2024,20.0
+11435,Kavya Singh,books,WEST,PayPal,1.0,9.68,12-16-2024,20.0
+10738,Aditya Brown,Cloth ing, North,PayPal,3.0,$34.47,19/06/2024,0.0
+11793,Ananya Das,Toys,EAST,Debit Card,3.0,17.29,12/09/2024,
+10925,Linda Patel,beauty,East ,PayPal,5.0,20.05,13/11/2023,0.0
+10111,Charles Singh,sports,East ,Credit Card,3.0,85.0,04-02-2024,20.0
+10945,John Rodriguez,sports,East,Credit Card,4.0,86.18,2024-02-21,0.0
+11039,Priya Reddy,HOME & KITCHEN,West,Debit Card,224.0,66.98,2023-07-15,0.0
+11554,Vikram Johnson,electronics, North,Cash on Delivery,3.0,$200.84,"June 22, 2023",10.0
+11139,Elizabeth Das,sports,North,,4.0,$27.24,22/03/2024,10.0
+10313,William Kumar,Toy's,west,PayPal,3.0,31.0,"August 01, 2024",15.0
+10287,David Smith, Beauty,West,,1.0,26.16,13/10/2023,10.0
+11361,Thomas Rodriguez,SPORTS,west,Credit Card,4.0,58.19,2023-01-21,20.0
+11593,John Gupta,sports,East,Cash on Delivery,5.0,25.61,"March 15, 2023",0.0
+11122,Karen Nair,beauty,South,Debit Card,4.0,23.89,2024-03-23,0.0
+11909,David Kumar,Toy's,EAST,UPI,5.0,38.87,24/07/2024,20.0
+11808,Charles Miller,SPORTS,west,Credit Card,1.0,58.02,15/05/2023,10.0
+10463,David Davis,books,EAST,Cash on Delivery,5.0,10.09,"February 01, 2023",0.0
+10635,Arjun Jones,Toys,west,Credit Card,1.0,28.67,2024-10-18,5.0
+11510,Meera Johnson,toys,south,Credit Card,2.0,38.45,2023-02-09,15.0
+11700,Karen Johnson,books,North,Credit Card,3.0,11.42,2023-03-20,20.0
+11231,Michael Davis,Sports,NORTH,Debit Card,2.0,42.23,"September 10, 2024",
+10361,Barbara Garcia,Sports,SOUTH,UPI,3.0,53.63,10-29-2024,0.0
+11205,  Richard Kumar  ,clothing,EAST,,4.0,$42.10,04-24-2023,0.0
+10455,Joseph Singh,Cloth ing, North,Cash on Delivery,1.0,42.54,2023-09-21,20.0
+10017,Thomas Iyer,books,East ,UPI,1.0,10.41,"November 22, 2024",15.0
+10885,Jennifer Iyer,SPORTS,East ,Credit Card,2.0,49.59,12-09-2024,0.0
+11438,Richard Jones,HOME & KITCHEN,South,UPI,4.0,37.93,2024-02-04,
+10377,Vikram Reddy, Electronics,North,PayPal,5.0,233.49,12-09-2023,0.0
+10828,Richard Miller,Beauty,EAST,Debit Card,3.0,41.39,03/03/2023,
+11458,Jennifer Davis,Toy's,south,Debit Card,4.0,22.08,06/04/2023,20.0
+11797,Sarah Jones, Electronics,West,UPI,5.0,305.89,2024-11-29,0.0
+11283,Kavya Brown,Clothing,WEST,PayPal,1.0,28.17,2023-03-18,5.0
+10861,James Kumar,books,East,Debit Card,4.0,,07-17-2024,0.0
+11002,Aditya Rao,Home & Kitchen,south,Cash on Delivery,5.0,$57.56,11-02-2023,0.0
+10054,Elizabeth Rodriguez,clothing,SOUTH,Debit Card,5.0,30.13,17/06/2023,0.0
+10263,Barbara Rodriguez,Electronics,east,Cash on Delivery,3.0,344.08,19/01/2024,5.0
+10101,Barbara Patel,Electronic ,East ,UPI,4.0,198.98,11-13-2024,10.0
+10275,Neha Jones,Clothing,EAST,Credit Card,3.0,40.07,09-04-2023,5.0
+10286,Priya Rao,BEAUTY,west,Cash on Delivery,1.0,$25.29,27/09/2024,10.0
+11123,Ananya Das,Home and Kitchen,south,Debit Card,3.0,42.48,06/07/2023,0.0
+10249,Rohan Davis,TOYS,East,Debit Card,2.0,26.64,13/04/2024,15.0
+11182,Rahul Iyer,BEAUTY,East,Credit Card,2.0,30.42,2023-09-10,15.0
+11345,Elizabeth Rao,Clothing,North,Credit Card,4.0,36.88,14/08/2023,15.0
+11463,Neha Iyer,HOME & KITCHEN,north,Credit Card,4.0,57.78,"February 22, 2023",0.0
+11958,Jessica Nair,Home & Kitchen,NORTH,UPI,2.0,59.93,28/11/2024,0.0
+10344,David Kumar,books,West,Cash on Delivery,4.0,12.52,30/03/2024,5.0
+11924,Michael Miller,electronics,West,Debit Card,4.0,279.64,01/12/2023,5.0
+11963,Kavya Singh,sports,EAST,UPI,4.0,32.07,"August 29, 2023",0.0
+10561,Michael Patel,toys,north,PayPal,2.0,$25.60,"November 22, 2024",20.0
+10441,Linda Sharma,Sports,south,Cash on Delivery,2.0,56.1,"September 15, 2023",15.0
+10060,Rohan Williams,Electronics,SOUTH,UPI,1.0,214.61,2024-01-08,0.0
+10392,Rohan Das,Sports,west,,3.0,73.44,2023-05-08,0.0
+10590,Sarah Gupta,electronics,North,Cash on Delivery,4.0,241.95,2023-03-20,5.0
+10528,  Kavya Martinez  , Beauty,south,Credit Card,1.0,12.58,2023-04-06,
+10363,Kavya Johnson,Beauty,WEST,PayPal,3.0,,24/07/2024,10.0
+11351,Linda Miller,TOYS,East,Credit Card,2.0,36.62,08/11/2023,20.0
+10210,Rahul Nair, Beauty,South,UPI,2.0,17.57,21/03/2024,5.0
+10281,Vikram Gupta,,NORTH,Cash on Delivery,3.0,27.23,"May 30, 2024",0.0
+11730,Mary Rodriguez,clothing,West,Debit Card,2.0,54.72,01/07/2024,20.0
+10683,Richard Rao,,East,Debit Card,1.0,42.68,"February 06, 2023",15.0
+11266,William Davis, Electronics, North,PayPal,2.0,316.23,"November 27, 2023",0.0
+10797,  Mary Davis  ,Home & Kitchen,EAST,Cash on Delivery,4.0,32.76,"May 18, 2024",0.0
+11251,Kavya Miller,Books,West,Cash on Delivery,3.0,14.78,2024-01-04,20.0
+11645,Meera Rodriguez,Beauty,East ,UPI,2.0,17.59,07-23-2023,0.0
+11088,Richard Kumar,HOME & KITCHEN,EAST,UPI,3.0,37.59,"June 13, 2024",0.0
+10701,Sarah Jones,Electronic ,south,UPI,,289.32,30/06/2024,20.0
+10718,James Reddy,BOOKS,West,Debit Card,1.0,-15.0,21/02/2023,15.0
+10324,William Smith,beauty,WEST,PayPal,4.0,10.56,04-12-2023,0.0
+10698,Ananya Iyer,Home & Kitchen,South,Debit Card,4.0,49.2,11-17-2023,20.0
+11720,Priya Nair,clothing,South,Debit Card,1.0,26.95,07/11/2023,0.0
+10028,Rohan Davis,ELECTRONICS,WEST,,5.0,231.6,2024-07-16,10.0
+11358,Ananya Nair,Electronics,west,Credit Card,5.0,327.03,07-20-2024,20.0
+10610,Jessica Reddy,sports,West,PayPal,3.0,78.09,04-29-2024,0.0
+10359,Kavya Singh,Toys,east,Debit Card,2.0,31.37,15/01/2023,
+11665,James Patel,Home and Kitchen,NORTH,Cash on Delivery,1.0,15.57,04-07-2023,0.0
+11812,Joseph Rodriguez,BEAUTY,east,,1.0,31.65,01/03/2024,20.0
+10224,Aditya Garcia,BEAUTY,west,Cash on Delivery,4.0,13.49,"February 24, 2024",5.0
+10447,Elizabeth Das,sports,West,PayPal,2.0,31.91,23/04/2023,0.0
+11853,Meera Smith,CLOTHING,NORTH,Credit Card,4.0,-62.01,"January 18, 2024",5.0
+11731,  Kavya Jones  ,Electronics, North,Debit Card,2.0,383.32,2023-07-17,0.0
+10855,Richard Singh,SPORTS,NORTH,PayPal,5.0,57.95,"December 30, 2024",20.0
+11425,Elizabeth Kumar,TOYS,,Debit Card,5.0,9.97,18/12/2023,20.0
+11716,Jennifer Williams,TOYS,EAST,PayPal,4.0,25.34,2023-01-31,10.0
+11227,Patricia Jones, Electronics,South,,3.0,166.71,"October 28, 2023",15.0
+11497,,toys,east,PayPal,287.0,28.41,17/02/2024,5.0
+10747,Neha Jones,clothing,East ,,1.0,,"July 30, 2023",5.0
+11977,Jennifer Patel,Electronics,south,Debit Card,4.0,$58.34,"January 26, 2024",0.0
+11084,Jessica Sharma,Books,south,Credit Card,4.0,14.84,"February 02, 2024",5.0
+10816,Joseph Das,electronics,South,PayPal,3.0,164.93,2023-07-18,5.0
+11294,Aditya Miller,Toys,EAST,PayPal,4.0,21.57,"February 27, 2024",20.0
+10151,Michael Martinez,Sports,East ,Debit Card,3.0,44.85,"February 18, 2024",20.0
+10215,Karen Martinez,HOME & KITCHEN,EAST,Credit Card,4.0,47.06,"April 11, 2023",0.0
+10098,Joseph Brown,Electronic ,South,Debit Card,5.0,346.52,2023-06-06,
+11767,Neha Patel,toys,south,,2.0,,2024-04-02,10.0
+10474,David Das,sports,WEST,Cash on Delivery,4.0,57.33,05-23-2023,20.0
+11360,Ananya Garcia,Beauty,west,Debit Card,4.0,26.62,25/08/2024,5.0
+11152,Rahul Gupta,books,East ,UPI,2.0,16.85,"April 07, 2023",0.0
+11496,Vikram Miller,Sports,SOUTH,UPI,5.0,54.97,11-16-2024,0.0
+10012,Patricia Jones,Home and Kitchen,EAST,Cash on Delivery,5.0,58.92,06/04/2023,20.0
+11766,William Miller,Sports,west,Cash on Delivery,3.0,33.97,23/04/2024,5.0
+11413,Rahul Reddy,BEAUTY,South,UPI,2.0,23.75,2024-10-31,
+10167,Karen Gupta,BEAUTY,WEST,PayPal,2.0,26.0,14/11/2023,5.0
+10602,James Davis,books,SOUTH,PayPal,1.0,$19.26,2024-09-12,0.0
+11078,Rohan Johnson,sports,North,Cash on Delivery,3.0,$64.55,"November 10, 2024",20.0
+10188,Jennifer Rodriguez,Toys,North,Credit Card,4.0,37.55,12-04-2024,10.0
+11120,David Iyer,clothing,East ,Cash on Delivery,4.0,25.12,2023-01-13,20.0
+11083,Neha Nair,electronics,South,Credit Card,3.0,155.82,2024-11-15,20.0
+10043,Vikram Smith, Beauty,East,Cash on Delivery,2.0,33.23,"October 20, 2024",5.0
+11114,,,WEST,UPI,2.0,235.21,2023-04-15,0.0
+10009,Aditya Miller,Sports,south,Credit Card,2.0,32.45,02-10-2023,20.0
+11363,Richard Singh,BOOKS,north,PayPal,1.0,$11.17,05/12/2023,0.0
+10147,Linda Smith,ELECTRONICS,SOUTH,Credit Card,3.0,$327.29,"December 02, 2023",10.0
+10746,Vikram Miller,,WEST,PayPal,1.0,39.83,09/04/2023,5.0
+10013,Michael Rao,home & kitchen, North,Debit Card,4.0,77.3,"June 08, 2024",0.0
+10389,Karen Nair,Books,East,UPI,3.0,13.24,"July 29, 2023",15.0
+11701,Jennifer Martinez,home & kitchen,west,PayPal,4.0,33.48,"January 17, 2023",0.0
+10985,Neha Nair,beauty,South,Debit Card,1.0,32.64,"May 31, 2024",0.0
+10744,Barbara Miller,CLOTHING,WEST,Cash on Delivery,5.0,$45.96,"September 03, 2024",
+11515,Kavya Jones,Electronic , North,Debit Card,2.0,272.06,27/04/2023,0.0
+11221,Rahul Garcia,sports,East,Cash on Delivery,2.0,58.05,16/01/2023,20.0
+10742,James Jones,Toy's,SOUTH,PayPal,2.0,37.51,17/08/2024,10.0
+11761,Neha Nair,Toy's,South,,3.0,17.31,06-18-2023,0.0
+10452,Linda Patel,Cloth ing,NORTH,UPI,2.0,1689.9465946345429,09/08/2024,10.0
+10606,Rohan Singh,books,EAST,PayPal,2.0,$16.63,19/02/2023,20.0
+10892,Rohan Johnson,ELECTRONICS,West,Debit Card,5.0,$213.01,"February 20, 2024",
+10967,Arjun Sharma,Electronics,South,UPI,3.0,284.15,2023-10-21,0.0
+10898,Jessica Das, Beauty,East ,UPI,,18.03,2024-07-13,0.0
+11538,Michael Sharma,SPORTS,west,Cash on Delivery,3.0,32.32,"April 20, 2024",10.0
+11380,Michael Davis,SPORTS,north,Credit Card,4.0,62.39,"October 27, 2023",0.0
+10951,Robert Singh,Toys,east,UPI,1.0,55.5,08-25-2023,0.0
+11781,,,NORTH,Debit Card,4.0,$33.22,"March 10, 2024",15.0
+11925,Karen Kumar,books,NORTH,Cash on Delivery,5.0,7.24,02-05-2024,20.0
+11102,Arjun Smith,CLOTHING,West,Credit Card,2.0,35.14,2023-03-09,
+11687,Jessica Jones,books,East ,Credit Card,1.0,13.03,12-21-2023,5.0
+11577,, Electronics,NORTH,Cash on Delivery,4.0,298.14,"May 30, 2024",10.0
+10025,William Iyer, Beauty,west,UPI,1.0,26.38,2024-09-19,15.0
+11382,Neha Singh,Cloth ing,WEST,Cash on Delivery,2.0,49.77,"December 06, 2024",
+11479,Charles Jones,toys,NORTH,PayPal,3.0,19.38,"December 08, 2023",0.0
+10479,Neha Iyer,books,WEST,UPI,3.0,20.83,29/10/2024,0.0
+11188,Thomas Sharma,HOME & KITCHEN,South,,5.0,67.27,11/02/2023,10.0
+10115,Aditya Reddy,sports,East,Cash on Delivery,4.0,37.55,2023-10-12,
+10024,John Rodriguez,Electronics,WEST,PayPal,4.0,129.44,03-28-2024,0.0
+10370,  Thomas Johnson  , Electronics,South,Cash on Delivery,5.0,286.54,12/07/2023,5.0
+11149,Michael Davis,books,west,UPI,1.0,30.36,28/08/2024,15.0
+11041,Rohan Davis,sports,west,Debit Card,3.0,52.67,24/08/2023,
+10649,Linda Miller, Beauty,East ,PayPal,5.0,31.48,2023-02-20,
+10453,Karen Das,CLOTHING,,PayPal,1.0,52.49,"October 01, 2024",20.0
+10096,Kavya Garcia,Books,North,Cash on Delivery,3.0,22.68,"February 24, 2024",10.0
+11346,Sarah Sharma,beauty, North,Credit Card,2.0,22.01,"December 17, 2023",20.0
+10992,  Rohan Brown  ,Books,West,UPI,1.0,18.07,27/12/2024,0.0
+11469,Jessica Smith,Home & Kitchen,East,Debit Card,1.0,52.54,06/04/2024,0.0
+10099,Vikram Sharma,BOOKS,East,UPI,3.0,13.0,"October 19, 2023",0.0
+11881,Richard Rodriguez,Home and Kitchen,west,Debit Card,1.0,71.33,17/10/2023,0.0
+11517,Ananya Reddy,Books,WEST,UPI,5.0,13.87,"December 25, 2024",10.0
+10804,  Aditya Davis  ,Toy's,WEST,Cash on Delivery,1.0,$35.69,"December 29, 2023",0.0
+10357,James Iyer,BOOKS,west,UPI,3.0,17.51,05-05-2024,0.0
+10858,Meera Kumar,Toys,west,Credit Card,3.0,28.42,07-05-2023,15.0
+10594,Karen Patel,SPORTS,South,Cash on Delivery,1.0,69.29,09/03/2024,0.0
+11644,Rohan Iyer,TOYS,EAST,Cash on Delivery,5.0,$34.33,2023-12-28,0.0
+11990,,Cloth ing,west,PayPal,2.0,54.14,25/06/2024,5.0
+11028,Vikram Kumar,BOOKS,North,UPI,1.0,19.35,02-17-2024,15.0
+10587,Elizabeth Rao,Home & Kitchen,north,UPI,3.0,27.8,02/10/2024,20.0
+11897,Linda Singh,Home & Kitchen,SOUTH,Debit Card,4.0,65.92,"May 13, 2023",
+11738,Linda Singh,Clothing,South,PayPal,1.0,29.73,11/08/2024,0.0
+10795,William Jones,Books,EAST,Cash on Delivery,4.0,15.6,10/06/2024,0.0
+10270,Barbara Martinez,Electronic ,East ,Credit Card,3.0,348.21,05-18-2024,5.0
+10118,David Davis,books,West,Credit Card,1.0,14.71,09/06/2024,20.0
+10117,Vikram Patel,Sports,west,PayPal,3.0,,2024-05-14,15.0
+11109,Michael Brown,toys,SOUTH,UPI,3.0,26.38,2023-08-20,10.0
+11938,James Rodriguez,beauty,WEST,Cash on Delivery,3.0,25.3,18/06/2024,20.0
+11576,John Miller,Home & Kitchen,east,Credit Card,4.0,63.79,2024-10-24,15.0
+10699,Jessica Singh,HOME & KITCHEN,EAST,UPI,4.0,79.77,2023-05-26,0.0
+11016,Jessica Das,beauty,EAST,UPI,4.0,23.05,"January 25, 2023",
+11431,Jennifer Gupta, Electronics,EAST,Debit Card,1.0,183.94,14/12/2023,0.0
+11940,Elizabeth Miller,Home & Kitchen,NORTH,,3.0,68.43,15/07/2023,20.0
+10164,James Martinez,HOME & KITCHEN,west,UPI,4.0,54.18,2024-10-21,0.0
+10603,Neha Nair,toys,NORTH,,3.0,23.66,01-01-2023,20.0
+11509,David Smith,Sports,South,Debit Card,1.0,63.79,"July 24, 2023",0.0
+11825,Ananya Sharma,Cloth ing,East,UPI,3.0,$52.18,09-27-2023,
+10465,Jennifer Rao, Electronics,West,UPI,5.0,396.73,08-17-2023,0.0
+11172,Jessica Patel,Electronics,WEST,Debit Card,2.0,234.2,"December 06, 2024",10.0
+11199,Susan Jones,Toys,,Credit Card,4.0,29.65,28/09/2024,0.0
+10142,Kavya Gupta,Electronics,West,UPI,5.0,243.47,04-30-2023,15.0
+10666,Barbara Johnson,SPORTS,East ,UPI,2.0,58.18,"September 12, 2023",0.0
+10113,Mary Williams,,,PayPal,4.0,20.86,2023-09-21,5.0
+11087,,sports,west,Debit Card,1.0,7.93,"December 19, 2024",0.0
+11937,  Charles Brown  ,SPORTS,north,UPI,1.0,57.03,"April 25, 2023",20.0
+10378,Jessica Davis,Toys, North,PayPal,4.0,37.05,07-04-2024,20.0
+10063,Robert Garcia,beauty,WEST,Cash on Delivery,5.0,19.22,"July 11, 2024",20.0
+11169,Charles Rao,Toy's,EAST,UPI,2.0,25.2,"February 20, 2023",5.0
+10651,Linda Sharma,toys, North,Debit Card,2.0,20.13,09/02/2024,
+10186,Elizabeth Reddy,sports,East,Debit Card,2.0,64.03,03-02-2024,
+10704,Rahul Patel,toys,West,UPI,2.0,,"April 07, 2024",20.0
+10294,Thomas Patel,clothing,east,PayPal,1.0,40.52,2024-12-22,0.0
+10056,Michael Martinez,books,EAST,PayPal,5.0,11.77,2023-07-01,
+10315,  Aditya Jones  ,CLOTHING,NORTH,UPI,5.0,35.66,19/06/2023,0.0
+10130,David Rao,sports,SOUTH,,5.0,68.5,06-02-2024,0.0
+11288,Thomas Patel,Books,East ,,5.0,17.39,2024-08-12,10.0
+10189,,Electronic ,north,Cash on Delivery,5.0,386.15,08/06/2023,15.0
+10027,Ananya Nair,Electronic ,WEST,PayPal,1.0,196.42,2024-02-02,0.0
+10525,Thomas Smith,BOOKS,South,UPI,2.0,16.97,08-29-2024,10.0
+10936,Mary Nair,Toys, North,Credit Card,4.0,24.92,"April 16, 2024",5.0
+10762,Aditya Jones,Sports,east,,5.0,35.94,2023-04-16,15.0
+11870,Robert Martinez,books, North,Debit Card,1.0,15.8,2024-08-17,0.0
+11799,Rahul Nair,SPORTS,south,PayPal,4.0,57.74,02-05-2024,0.0
+11636,Priya Smith,SPORTS,west,PayPal,4.0,59.21,11-09-2023,
+10754,Rahul Williams,sports,East ,Credit Card,1.0,44.18,"January 21, 2024",0.0
+11591,Neha Nair,beauty,WEST,PayPal,,27.2,01/06/2023,15.0
+11186,Karen Smith,Toy's,North,UPI,2.0,24.59,2024-07-07,0.0
+10266,Michael Patel,SPORTS, North,,3.0,47.6,"September 28, 2024",0.0
+10899,Barbara Rodriguez,Sports, North,Debit Card,1.0,$56.19,"May 30, 2024",
+11798,Rahul Kumar,,South,PayPal,2.0,95.07,2023-03-06,
+10075,  Ananya Garcia  ,Beauty,South,Credit Card,5.0,$22.60,2024-06-17,5.0
+11459,Karen Rao,beauty,South,Cash on Delivery,2.0,18.85,2023-07-26,0.0
+11405,,Home & Kitchen,West,Debit Card,,43.02,"November 08, 2023",5.0
+10856,Barbara Sharma,Electronics,South,Cash on Delivery,4.0,309.04,05/06/2023,0.0
+11278,James Rodriguez,clothing,west,Credit Card,5.0,28.78,19/05/2024,
+10845,Charles Martinez,Beauty,NORTH,Credit Card,5.0,29.58,2024-06-18,5.0
+10769,Rahul Brown,Sports,East,PayPal,3.0,70.89,01/05/2023,5.0
+11622,  Ananya Rao  ,SPORTS,North,UPI,4.0,$73.10,"December 13, 2024",
+11331,Rohan Nair,electronics,south,Credit Card,5.0,101.44,"May 27, 2024",0.0
+11233,Kavya Sharma,books,South,Debit Card,1.0,15.29,2023-07-28,0.0
+10868,Charles Williams,CLOTHING,South,Cash on Delivery,1.0,65.37,08-09-2024,0.0
+10180,John Patel, Electronics,West,Credit Card,3.0,152.76,"November 17, 2024",5.0
+11319,Meera Rodriguez,Home & Kitchen,east,Cash on Delivery,4.0,87.04,04-05-2023,0.0
+10672,Jessica Smith,Sports,South,UPI,5.0,54.03,2023-09-13,
+11511,Vikram Patel,Beauty,North,UPI,5.0,$13.53,24/12/2023,0.0
+10376,Joseph Brown,books,SOUTH,UPI,3.0,$14.87,2023-12-08,20.0
+10669,Michael Davis,Toy's,SOUTH,UPI,2.0,33.7,30/09/2024,10.0
+10023,Rahul Martinez,ELECTRONICS,NORTH,UPI,2.0,285.52,05-31-2023,0.0
+10346,Robert Garcia,Sports,East ,Credit Card,4.0,29.36,"October 01, 2023",5.0
+11666,Mary Singh,Beauty,WEST,UPI,4.0,,11-24-2023,0.0
+11504,Elizabeth Nair,BOOKS,SOUTH,Credit Card,2.0,$5.37,05-16-2023,15.0
+11746,Michael Rodriguez,HOME & KITCHEN,North,Credit Card,1.0,56.05,02/09/2023,5.0
+10008,Thomas Davis,ELECTRONICS,EAST,Credit Card,3.0,109.32,"May 13, 2024",0.0
+10228,  William Das  ,SPORTS,North,Debit Card,1.0,52.98,30/11/2024,15.0
+10489,Linda Williams,Cloth ing,north,Debit Card,4.0,32.27,26/12/2024,
+10213,Patricia Smith,BEAUTY,south,Cash on Delivery,5.0,34.2,"October 15, 2024",0.0
+11601,Aditya Gupta,books,,Credit Card,2.0,,01/05/2023,5.0
+10578,Priya Nair,Toy's, North,,5.0,25.04,"September 29, 2024",5.0
+10449,Michael Brown,Electronics,NORTH,UPI,2.0,223.38,2023-03-05,15.0
+10757,Robert Garcia,SPORTS,south,Credit Card,3.0,67.61,02-01-2024,0.0
+10015,Rahul Smith,Books,West,PayPal,1.0,16.48,"August 19, 2023",15.0
+11914,Mary Miller,CLOTHING,South,,1.0,54.19,12-20-2023,15.0
+11806,Patricia Reddy,Sports,SOUTH,Debit Card,2.0,58.58,22/03/2024,0.0
+11531,Joseph Gupta,Clothing,WEST,PayPal,1.0,40.25,"September 05, 2024",5.0
+11633,Charles Davis,electronics,NORTH,,1.0,298.39,2023-08-18,
+11189,Aditya Sharma,Beauty,East,UPI,5.0,24.13,2023-01-24,0.0
+11626,Charles Jones,HOME & KITCHEN,North,UPI,2.0,62.87,18/07/2024,5.0
+10546,Elizabeth Sharma,home & kitchen,west,PayPal,3.0,46.49,2024-10-27,0.0
+11177,Meera Kumar,home & kitchen,North,UPI,2.0,46.72,"January 24, 2024",0.0
+10630,Sarah Sharma,Electronics,North,Cash on Delivery,2.0,374.72,2023-02-01,
+10354,Linda Rodriguez,SPORTS,East,UPI,4.0,57.85,"August 24, 2024",0.0
+11317,Linda Johnson,BOOKS,North,Credit Card,2.0,14.13,"July 29, 2024",10.0
+10207,James Garcia,Beauty,EAST,UPI,1.0,34.03,09/10/2024,10.0
+10935,Arjun Gupta,sports,EAST,Debit Card,2.0,101.6,"December 05, 2023",15.0
+10755,,sports,East,Credit Card,4.0,41.61,2024-11-05,5.0
+11098,Arjun Smith,Sports,NORTH,Cash on Delivery,2.0,$58.66,02-23-2024,20.0
+10416,John Kumar,HOME & KITCHEN,south,UPI,5.0,,2023-08-27,
+11448,Sarah Singh,Books,SOUTH,PayPal,,12.54,2023-03-27,0.0
+11081,, Electronics,South,,1.0,298.92,2024-01-01,20.0
+11821,Arjun Gupta,CLOTHING,west,Debit Card,,52.06,2023-01-24,0.0
+10716,Meera Patel,TOYS,NORTH,Credit Card,2.0,33.11,04-08-2024,10.0
+10442,Neha Williams,Home and Kitchen,WEST,Cash on Delivery,3.0,70.84,2023-12-31,10.0
+11116,Barbara Gupta,BOOKS,South,Credit Card,2.0,22.43,24/11/2023,
+11280,Meera Sharma,Home & Kitchen,south,Credit Card,5.0,$68.14,08-03-2023,0.0
+10536,Richard Singh,,WEST,UPI,4.0,52.31,2023-12-03,0.0
+10348,Elizabeth Williams,Beauty,EAST,Credit Card,1.0,13.56,02/02/2024,5.0
+10674,Michael Rodriguez,Cloth ing,South,PayPal,5.0,38.09,28/06/2024,
+10403,Meera Rodriguez,clothing,east,UPI,4.0,35.57,"February 12, 2023",
+10362,Charles Garcia,clothing,south,Debit Card,1.0,$20.82,01/10/2023,15.0
+10026,Mary Williams,HOME & KITCHEN,West,Credit Card,5.0,65.28,"December 04, 2023",5.0
+11308,Thomas Iyer,Electronics,East ,Credit Card,2.0,219.64,03-22-2024,0.0
+11192,Jennifer Patel,beauty,WEST,Credit Card,1.0,33.94,2024-09-29,0.0
+10177,Mary Williams,Clothing,East,Credit Card,1.0,44.54,28/01/2023,5.0
+11961,Priya Davis,Toy's,west,UPI,5.0,30.37,2024-07-01,0.0
+11429,Michael Rodriguez,Sports,West,Credit Card,1.0,$47.61,11-04-2024,15.0
+11923,Kavya Brown,Sports,NORTH,Debit Card,4.0,26.98,2023-03-01,0.0
+11225,Aditya Martinez,Beauty,WEST,Cash on Delivery,3.0,7.56,"April 30, 2023",0.0
+10252,,Home & Kitchen,NORTH,UPI,5.0,42.14,17/03/2023,0.0
+10414,Kavya Rodriguez,clothing,NORTH,Cash on Delivery,1.0,48.49,01/08/2023,0.0
+10558,Barbara Brown,electronics,west,Cash on Delivery,2.0,203.23,18/04/2023,20.0
+10553,Michael Iyer,toys,West,Credit Card,1.0,39.54,"May 04, 2024",0.0
+10193,Ananya Davis,Toy's,south,UPI,2.0,27.27,03/01/2023,10.0
+11157,Aditya Sharma,Cloth ing,East,UPI,1.0,47.92,09-29-2024,20.0
+11305,John Garcia,books,East ,PayPal,3.0,17.0,04/03/2024,20.0
+11048,Thomas Das,,WEST,Debit Card,1.0,14.94,2024-06-11,0.0
+10445,Kavya Rao,CLOTHING,east,,1.0,47.56,03-09-2023,10.0
+11187,Thomas Jones,sports,South,Debit Card,5.0,63.97,2023-08-05,15.0
+11344,Aditya Patel,SPORTS,East,Credit Card,5.0,49.82,01/08/2023,10.0
+11011,  James Rao  ,Toys, North,Credit Card,5.0,29.59,16/06/2024,5.0
+11480,Kavya Martinez,Toy's,WEST,Credit Card,5.0,27.45,2024-03-09,10.0
+10451,Jennifer Williams,books,west,Cash on Delivery,4.0,17.13,08-10-2023,10.0
+11967,Ananya Singh,toys,north,PayPal,5.0,53.27,08-27-2024,20.0
+10464,Michael Williams,sports,WEST,UPI,3.0,67.32,03-19-2024,
+10702,Rohan Nair, Beauty,West,UPI,3.0,,18/12/2024,20.0
+10458,Linda Martinez,Home and Kitchen, North,Credit Card,,29.36,04-20-2023,5.0
+11391,Ananya Iyer,clothing, North,Cash on Delivery,5.0,39.61,"June 14, 2024",10.0
+10961,Michael Brown,Home and Kitchen,South,UPI,1.0,33.6,"October 18, 2024",0.0
+10838,Robert Garcia,Toy's,south,Credit Card,1.0,52.79,2024-12-01,5.0
+11723,Sarah Nair,Cloth ing,North,Debit Card,1.0,41.52,"February 14, 2023",0.0
+10369,Karen Das,Toys,NORTH,Debit Card,2.0,15.57,2024-11-15,5.0
+10484,John Williams,books,SOUTH,Credit Card,3.0,9.09,01/06/2023,20.0
+10903,Charles Smith,ELECTRONICS,East ,Debit Card,3.0,$153.21,2024-07-14,20.0
+11602,Charles Sharma,Electronics,North,Debit Card,1.0,292.46,06/08/2023,5.0
+10307,Arjun Garcia,Electronic ,East,PayPal,309.0,392.57,10-06-2023,0.0
+10285,Susan Rao,BOOKS,south,PayPal,1.0,13.3,03-24-2023,
+10637,  Elizabeth Kumar  ,Clothing,east,Debit Card,5.0,37.44,2023-06-01,
+11368,Joseph Miller,sports,north,UPI,3.0,46.31,2024-01-15,0.0
+11575,Patricia Rao,Books,east,,1.0,7.94,2024-01-18,0.0
+10715,Linda Sharma,Clothing,WEST,Cash on Delivery,2.0,18.39,"August 01, 2024",0.0
+11269,Karen Kumar,electronics, North,Cash on Delivery,1.0,209.34,10-10-2024,0.0
+10758,Ananya Brown, Beauty, North,,2.0,,19/10/2024,15.0
+11008,Richard Gupta,Home and Kitchen,west,Cash on Delivery,3.0,86.51,03-16-2024,
+10643,  Michael Rodriguez  ,books,WEST,Debit Card,4.0,5.91,"December 02, 2023",0.0
+11171,Rohan Iyer,,West,UPI,2.0,72.89,2024-04-08,0.0
+10972,John Iyer,Books,SOUTH,UPI,5.0,11.08,"April 07, 2023",5.0
+10981,Michael Smith,CLOTHING,WEST,Cash on Delivery,3.0,73.33,06/02/2023,5.0
+10731,Richard Jones,sports,SOUTH,Credit Card,4.0,$74.45,2023-03-25,10.0
+10658,Arjun Davis,Beauty,south,Cash on Delivery,3.0,$37.33,23/09/2023,0.0
+11396,Ananya Martinez,Sports,east,UPI,3.0,22.27,02/10/2024,15.0
+10097,Patricia Johnson,home & kitchen,East,PayPal,1.0,59.42,2023-09-11,
+11543,Neha Nair, Electronics,west,Debit Card,5.0,220.5,09-29-2024,10.0
+11178,Linda Gupta,Sports,West,UPI,2.0,42.75,2024-10-25,5.0
+10829,Neha Smith,toys,West,Debit Card,1.0,23.82,02-21-2023,5.0
+10139,Karen Brown,SPORTS,South,Cash on Delivery,1.0,66.26,11/12/2024,0.0
+11347,  James Das  ,Books,west,UPI,5.0,12.99,09-12-2024,0.0
+11038,William Johnson,sports,,Debit Card,5.0,40.46,16/12/2024,0.0
+11718,Vikram Das,,East ,,5.0,23.55,09-24-2024,
+11436,Patricia Singh,HOME & KITCHEN,west,Credit Card,3.0,75.86,28/07/2024,20.0
+11489,Priya Jones,Books,east,UPI,4.0,14.5,"October 12, 2023",20.0
+11353,Linda Williams,TOYS, North,Credit Card,1.0,42.05,06-16-2023,20.0
+11196,William Rao,TOYS,SOUTH,UPI,4.0,37.86,"November 24, 2024",0.0
+11979,Robert Brown,BOOKS,west,Cash on Delivery,2.0,18.27,07/02/2023,20.0
+10128,Jessica Rao, Beauty,EAST,Cash on Delivery,4.0,24.44,2023-11-14,0.0
+11823,Richard Davis,Beauty,South,UPI,3.0,37.31,2023-09-25,0.0
+11860,Jessica Miller,Toy's,NORTH,UPI,4.0,37.76,"June 27, 2024",0.0
+10788,Linda Patel,CLOTHING,North,Cash on Delivery,3.0,17.3,"January 16, 2023",0.0
+11377,Michael Jones,BOOKS,East ,UPI,,16.13,"September 06, 2023",5.0
+10522,  Elizabeth Williams  ,Beauty,South,Cash on Delivery,4.0,24.59,05-27-2023,20.0
+10264,Arjun Johnson,books,SOUTH,Credit Card,1.0,16.19,"August 15, 2024",20.0
+11674,Barbara Martinez,HOME & KITCHEN,West,UPI,5.0,44.26,03-13-2024,0.0
+10947,Sarah Johnson,Home & Kitchen,West,UPI,3.0,73.59,2024-02-17,15.0
+11611,  James Gupta  ,home & kitchen,west,PayPal,4.0,$79.95,17/01/2024,10.0
+10663,William Johnson,clothing,east,UPI,4.0,50.88,06-26-2023,0.0
+10631,Vikram Johnson,beauty,West,UPI,2.0,26.58,08-05-2024,0.0
+10498,,BOOKS, North,Debit Card,2.0,$17.88,15/06/2024,0.0
+11667,Elizabeth Rodriguez,CLOTHING,north,PayPal,2.0,51.19,07/05/2023,0.0
+11343,Robert Martinez,HOME & KITCHEN,west,Credit Card,2.0,76.57,10-18-2024,0.0
+11681,Susan Singh,BEAUTY,West,UPI,3.0,19.6,14/12/2024,0.0
+11960,Rohan Gupta,Books,North,Credit Card,4.0,$16.72,2023-09-24,0.0
+10432,Thomas Williams,Sports,WEST,UPI,2.0,67.39,05-14-2024,10.0
+11173,Mary Davis,toys,WEST,PayPal,4.0,20.24,"January 26, 2023",0.0
+11408,Robert Patel,Home and Kitchen,SOUTH,UPI,4.0,56.49,"April 16, 2024",0.0
+10068,Barbara Smith,clothing,West,PayPal,3.0,3.0,"November 02, 2023",0.0
+10953,Robert Brown,HOME & KITCHEN,East ,Cash on Delivery,5.0,60.64,16/09/2024,0.0
+10688,Kavya Sharma,Home & Kitchen,west,UPI,1.0,42.55,2024-03-21,0.0
+11660,Aditya Williams,home & kitchen,south,PayPal,4.0,39.32,"March 08, 2023",0.0
+10848,Mary Rao,Cloth ing,north,Credit Card,5.0,49.58,12-25-2023,
+10573,Mary Nair,BEAUTY,north,Cash on Delivery,4.0,25.77,"September 06, 2023",10.0
+10334,Ananya Kumar,Sports,EAST,,1.0,$29.58,2024-10-31,0.0
+10338,Arjun Reddy,Electronics,south,Cash on Delivery,1.0,303.01,2023-12-09,5.0
+11124,Vikram Martinez,TOYS, North,Debit Card,3.0,25.02,"June 23, 2024",0.0
+10664,  John Rao  ,books,NORTH,PayPal,3.0,10.21,2023-07-29,15.0
+10383,Robert Iyer,TOYS,West,UPI,4.0,33.79,2023-09-02,20.0
+10367,Richard Martinez,Electronic ,North,PayPal,3.0,,"October 14, 2024",0.0
+10055,Charles Davis,Sports,North,UPI,5.0,59.02,2024-02-26,0.0
+11896,Aditya Brown,CLOTHING,south,PayPal,3.0,32.91,02-10-2024,15.0
+10810,David Nair,Books,east,Credit Card,3.0,$22.49,29/07/2023,5.0
+10720,Aditya Miller,Clothing,East ,Cash on Delivery,3.0,11.54,01-10-2024,0.0
+11555,Aditya Johnson, Beauty,EAST,,3.0,26.43,2024-06-09,15.0
+10737,Robert Singh,SPORTS,SOUTH,UPI,1.0,89.01,2024-05-09,10.0
+11704,Kavya Jones,BOOKS,EAST,Cash on Delivery,1.0,17.35,01-17-2024,10.0
+10170,Jennifer Reddy,SPORTS,east,Cash on Delivery,4.0,45.71,2024-08-16,0.0
+10173,Charles Rodriguez, Beauty,west,Cash on Delivery,2.0,29.85,11-19-2024,0.0
+10976,,home & kitchen,South,Cash on Delivery,2.0,112.05,2024-01-22,0.0
+10326,David Davis,Books,East,Credit Card,3.0,20.76,2023-02-17,0.0
+10503,David Miller,Home & Kitchen,south,UPI,3.0,$53.71,08/06/2023,0.0
+11020,William Nair,clothing,South,UPI,1.0,22.83,2024-05-05,0.0
+10409,Meera Kumar,Toy's,west,Cash on Delivery,3.0,11.68,"November 28, 2024",0.0
+10915,Linda Jones, Electronics,North,PayPal,1.0,161.39,03-18-2024,0.0
+10297,Rahul Martinez,SPORTS,north,,1.0,$94.00,"December 04, 2024",0.0
+10901,Karen Gupta,Electronics,North,Cash on Delivery,5.0,253.15,01-03-2024,15.0
+11025,Rohan Williams,HOME & KITCHEN,EAST,Cash on Delivery,3.0,70.09,06-22-2023,15.0
+11822,Rahul Smith,Beauty,West,Debit Card,5.0,29.12,"February 05, 2024",20.0
+10857,Meera Johnson,books,west,PayPal,3.0,14.05,"November 27, 2024",5.0
+10728,Karen Gupta,SPORTS,South,PayPal,5.0,43.28,"September 16, 2023",10.0
+10957,Linda Reddy, Electronics,EAST,Debit Card,5.0,186.86,19/07/2024,0.0
+10671,Neha Nair,books,West,UPI,5.0,10.55,24/10/2024,20.0
+10648,Jennifer Kumar, Beauty,west,Debit Card,5.0,11.05,08-26-2023,
+11728,Sarah Sharma,HOME & KITCHEN,east,PayPal,5.0,$66.99,"October 08, 2024",0.0
+11706,Joseph Patel,Beauty,south,Credit Card,3.0,24.72,"March 23, 2024",0.0
+11562,David Kumar,books,south,Credit Card,2.0,19.41,26/12/2023,20.0
+11995,Linda Martinez, Electronics,South,UPI,2.0,113.0,"April 01, 2024",20.0
+11772,Priya Rodriguez,, North,PayPal,2.0,39.13,2024-04-07,15.0
+10734,Priya Martinez,electronics,East ,Credit Card,1.0,167.77,"May 09, 2023",15.0
+10531,Aditya Johnson,Clothing,WEST,UPI,4.0,25.18,08/02/2023,5.0
+10407,Sarah Johnson,Beauty,north,PayPal,5.0,19.35,10/10/2024,0.0
+10199,Patricia Miller,sports,South,UPI,4.0,76.69,"March 25, 2023",10.0
+10473,Rahul Reddy,Books,NORTH,,2.0,$5.46,26/08/2023,
+11232,Jennifer Williams,Toys,WEST,PayPal,2.0,35.67,30/07/2024,10.0
+11170,Sarah Das,home & kitchen,south,PayPal,5.0,60.4,"December 11, 2024",0.0
+10748,Thomas Jones,Sports,east,Credit Card,2.0,40.39,2023-06-20,0.0
+10765,Kavya Garcia,home & kitchen,north,Debit Card,4.0,9.02,2024-03-21,20.0
+10216,Susan Garcia,TOYS,SOUTH,UPI,2.0,43.29,10-31-2024,15.0
+10253,James Reddy,SPORTS,West,PayPal,1.0,61.37,"July 02, 2023",
+10152,Sarah Brown,BEAUTY,West,UPI,4.0,29.18,2024-04-28,
+11558,Elizabeth Gupta,HOME & KITCHEN,,PayPal,3.0,56.2,06/09/2023,20.0
+11571,Meera Iyer,Sports,North,,3.0,75.2,10/03/2023,10.0
+10948,Susan Martinez,BEAUTY,North,PayPal,-1.0,32.25,10-20-2023,
+11271,Meera Martinez,BEAUTY,SOUTH,Debit Card,1.0,25.97,15/07/2023,10.0
+11789,Joseph Iyer,home & kitchen,WEST,PayPal,4.0,74.31,"August 15, 2023",20.0
+11926,Rahul Nair,BOOKS,south,Cash on Delivery,2.0,13.56,02/08/2023,0.0
+10735,  Jennifer Johnson  ,sports,east,Debit Card,5.0,73.06,2023-11-10,20.0
+11635,Thomas Kumar,BEAUTY,West,Debit Card,5.0,30.26,2024-06-09,0.0
+11834,Elizabeth Miller,SPORTS,WEST,UPI,1.0,59.65,2023-10-13,10.0
+10530,David Patel,clothing,East,Debit Card,4.0,44.41,28/02/2024,0.0
+11156,Neha Jones,Books,West,PayPal,4.0,21.72,08-23-2024,0.0
+11268,Sarah Das,Beauty,East ,Cash on Delivery,1.0,24.39,"December 14, 2023",0.0
+10240,Rahul Miller,Beauty,West,Debit Card,5.0,22.59,2023-05-02,10.0
+11138,Michael Patel,SPORTS,north,Cash on Delivery,5.0,59.42,2024-04-23,0.0
+11513,Thomas Miller,books,east,Debit Card,3.0,$16.72,05/11/2024,10.0
+10187,Susan Brown,Electronics,West,PayPal,3.0,181.21,12-11-2023,20.0
+10246,,toys,east,Debit Card,5.0,43.9,01-28-2024,0.0
+11953,James Davis,Cloth ing,SOUTH,,3.0,,2023-04-13,15.0
+11409,Richard Johnson,clothing,NORTH,UPI,2.0,$31.29,07-08-2023,0.0
+11729,Karen Brown,Sports, North,Cash on Delivery,4.0,41.61,"January 02, 2023",15.0
+10730,Jessica Rodriguez,SPORTS,east,Debit Card,1.0,51.49,2024-08-27,0.0
+10692,Richard Johnson,Books, North,PayPal,4.0,7.33,2024-11-14,10.0
+10302,  Patricia Reddy  ,Beauty,SOUTH,UPI,1.0,,09-30-2024,5.0
+10283,Neha Johnson,books,south,,3.0,12.68,10-07-2024,
+11966,Meera Nair,Books,WEST,UPI,5.0,7.95,"May 14, 2024",0.0
+10505,Richard Jones,beauty,south,Debit Card,3.0,17.62,01-17-2024,
+11955,Sarah Jones,Electronics,NORTH,Debit Card,4.0,180.59,15/06/2023,0.0
+10321,Rohan Rao,SPORTS, North,PayPal,5.0,72.5,2023-06-13,10.0
+11494,Priya Rodriguez,BOOKS,West,Debit Card,4.0,18.56,2024-09-15,20.0
+11276,James Iyer,Clothing,SOUTH,PayPal,4.0,52.48,2023-11-12,0.0
+11854,Jessica Rao,Toy's,West,UPI,4.0,12.34,2024-07-20,0.0
+10621,Elizabeth Johnson,Toys,NORTH,Debit Card,3.0,23.16,29/02/2024,20.0
+11127,  Linda Smith  ,Cloth ing,north,PayPal,4.0,25.88,2024-11-12,5.0
+11056,Vikram Brown,BOOKS,north,Credit Card,5.0,14.82,26/09/2024,5.0
+10122,Rahul Singh,sports, North,PayPal,1.0,100.55,04-20-2024,0.0
+10840,David Gupta,home & kitchen,East ,Cash on Delivery,3.0,43.96,01-14-2024,0.0
+10510,Priya Johnson, Electronics,East ,Credit Card,4.0,153.01,"September 13, 2023",0.0
+10280,Aditya Gupta,TOYS,east,Credit Card,3.0,25.6,05/09/2023,5.0
+11684,Ananya Rodriguez,Electronics,east,PayPal,5.0,288.35,08-24-2023,20.0
+11260,Linda Kumar,toys,South,Cash on Delivery,1.0,19.64,2024-10-01,0.0
+11670,Linda Das,Beauty,East ,UPI,,$35.91,2024-08-24,
+11309,Richard Das,beauty,EAST,UPI,,33.5,11-24-2023,20.0
+11046,Barbara Rao,Electronics,South,UPI,1.0,203.36,03-31-2024,20.0
+11527,Arjun Brown,TOYS,East ,PayPal,5.0,$16.17,12/10/2023,20.0
+10756,John Martinez,books,WEST,Credit Card,5.0,11.92,09-13-2024,0.0
+10677,,CLOTHING, North,Debit Card,4.0,34.08,29/02/2024,5.0
+10518,Mary Nair,sports,East,UPI,1.0,56.65,"June 13, 2023",15.0
+11805,Patricia Gupta,BEAUTY,west,PayPal,1.0,34.09,"April 02, 2024",10.0
+11528,,Books,south,PayPal,2.0,12.98,12-17-2024,5.0
+10067,Richard Kumar,Toy's,north,Credit Card,1.0,30.42,02-20-2023,0.0
+10332,Priya Johnson,beauty, North,UPI,2.0,25.23,10-18-2024,0.0
+10568,David Singh,Books,West,Credit Card,3.0,19.75,05-10-2024,
+10882,Rohan Das,Beauty,South,Credit Card,5.0,26.26,"September 23, 2023",10.0
+11999,David Kumar,Clothing,,Credit Card,3.0,30.73,11/05/2023,5.0
+11449,Rohan Patel,sports,east,Cash on Delivery,4.0,32.73,2024-06-11,20.0
+11117,Mary Rao,beauty,,UPI,5.0,24.86,02/10/2024,0.0
+10472,Jessica Johnson,home & kitchen,north,Credit Card,1.0,19.71,"December 01, 2024",15.0
+11592,Vikram Davis,books,west,Cash on Delivery,1.0,15.18,11-05-2023,20.0
+10511,Vikram Rodriguez,Toys,south,PayPal,1.0,35.15,08/05/2024,5.0
+10477,Vikram Davis,BOOKS,East ,Debit Card,1.0,10.98,"April 25, 2024",15.0
+11796,Priya Sharma,HOME & KITCHEN,north,Debit Card,1.0,61.65,05-29-2024,20.0
+11417,Susan Johnson,Electronic ,east,Debit Card,5.0,328.92,2024-07-07,10.0
+10318,Barbara Sharma,Home and Kitchen,SOUTH,Credit Card,4.0,56.97,16/06/2024,5.0
+10975,Barbara Smith,clothing,South,PayPal,4.0,20.62,2023-02-11,5.0
+11741,William Kumar,BOOKS,west,PayPal,4.0,$13.82,2024-02-27,5.0
+11866,William Brown,toys,NORTH,Cash on Delivery,3.0,41.97,30/08/2023,5.0
+10581,Arjun Rao,ELECTRONICS,east,Debit Card,3.0,181.2,2024-04-10,5.0
+10132,Priya Patel,BEAUTY,NORTH,Credit Card,2.0,26.67,07-02-2023,
+11747,Robert Johnson,Toy's,SOUTH,Credit Card,5.0,32.11,2023-05-08,0.0
+10863,Aditya Martinez,home & kitchen,EAST,Credit Card,5.0,32.89,2024-09-19,0.0
+11433,Patricia Rao,Clothing,SOUTH,Cash on Delivery,4.0,$14.81,10-17-2023,0.0
+11238,James Martinez,HOME & KITCHEN,south,Debit Card,5.0,67.85,"April 03, 2023",10.0
+11976,Elizabeth Iyer,Toy's,WEST,PayPal,1.0,26.3,02-05-2023,0.0
+10368,Robert Williams,Home & Kitchen,NORTH,PayPal,5.0,35.81,2024-08-28,0.0
+10732,Meera Rodriguez,Toys,WEST,PayPal,5.0,$28.51,13/08/2023,10.0
+11379,Rohan Rodriguez,home & kitchen,NORTH,Credit Card,2.0,43.34,09-05-2023,0.0
+10125,  Richard Sharma  ,beauty,East,Debit Card,1.0,26.0,21/05/2024,0.0
+10442,Neha Williams,Home and Kitchen,WEST,Cash on Delivery,3.0,70.84,12-31-2023,10.0
+11201,Kavya Gupta,ELECTRONICS,WEST,Debit Card,4.0,278.01,"August 03, 2023",20.0
+10256,Ananya Rao,sports,EAST,Debit Card,5.0,57.32,07-16-2024,0.0
+11993,Karen Kumar,Toy's,SOUTH,Credit Card,4.0,45.36,11-08-2024,0.0
+11125,Aditya Iyer,BOOKS,East,UPI,2.0,11.76,"June 14, 2024",10.0
+10289,Thomas Nair,toys, North,PayPal,5.0,22.22,03-03-2023,
+11298,Arjun Garcia,Beauty,North,Debit Card,3.0,23.41,01-30-2024,0.0
+10777,Linda Rodriguez,BOOKS,EAST,Debit Card,1.0,9.7,10/05/2023,20.0
+10081,Karen Brown,beauty,NORTH,Credit Card,1.0,14.33,08/06/2024,10.0
+10053,Robert Sharma,CLOTHING,south,UPI,2.0,25.43,2023-05-13,0.0
+10927,Vikram Williams,ELECTRONICS,North,Cash on Delivery,1.0,243.69,09-26-2023,20.0
+11095,Richard Williams,Electronic ,WEST,,4.0,$192.82,2024-12-18,5.0
+10557,Neha Brown,Sports,West,Debit Card,3.0,,07-12-2024,20.0
+10040,Vikram Nair,SPORTS,North,Credit Card,3.0,90.02,"March 17, 2023",
+11241,Joseph Iyer,books,west,,2.0,14.06,26/05/2023,0.0
+10261,Arjun Sharma,Electronic ,East ,Cash on Delivery,2.0,193.96,11-02-2024,0.0
+11584,James Smith,BEAUTY,North,Cash on Delivery,1.0,23.79,2023-07-14,15.0
+10930,Neha Garcia,clothing,south,Cash on Delivery,3.0,61.27,14/03/2023,10.0
+10083,James Garcia,clothing,EAST,UPI,3.0,46.67,01-12-2024,15.0
+11699,Priya Kumar,BOOKS, North,PayPal,4.0,9.41,29/03/2024,10.0
+11229,Aditya Martinez,Clothing,East,,3.0,19.91,06-01-2023,15.0
+11573,Patricia Kumar,books,East,UPI,4.0,$10.15,"March 02, 2023",0.0
+10841,Charles Williams,toys,West,PayPal,5.0,36.47,07-05-2024,0.0
+10030,Arjun Iyer, Electronics,WEST,PayPal,1.0,233.24,06/02/2023,5.0
+10513,,home & kitchen,South,UPI,3.0,50.87,"July 06, 2023",0.0
+11015,Michael Martinez,home & kitchen,East,PayPal,2.0,53.23,11-09-2024,15.0
+11312,Michael Reddy,Books,NORTH,UPI,1.0,15.91,"January 28, 2023",0.0
+11697,Mary Gupta,Books,EAST,Credit Card,2.0,8.07,21/12/2023,
+11988,Michael Miller,Clothing,east,,,36.72,2023-09-03,20.0
+11236,Charles Brown,HOME & KITCHEN,EAST,UPI,3.0,82.7,2023-08-09,5.0
+11320,Ananya Rao,BEAUTY,,Debit Card,3.0,23.05,"June 30, 2023",0.0
+11826,William Nair,TOYS,North,UPI,2.0,29.47,02-02-2023,20.0
+11606,Kavya Kumar,Books,West,Cash on Delivery,1.0,15.81,2024-10-19,0.0
+11263,Robert Davis,books,East ,,5.0,17.44,11-25-2023,5.0
+11858,Karen Jones,Toys,south,Credit Card,3.0,23.87,2024-03-18,0.0
+11898,James Das,Clothing,WEST,Debit Card,5.0,40.29,06/03/2023,5.0
+10048,  Robert Nair  , Beauty,south,Credit Card,3.0,$37.59,11-19-2024,20.0
+11206,James Brown,Sports,WEST,Cash on Delivery,4.0,58.99,2024-04-28,0.0
+11989,Priya Gupta,Toy's,south,Credit Card,3.0,32.72,2023-09-16,0.0
+10467,Richard Johnson,Toy's,east,Cash on Delivery,4.0,$29.27,"October 04, 2024",
+10153,Vikram Reddy,electronics,south,Cash on Delivery,1.0,197.21,22/01/2023,5.0
+11589,Rahul Singh,BEAUTY,West,PayPal,2.0,28.64,04/07/2023,0.0
+11899,Richard Sharma,HOME & KITCHEN,South,Debit Card,3.0,54.83,"September 28, 2024",0.0
+10394,Thomas Iyer, Beauty,SOUTH,PayPal,4.0,14.97,29/02/2024,0.0
+10123,Vikram Sharma,HOME & KITCHEN,NORTH,UPI,4.0,56.12,01-06-2024,0.0
+10355,David Iyer,,east,UPI,4.0,52.03,10-05-2023,
+10134,,CLOTHING,EAST,UPI,3.0,43.07,"May 21, 2023",10.0
+10268,David Davis,beauty,south,Credit Card,3.0,17.69,01-16-2024,
+10385,Mary Brown,HOME & KITCHEN,WEST,,2.0,2567.3471865555207,27/09/2023,0.0
+10609,  Mary Iyer  ,Toys,south,Credit Card,3.0,14.93,"November 06, 2023",15.0
+10220,Susan Das,electronics,East,UPI,4.0,254.25,2024-10-14,20.0
+10041,Thomas Singh,toys,West,UPI,5.0,39.29,"February 16, 2023",0.0
+10219,Richard Johnson,HOME & KITCHEN,East,Debit Card,1.0,107.33,25/01/2023,5.0
+10597,Susan Iyer,ELECTRONICS,west,UPI,3.0,143.49,"July 02, 2023",20.0
+11273,  Joseph Martinez  ,Home & Kitchen,south,PayPal,4.0,61.57,08-16-2023,10.0
+11302,,Home & Kitchen,,PayPal,4.0,$54.63,11-03-2023,10.0
+10680,Priya Iyer,books,South,Cash on Delivery,3.0,14.5,09-01-2024,20.0
+11134,Joseph Williams,TOYS,west,Debit Card,5.0,20.78,25/12/2024,10.0
+11932,Linda Johnson,electronics,East,UPI,1.0,214.06,09/08/2023,10.0
+10875,Sarah Sharma,Toys,east,UPI,4.0,34.39,"November 30, 2024",10.0
+10541,Kavya Das,clothing, North,Cash on Delivery,1.0,10.15,"December 06, 2024",0.0
+11064,Aditya Martinez,Home and Kitchen, North,Credit Card,5.0,52.09,05-02-2023,0.0
+10869,William Williams,Cloth ing,south,PayPal,2.0,,2023-10-12,0.0
+11878,Aditya Sharma,ELECTRONICS,North,,3.0,291.44,06-08-2024,10.0
+11906,John Singh,Toys,west,UPI,4.0,28.79,09-06-2024,15.0
+11121,Ananya Sharma,Electronic ,WEST,Debit Card,2.0,$112.18,2024-10-13,5.0
+11587,David Das,TOYS,SOUTH,Credit Card,2.0,27.56,12-30-2024,20.0
+11307,Linda Miller, Beauty,East ,UPI,1.0,39.02,27/07/2023,5.0
+11146,Karen Kumar,sports,East ,Cash on Delivery,5.0,36.64,2023-06-18,0.0
+11106,Jessica Davis,Toys,EAST,UPI,2.0,27.76,05-04-2024,
+11598,Linda Sharma,Clothing,East ,UPI,2.0,10.17,08/09/2024,5.0
+11847,Arjun Gupta,Sports,West,Credit Card,2.0,59.34,01/09/2024,
+11810,Linda Patel,HOME & KITCHEN,west,Debit Card,1.0,60.9,01-10-2023,0.0
+11403,Joseph Singh,BOOKS,south,Cash on Delivery,2.0,12.67,21/01/2024,0.0
+11846,Thomas Brown,Toy's,EAST,Credit Card,2.0,44.99,10-24-2023,0.0
+11886,Elizabeth Sharma,SPORTS,SOUTH,UPI,5.0,58.9,20/08/2023,0.0
+11619,Priya Gupta,books,NORTH,Credit Card,-1.0,19.1,"November 14, 2024",5.0
+11376,Meera Reddy,ELECTRONICS,,PayPal,1.0,$112.01,2024-10-20,0.0
+10336,Joseph Brown,Clothing,SOUTH,Debit Card,5.0,21.22,02-12-2024,5.0
+10232,Thomas Kumar,BOOKS,South,UPI,1.0,10.73,"March 20, 2023",0.0
+11922,Charles Nair, Beauty,east,Debit Card,4.0,28.75,"December 18, 2023",0.0
+11942,Karen Sharma,TOYS,east,UPI,1.0,20.21,"October 08, 2024",0.0
+10158,Thomas Patel,toys,EAST,UPI,2.0,38.08,06-12-2023,0.0
+10468,Neha Patel,Books,WEST,Cash on Delivery,3.0,20.61,22/01/2024,20.0
+11340,Rahul Rao,ELECTRONICS,East ,Credit Card,4.0,363.23,04-22-2024,0.0
+10872,David Rodriguez, Beauty,north,Debit Card,5.0,19.09,27/03/2024,5.0
+11640,Joseph Iyer,Cloth ing,south,PayPal,5.0,51.06,10-07-2024,15.0
+11047,Jennifer Davis,Sports,West,UPI,1.0,68.73,"March 10, 2024",20.0
+11814,Robert Smith,home & kitchen,SOUTH,Cash on Delivery,1.0,27.8,2024-06-25,0.0
+11419,Thomas Brown,books, North,Debit Card,3.0,14.01,04-11-2024,15.0
+10585,Thomas Das, Electronics,West,PayPal,3.0,$247.58,2023-05-26,15.0
+10205,Ananya Reddy,ELECTRONICS,south,Cash on Delivery,3.0,201.78,20/09/2023,20.0
+10003,Ananya Rodriguez,Home and Kitchen,north,UPI,3.0,70.86,08/10/2024,0.0
+10905,Meera Das,beauty,East ,Credit Card,5.0,27.18,2024-12-02,0.0
+11838,,Sports, North,Credit Card,3.0,55.99,12-23-2024,
+11183,Neha Das,Sports,East,UPI,2.0,88.92,01-03-2024,10.0
+11869,Michael Reddy,CLOTHING, North,Cash on Delivery,2.0,37.47,2024-08-07,10.0
+11737,Neha Reddy,Sports,south,Cash on Delivery,3.0,53.72,"February 28, 2023",5.0
+11082,Sarah Brown,BOOKS,South,Debit Card,5.0,13.75,"June 19, 2023",10.0
+10693,  Mary Rao  ,SPORTS, North,Debit Card,1.0,56.22,"May 23, 2024",
+11695,Richard Kumar,Clothing,North,Cash on Delivery,3.0,15.98,18/07/2023,0.0
+11675,Barbara Gupta,Books,WEST,Cash on Delivery,1.0,8.68,12/04/2023,0.0
+10714,Arjun Jones,electronics,WEST,Cash on Delivery,3.0,386.05,16/09/2023,0.0
+10970,Mary Iyer,Electronic ,NORTH,Cash on Delivery,3.0,233.55,"July 17, 2024",10.0
+11150,Kavya Reddy,Home and Kitchen,SOUTH,Cash on Delivery,4.0,51.98,2024-01-16,5.0
+11960,  Rohan Gupta  ,Books,North,Credit Card,4.0,16.72,"September 24, 2023",0.0
+10883,Jessica Kumar,BOOKS,North,Credit Card,,20.23,2024-06-18,0.0
+11676,Barbara Iyer,BEAUTY,NORTH,Debit Card,5.0,33.71,18/04/2023,20.0
+11074,Barbara Das,Beauty,West,UPI,2.0,24.75,2023-06-16,15.0
+11128,Karen Patel,CLOTHING,South,UPI,4.0,45.32,12/12/2024,0.0
+11600,Rahul Das,Home and Kitchen,north,Credit Card,1.0,38.22,04-18-2024,
+11287,James Miller,books,WEST,UPI,4.0,6.59,06-10-2023,
+10157,Barbara Gupta,HOME & KITCHEN,East,,3.0,50.96,"January 17, 2024",5.0
+11070,  Rahul Jones  ,sports,East ,Debit Card,5.0,61.64,02-28-2023,0.0
+10523,Mary Das,home & kitchen,east,Debit Card,5.0,51.62,2023-10-15,5.0
+10462,Barbara Davis,Clothing,NORTH,Debit Card,2.0,33.52,06/01/2024,20.0
+10652,Elizabeth Iyer,Home & Kitchen,EAST,PayPal,2.0,60.89,2023-06-18,0.0
+10160,Robert Das,books,EAST,Credit Card,4.0,12.08,2024-01-13,15.0
+10305,Jennifer Johnson,Books,west,PayPal,3.0,$16.37,"March 25, 2023",
+10656,Barbara Reddy,clothing,WEST,UPI,2.0,53.98,10-22-2024,20.0
+10547,Elizabeth Smith,TOYS,SOUTH,UPI,4.0,29.6,01-04-2024,15.0
+10713,Richard Patel,Books, North,Debit Card,1.0,12.35,"November 23, 2024",0.0
+10395,Mary Martinez,clothing,south,Debit Card,1.0,42.87,07-27-2023,0.0
+10783,Rohan Nair,Books,west,,1.0,13.33,11-21-2023,0.0
+10399,Rohan Brown,home & kitchen,,Credit Card,5.0,64.89,2023-09-05,10.0
+10798,William Patel,BOOKS,South,UPI,3.0,3.19,"April 27, 2024",0.0
+10618,Sarah Sharma,Toys,South,Debit Card,1.0,33.03,"February 21, 2023",15.0
+11563,, Electronics,East ,PayPal,2.0,231.28,"June 19, 2024",0.0
+10508,James Das,books,WEST,PayPal,3.0,11.75,"June 17, 2024",10.0
+11390,Elizabeth Das,Books,West,Credit Card,2.0,13.55,21/07/2023,15.0
+10736,James Iyer,CLOTHING,West,Cash on Delivery,4.0,-39.6,30/07/2024,5.0
+11327,David Johnson,clothing,North,Credit Card,3.0,30.16,01-13-2023,10.0
+11698,Ananya Davis,books,west,Debit Card,4.0,16.1,2024-10-24,
+11005,David Johnson,Clothing,East ,UPI,3.0,35.75,09/03/2024,10.0
+10867,Aditya Kumar, Beauty, North,Cash on Delivery,3.0,32.37,2023-01-24,15.0
+10459,Vikram Brown,SPORTS,north,Debit Card,4.0,47.36,11/04/2023,20.0
+10971,John Williams, Electronics,SOUTH,Cash on Delivery,1.0,251.48,05/09/2023,10.0
+10062,Thomas Rodriguez,Beauty,West,UPI,3.0,15.06,"May 16, 2024",10.0
+11855,Joseph Brown, Beauty,SOUTH,Debit Card,2.0,21.44,06-13-2023,20.0
+10871,David Johnson,clothing,North,Credit Card,4.0,47.19,01/04/2023,0.0
+10993,William Kumar,Cloth ing,NORTH,Credit Card,3.0,30.83,12-08-2023,0.0
+11605,Barbara Rao,Home and Kitchen,East ,UPI,5.0,77.73,29/06/2023,
+10457,Jennifer Martinez,Cloth ing,East ,Cash on Delivery,4.0,43.78,"February 19, 2023",5.0
+11908,,,North,Debit Card,3.0,63.74,28/05/2024,0.0
+10478,Charles Sharma,Sports,North,PayPal,1.0,56.62,2023-08-15,0.0
+11075,Elizabeth Rodriguez,Cloth ing,south,PayPal,3.0,38.95,01-29-2023,20.0
+11688,James Gupta,Books,east,Debit Card,5.0,16.95,08-10-2024,
+10870,Vikram Rao,Toys,West,Debit Card,2.0,39.24,20/02/2024,0.0
+10790,James Jones,clothing,North,Debit Card,1.0,57.13,"July 20, 2024",20.0
+10617,Robert Miller,Cloth ing,east,Debit Card,3.0,30.15,08/12/2024,20.0
+11883,Barbara Williams,TOYS,West,Credit Card,2.0,31.21,29/07/2023,15.0
+11980,Elizabeth Garcia,books,East,Debit Card,2.0,8.33,2023-07-12,5.0
+11904,Neha Gupta,books,East ,Cash on Delivery,1.0,11.68,2024-03-03,0.0
+11162,Kavya Iyer,Books,East,PayPal,1.0,$13.78,"August 23, 2024",20.0
+11647,Arjun Williams,Beauty,EAST,PayPal,2.0,$34.26,10/06/2024,20.0
+10347,Richard Iyer,sports,west,Debit Card,3.0,68.5,08-15-2023,10.0
+11033,Joseph Gupta,Cloth ing,west,PayPal,3.0,$26.83,"October 27, 2024",15.0
+11215,Richard Patel, Beauty,WEST,Debit Card,2.0,28.0,14/04/2023,5.0
+11790,Priya Rodriguez,Sports,South,PayPal,1.0,44.93,"August 01, 2023",
+10760,Neha Davis, Beauty,west,PayPal,3.0,23.01,27/12/2024,15.0
+10954,Priya Smith,Electronic ,WEST,Cash on Delivery,2.0,177.93,2024-10-23,0.0
+10446,Mary Jones,Home and Kitchen,NORTH,Cash on Delivery,3.0,$69.00,"September 13, 2024",0.0
+10650,John Jones,Beauty,EAST,PayPal,3.0,35.31,01-13-2024,10.0
+11313,Rahul Das,beauty,WEST,Debit Card,4.0,23.41,"March 16, 2024",10.0
+11901,Mary Williams,beauty,south,Cash on Delivery,1.0,16.92,2023-01-23,0.0
+10379,Neha Johnson,BOOKS,south,,2.0,13.87,"February 01, 2023",0.0
+10564,Aditya Rao,BOOKS,East,Credit Card,4.0,15.23,12/08/2023,0.0
+11352,Jennifer Rodriguez, Electronics,South,Cash on Delivery,5.0,236.96,02-17-2024,10.0
+11764,Mary Johnson,Cloth ing, North,PayPal,3.0,41.6,07-31-2023,0.0
+11634,Michael Rodriguez,Beauty,east,Debit Card,1.0,$18.16,"August 04, 2023",0.0
+10956,  Michael Williams  ,beauty,West,PayPal,1.0,26.64,03/12/2023,20.0
+11946,Patricia Johnson,electronics,East ,Credit Card,2.0,225.14,"December 25, 2023",10.0
+11624,Robert Singh,HOME & KITCHEN,south,Debit Card,1.0,36.0,22/01/2024,15.0
+10920,Rohan Gupta,clothing,West,PayPal,3.0,41.02,2023-07-06,5.0
+10231,Elizabeth Reddy,clothing,West,UPI,5.0,37.49,04-07-2023,
+11228,Michael Rao,Electronics,East,,5.0,314.0,20/12/2024,10.0
+10382,Neha Rodriguez,Books,South,Cash on Delivery,1.0,18.0,02-22-2024,15.0
+11279,Linda Sharma,Toy's,north,Debit Card,5.0,26.0,02-01-2024,0.0
+11423,William Gupta,electronics,SOUTH,PayPal,3.0,245.64,"September 30, 2024",15.0
+10072,Richard Sharma,BEAUTY,WEST,PayPal,5.0,27.88,"March 25, 2024",20.0
+10070,Meera Garcia,Clothing,SOUTH,UPI,2.0,29.58,11-04-2023,15.0
+11350,Vikram Sharma,HOME & KITCHEN,NORTH,Cash on Delivery,3.0,55.56,2024-02-27,
+11839,Robert Singh,BEAUTY,EAST,Credit Card,1.0,32.26,02-24-2023,0.0
+10171,Charles Williams,Home & Kitchen,East,Credit Card,4.0,58.53,"December 14, 2024",20.0
+11090,Jennifer Davis,BOOKS,North,Cash on Delivery,3.0,19.13,"November 06, 2024",10.0
+10168,David Martinez,beauty,SOUTH,Debit Card,3.0,23.52,05-07-2023,15.0
+10493,David Miller,TOYS,west,Cash on Delivery,2.0,$30.70,28/08/2024,20.0
+11267,Neha Rao,electronics,East ,UPI,,345.2,"September 20, 2024",10.0
+11044,Robert Reddy,HOME & KITCHEN,SOUTH,Debit Card,5.0,66.28,05-08-2024,0.0
+11526,Thomas Iyer, Beauty,west,Cash on Delivery,2.0,895.6642406058241,2023-07-15,5.0
+10893,John Rodriguez,Toys,West,Debit Card,2.0,15.55,"June 05, 2023",20.0
+10272,Neha Reddy,,west,Credit Card,3.0,15.78,16/09/2023,5.0
+11444,Charles Nair,CLOTHING,west,Credit Card,1.0,51.76,2024-12-25,20.0
+10420,  Joseph Smith  ,books,South,PayPal,5.0,15.51,17/05/2023,0.0
+10094,James Gupta,TOYS,north,Cash on Delivery,,30.17,05-25-2023,0.0
+11384,,Electronics,East ,Debit Card,3.0,236.6,2024-01-01,20.0
+11604,Joseph Rao,ELECTRONICS,east,Cash on Delivery,2.0,144.69,"February 05, 2023",0.0
+11615,Mary Rao,Cloth ing, North,Debit Card,5.0,37.4,"July 16, 2023",0.0
+10042,Vikram Martinez,clothing,West,UPI,5.0,33.41,2023-01-23,0.0
+10056,Michael Martinez,books,EAST,PayPal,5.0,11.77,07-01-2023,
+11621,Rohan Garcia,sports,east,Cash on Delivery,3.0,23.86,2023-05-13,10.0
+11126,Charles Brown,sports,east,Cash on Delivery,2.0,61.37,28/01/2023,20.0
+11190,James Rodriguez,SPORTS,South,Debit Card,5.0,66.14,29/05/2024,0.0
+11304,  Jessica Das  , Electronics, North,Debit Card,5.0,141.71,2024-10-14,0.0
+10888,Ananya Sharma,Sports,west,Credit Card,3.0,,19/05/2023,0.0
+10574,Elizabeth Kumar,sports,NORTH,UPI,2.0,57.28,07/03/2023,20.0
+10038,Vikram Jones,clothing,South,Credit Card,3.0,38.71,26/08/2024,5.0
+10306,Richard Gupta,clothing,North,Cash on Delivery,3.0,43.8,"November 07, 2023",15.0
+10668,William Martinez,Toy's,West,Credit Card,5.0,25.84,2024-05-31,10.0
+10006,Linda Nair,Toys,north,Cash on Delivery,4.0,36.65,02/12/2024,0.0
+11077,Barbara Martinez, Beauty,north,UPI,2.0,28.01,2024-06-08,5.0
+10782,Priya Reddy,Books, North,PayPal,1.0,17.63,2024-05-12,0.0
+10408,John Gupta, Beauty,south,,4.0,12.88,10/09/2024,20.0
+11018,Charles Nair,home & kitchen,SOUTH,Cash on Delivery,5.0,48.53,13/09/2023,5.0
+10781,Arjun Reddy,,West,Cash on Delivery,,,19/07/2023,0.0
+10166,Jennifer Rodriguez,clothing,South,Credit Card,5.0,44.22,26/09/2024,0.0
+10534,  Susan Nair  ,Beauty,South,Credit Card,4.0,28.31,22/01/2023,
+10583,Aditya Iyer,Books,west,Credit Card,5.0,11.31,20/09/2024,0.0
+11274,Joseph Miller, Beauty,East,Cash on Delivery,1.0,44.49,2023-02-25,0.0
+11934,Linda Sharma,Home & Kitchen,north,Credit Card,1.0,62.71,10-04-2024,15.0
+11445,,Books,WEST,PayPal,2.0,$6.76,05-08-2024,15.0
+11252,Vikram Gupta,electronics,West,UPI,5.0,247.83,"October 07, 2023",20.0
+11736,Vikram Rodriguez,TOYS,North,Cash on Delivery,3.0,22.74,11-21-2023,5.0
+11491,Kavya Rao,beauty,south,UPI,5.0,28.15,03/02/2023,5.0
+10813,  Neha Johnson  ,Toys,EAST,Debit Card,3.0,39.24,2023-08-09,
+10316,Patricia Jones,Beauty,North,Credit Card,5.0,24.2,"October 05, 2023",10.0
+11303,  Patricia Johnson  ,books,North,Debit Card,4.0,11.11,"June 01, 2023",0.0
+11750,Michael Brown,BOOKS,west,UPI,2.0,12.62,"April 01, 2024",0.0
+10516,, Beauty,South,Cash on Delivery,2.0,31.31,"March 12, 2023",10.0
+11696,Susan Brown,home & kitchen,SOUTH,PayPal,5.0,$95.67,2023-07-20,20.0
+10533,Susan Jones,books,west,Debit Card,5.0,17.29,09-13-2024,0.0
+11062,  Linda Rao  ,Home and Kitchen,NORTH,UPI,2.0,69.31,10-09-2023,
+10271,Joseph Nair,sports, North,Debit Card,1.0,45.63,07-12-2024,0.0
+10548,John Singh,Books,West,Cash on Delivery,3.0,11.85,2024-09-20,0.0
+10964,Ananya Patel,Clothing,EAST,PayPal,1.0,44.06,10-18-2023,10.0
+11725,Charles Davis,toys,West,Credit Card,5.0,$35.26,2023-07-18,10.0
+11918,Linda Kumar,Sports,South,Debit Card,1.0,72.52,11-05-2024,0.0
+10598,Sarah Nair,Toy's,EAST,Debit Card,3.0,$31.39,06/08/2024,0.0
+11710,Elizabeth Martinez,home & kitchen,west,Credit Card,5.0,74.08,2024-12-12,5.0
+10570,Barbara Iyer,HOME & KITCHEN,west,Credit Card,1.0,51.22,11-02-2023,5.0
+10074,Vikram Rao,Home and Kitchen,West,Cash on Delivery,2.0,$96.99,02/03/2023,0.0
+10061,Linda Brown,toys,west,UPI,4.0,24.99,"January 08, 2024",0.0
+11264,  Barbara Jones  ,books, North,Debit Card,5.0,17.16,07-18-2023,0.0
+10809,Elizabeth Das,TOYS,WEST,PayPal,5.0,22.59,2024-01-02,20.0
+10244,Linda Smith,Electronic ,West,PayPal,2.0,160.51,"October 17, 2024",0.0
+11496,Vikram Miller,Sports,SOUTH,UPI,5.0,54.97,"November 16, 2024",0.0
+11464,Susan Singh,books,north,PayPal,3.0,19.14,2024-06-12,0.0
+10105,Vikram Sharma,electronics,EAST,Debit Card,4.0,289.3,20/06/2024,0.0
+10673,  Mary Singh  ,beauty,West,Debit Card,3.0,21.21,2023-07-16,10.0
+10642,Thomas Martinez,toys,East ,Debit Card,5.0,35.04,09/05/2023,10.0
+11286,James Williams,books,SOUTH,Credit Card,1.0,16.86,10/11/2024,0.0
+10665,Meera Nair, Electronics,west,Cash on Delivery,2.0,324.64,13/06/2024,0.0
+10509,Aditya Patel,Home and Kitchen,south,Credit Card,3.0,48.03,"January 28, 2024",0.0
+10131,Neha Martinez,BOOKS,South,PayPal,4.0,15.6,06/02/2024,5.0
+10444,Robert Williams,HOME & KITCHEN,South,Cash on Delivery,3.0,84.03,03-17-2024,10.0
+10866,Rohan Das,sports,West,Credit Card,4.0,44.36,01-31-2024,15.0
+10573,Mary Nair,BEAUTY,north,Cash on Delivery,4.0,25.77,06/09/2023,10.0
+11861,Linda Kumar,SPORTS,East ,Cash on Delivery,4.0,$67.16,2024-02-12,5.0
+11801,Michael Johnson,ELECTRONICS,East ,PayPal,2.0,,11-11-2024,0.0
+10057,Vikram Das,Sports,SOUTH,Credit Card,4.0,51.48,"September 29, 2024",20.0
+11680,Jennifer Das,electronics,South,Credit Card,1.0,243.01,09-28-2023,20.0
+11085,Ananya Garcia,TOYS,East,Credit Card,3.0,25.4,"July 06, 2024",0.0
+11149,Michael Davis,books,west,UPI,1.0,30.36,08-28-2024,15.0
+10086,Barbara Jones,electronics,south,UPI,3.0,403.25,"June 22, 2023",0.0
+11876,Mary Brown,electronics, North,Credit Card,2.0,220.15,2024-11-22,0.0
+10771,Elizabeth Rodriguez,TOYS,East ,Debit Card,4.0,22.9,12-17-2023,0.0
+11247,Arjun Miller,Toy's,South,PayPal,2.0,40.25,09-24-2024,0.0
+10708,  Elizabeth Rodriguez  ,CLOTHING,East,PayPal,3.0,28.09,21/11/2023,10.0
+11578,Aditya Davis,Clothing,EAST,Cash on Delivery,5.0,52.32,05/01/2023,0.0
+11355,Karen Rao,Toys,WEST,Cash on Delivery,3.0,,2024-03-07,20.0
+11583,Michael Brown,Cloth ing,west,Credit Card,4.0,40.76,03-15-2023,0.0
+10538,Karen Williams,Books,East,Cash on Delivery,5.0,9.16,"September 08, 2023",15.0
+11453,Charles Kumar,Sports,north,PayPal,4.0,55.97,"May 26, 2024",10.0
+11195,Jennifer Williams,Home and Kitchen,east,Cash on Delivery,3.0,63.7,09-15-2024,5.0
+11574,Neha Kumar,Toy's,SOUTH,Debit Card,1.0,40.63,04-18-2024,20.0
+11779,Thomas Martinez,books,NORTH,Cash on Delivery,1.0,13.04,2023-08-14,15.0
+10418,  Elizabeth Rao  ,toys,south,Debit Card,3.0,11.45,02-20-2024,20.0
+11871,Joseph Jones,CLOTHING, North,Cash on Delivery,2.0,50.15,02/01/2023,0.0
+11073,Meera Davis,Cloth ing,West,PayPal,1.0,42.11,08/10/2024,0.0
+11726,David Garcia,Sports,South,UPI,2.0,51.21,2024-04-03,0.0
+11296,Jessica Singh,BEAUTY,NORTH,PayPal,4.0,,06/02/2023,20.0
+10851,Susan Brown,Books,east,Cash on Delivery,1.0,11.97,2024-03-14,0.0
+11771,John Gupta,Home and Kitchen,East ,PayPal,1.0,5.82,18/09/2023,10.0
+11748,Patricia Rao,BEAUTY,West,UPI,4.0,35.53,2024-12-22,10.0
+11743,Susan Sharma,Beauty,NORTH,UPI,2.0,25.57,2024-08-26,0.0
+11785,Jessica Sharma,books,south,UPI,5.0,15.75,"July 18, 2024",0.0
+11556,John Garcia,HOME & KITCHEN,SOUTH,UPI,1.0,21.72,06-10-2024,
+11751,Richard Brown,Beauty,East ,Debit Card,4.0,22.26,2023-11-14,10.0
+11818,Arjun Reddy,electronics,north,UPI,1.0,147.85,17/01/2023,10.0
+10304,Susan Reddy,SPORTS,north,Credit Card,5.0,68.35,2023-09-23,
+11533,James Johnson,toys,South,Credit Card,1.0,35.24,12-01-2024,0.0
+10335,Priya Martinez,electronics, North,UPI,1.0,240.06,07-02-2023,5.0
+10995,Jessica Jones, Electronics,East,Cash on Delivery,5.0,206.88,2023-09-23,20.0
+10569,Rohan Iyer,Books,East ,Credit Card,2.0,$27.38,02-29-2024,0.0
+10088,Arjun Martinez,Home & Kitchen,EAST,Debit Card,1.0,$110.11,20/11/2024,5.0
+10874,  Vikram Davis  ,Home & Kitchen,North,Credit Card,5.0,$65.55,"December 03, 2023",
+11242,Richard Reddy,toys,north,UPI,3.0,14.62,01/08/2023,0.0
+11542,Joseph Davis,BEAUTY,south,PayPal,1.0,30.36,"March 15, 2024",0.0
+10712,Vikram Patel,Cloth ing,South,UPI,3.0,51.24,19/03/2024,
+11768,Aditya Kumar,sports,West,PayPal,2.0,62.97,2023-07-05,0.0
+11873,Jessica Garcia,Toy's,north,PayPal,5.0,28.11,07/07/2023,0.0
+11397,Jessica Sharma,sports,NORTH,Debit Card,2.0,37.26,11/03/2023,20.0
+10221,Rahul Johnson,Toy's,WEST,PayPal,5.0,34.77,"February 12, 2023",20.0
+10319,Richard Gupta,books,WEST,UPI,5.0,12.88,"April 27, 2024",0.0
+11777,Aditya Sharma,beauty,west,Debit Card,5.0,27.62,08-04-2023,0.0
+10878,Jennifer Jones,Home and Kitchen,north,Credit Card,1.0,46.96,2024-11-30,15.0
+11824,Patricia Garcia,TOYS,North,Debit Card,2.0,21.86,2024-10-04,0.0
+10825,  Arjun Patel  ,Sports,,Cash on Delivery,4.0,55.36,2023-12-11,20.0
+11468,Elizabeth Reddy,BOOKS,EAST,PayPal,2.0,16.41,2023-09-04,20.0
+11483,Robert Rodriguez,CLOTHING,West,Debit Card,3.0,47.08,"April 26, 2023",5.0
+10138,John Sharma,Electronic ,north,PayPal,2.0,169.71,02/03/2023,15.0
+10163,Meera Smith,books,East,PayPal,3.0,17.54,28/10/2023,
+11804,Arjun Sharma,Toys, North,Credit Card,1.0,22.57,11/02/2023,0.0
+11466,Barbara Nair,HOME & KITCHEN,SOUTH,UPI,2.0,$54.92,"December 26, 2023",0.0
+10960,  Rohan Jones  ,Home and Kitchen, North,PayPal,4.0,76.75,2023-01-23,5.0
+11482,Vikram Iyer, Electronics,WEST,Cash on Delivery,1.0,109.0,06-05-2023,20.0
+11257,Susan Gupta,CLOTHING,South,Debit Card,2.0,,12/08/2023,0.0
+11194,Rohan Jones,toys,South,Credit Card,3.0,33.93,04/04/2024,10.0
+11954,  Kavya Patel  ,TOYS,South,Credit Card,3.0,21.51,"April 26, 2024",0.0
+11315,Karen Davis,Sports,south,PayPal,5.0,66.79,"March 07, 2024",0.0
+11827,Thomas Gupta,Beauty,West,UPI,2.0,19.18,03-30-2023,15.0
+10633,Vikram Johnson,Electronic ,west,Cash on Delivery,3.0,266.09,"May 12, 2024",20.0
+11203,David Brown,Books,WEST,UPI,5.0,$21.39,2024-07-21,15.0
+10655,Ananya Das, Beauty, North,UPI,4.0,29.38,2024-06-05,10.0
+10016,Rahul Jones,Electronics,WEST,Debit Card,3.0,148.8,2024-10-10,
+11651,Aditya Das,SPORTS, North,UPI,5.0,75.0,08-12-2023,0.0
+11180,James Garcia,Clothing,East,Cash on Delivery,1.0,35.02,31/12/2023,5.0
+10137,Jessica Smith,Clothing,south,Credit Card,5.0,$32.03,2024-10-26,20.0
+11240,Joseph Reddy,Toys,SOUTH,Debit Card,1.0,40.64,29/11/2024,0.0
+10697,Aditya Rodriguez,BOOKS, North,UPI,1.0,13.66,"December 01, 2023",10.0
+11097,Sarah Miller,TOYS,West,PayPal,1.0,893.8006029849214,2024-08-14,20.0
+11636,Priya Smith,SPORTS,west,PayPal,4.0,59.21,11-09-2023,
+10448,Barbara Jones,SPORTS,South,PayPal,3.0,70.48,04/10/2023,20.0
+11943,Robert Brown, Beauty,north,UPI,3.0,26.89,03-05-2024,0.0
+10327,Jennifer Williams,ELECTRONICS,West,Cash on Delivery,3.0,278.64,"July 28, 2024",20.0
+10317,Priya Rao,CLOTHING,north,Debit Card,5.0,45.37,01-14-2024,10.0
+11548,Charles Sharma,Clothing, North,Debit Card,1.0,36.62,05/10/2024,15.0
+10526,Vikram Sharma,Cloth ing,east,PayPal,4.0,47.04,14/06/2024,0.0
+10087,Barbara Gupta,Beauty,north,Cash on Delivery,4.0,37.15,"April 23, 2023",
+11654,Richard Iyer,sports,North,Cash on Delivery,4.0,54.49,"September 19, 2023",20.0
+10148,Aditya Miller,Home & Kitchen,NORTH,Cash on Delivery,3.0,79.2,2024-02-26,0.0
+11643,Sarah Williams,ELECTRONICS,SOUTH,UPI,2.0,218.97,"February 12, 2023",15.0
+11223,John Das,Toy's, North,Debit Card,5.0,48.51,2023-12-08,20.0
+11478,Meera Smith,sports,SOUTH,Debit Card,5.0,63.07,16/09/2024,5.0
+10365,Rohan Patel,Beauty,West,Debit Card,2.0,28.66,03/04/2023,
+10589,  Aditya Das  ,Toys,North,UPI,4.0,17.68,10-01-2023,20.0
+11529,  Joseph Davis  ,BOOKS,east,Debit Card,5.0,13.17,06-14-2023,15.0
+10198,Michael Kumar,SPORTS,WEST,Credit Card,4.0,$56.51,"August 08, 2024",
+11920,Elizabeth Patel,Cloth ing,North,Credit Card,4.0,46.23,"May 25, 2024",0.0
+10192,Barbara Garcia,beauty,NORTH,PayPal,1.0,13.35,18/10/2023,15.0
+10404,William Nair,books,north,Debit Card,,10.62,"June 10, 2023",0.0
+11594,Priya Reddy,toys,West,Cash on Delivery,3.0,24.71,2024-10-01,20.0
+11682,David Miller,Cloth ing,east,PayPal,5.0,,"February 20, 2024",5.0
+10483,Joseph Nair, Beauty,SOUTH,Cash on Delivery,4.0,,05-17-2023,0.0
+11477,Linda Smith,Home & Kitchen,WEST,UPI,2.0,87.55,"September 22, 2024",10.0
+10791,Susan Miller,books,NORTH,Debit Card,2.0,13.11,"May 01, 2023",20.0
+10799,Joseph Rao,books,North,UPI,5.0,26.47,20/06/2023,5.0
+10384,,Sports,EAST,PayPal,2.0,23.97,2023-04-10,5.0
+10750,Michael Nair,BOOKS,north,PayPal,1.0,13.25,"June 21, 2023",0.0
+10422,  Arjun Iyer  , Electronics,South,Debit Card,5.0,246.83,2023-10-22,0.0
+10314,Neha Gupta,Toys,east,Debit Card,2.0,20.12,"September 19, 2023",10.0
+11021,Sarah Reddy,Toy's,WEST,Credit Card,4.0,25.71,2023-07-21,20.0
+10543,William Kumar,Toys,East ,Credit Card,3.0,40.86,15/11/2024,
+10913,Sarah Patel, Beauty,East,UPI,4.0,$25.89,"December 02, 2024",0.0
+10662,Rahul Davis,Beauty,east,,2.0,22.1,13/09/2024,10.0
+10902,Barbara Das,HOME & KITCHEN,east,PayPal,3.0,,2024-09-28,10.0
+11414,Robert Davis,Cloth ing,EAST,Cash on Delivery,4.0,30.93,2023-02-24,20.0
+10685,David Kumar,SPORTS,East,Debit Card,2.0,43.25,02-11-2023,0.0
+11699,Priya Kumar,BOOKS, North,PayPal,4.0,9.41,03-29-2024,10.0
+10159,Kavya Davis,BEAUTY,SOUTH,Debit Card,1.0,23.45,2024-10-18,5.0
+10999,Richard Nair,Electronic ,North,UPI,3.0,,09-18-2024,10.0
+11316,Charles Nair,ELECTRONICS, North,Credit Card,2.0,351.39,2024-10-13,
+11800,John Patel,Electronic ,EAST,,5.0,263.7,2024-06-26,20.0
+10202,Charles Brown,beauty,South,Debit Card,2.0,30.2,26/05/2023,
+11023,,beauty,North,UPI,4.0,31.05,"June 15, 2023",0.0
+11553,Charles Kumar,CLOTHING,,Debit Card,4.0,41.21,08-03-2024,0.0
+11342,Robert Singh,beauty,East,UPI,4.0,25.06,07-12-2024,0.0
+10112,Kavya Davis,books,West,Cash on Delivery,3.0,20.5,2024-03-18,0.0
+11830,Arjun Rodriguez,BOOKS,south,Credit Card,3.0,18.54,2023-06-28,
+11249,  Priya Martinez  ,BOOKS,South,PayPal,3.0,10.26,07-10-2024,15.0
+10980,Richard Smith,BOOKS,East,UPI,1.0,15.1,2024-02-25,15.0
+10922,Susan Patel,SPORTS,south,UPI,4.0,33.8,02-22-2023,20.0
+11537,Ananya Gupta,TOYS,South,Credit Card,2.0,25.63,19/04/2024,0.0
+11609,,beauty,East ,Credit Card,5.0,32.32,2023-07-28,20.0
+11714,Neha Miller,SPORTS,East ,PayPal,1.0,87.89,03/09/2023,20.0
+11868,Karen Johnson, Electronics,South,UPI,4.0,267.29,"August 19, 2024",15.0
+10815,James Davis,HOME & KITCHEN,North,Credit Card,3.0,78.72,05-14-2024,15.0
+11381,Jessica Johnson,home & kitchen, North,Credit Card,1.0,65.84,04-09-2024,10.0
+11306,Elizabeth Nair,Books,WEST,Credit Card,1.0,$19.95,2023-09-15,0.0
+10679,Neha Rodriguez,Toy's,SOUTH,Debit Card,4.0,17.19,"March 08, 2024",0.0
+11093,William Nair,Clothing,WEST,Cash on Delivery,4.0,20.53,"January 08, 2023",5.0
+10080,Meera Iyer,BOOKS,,Debit Card,2.0,,02-08-2023,15.0
+11782,John Smith,Clothing,SOUTH,Credit Card,1.0,35.22,03-30-2023,0.0
+11755,Arjun Martinez,Sports,East,Cash on Delivery,4.0,20.61,"June 05, 2023",0.0
+11552,Joseph Williams,Toy's,North,Credit Card,3.0,38.72,2024-12-05,20.0
+10752,Karen Jones, Beauty,south,UPI,1.0,$23.85,"April 02, 2023",10.0
+11334,Richard Patel,HOME & KITCHEN,south,Credit Card,4.0,68.43,12-17-2023,
+11054,Vikram Nair,ELECTRONICS,south,Credit Card,2.0,287.62,09/06/2024,15.0
+10242,Joseph Rao,TOYS,South,PayPal,3.0,33.6,07-15-2024,10.0
+11473,Joseph Williams,SPORTS, North,Cash on Delivery,4.0,54.59,03/08/2023,10.0
+10641,Priya Williams, Beauty, North,UPI,3.0,28.14,2023-02-18,10.0
+10696,Elizabeth Rao,sports,North,PayPal,5.0,46.46,05-26-2023,0.0
+10209,Thomas Williams,toys,SOUTH,UPI,4.0,16.0,2024-09-05,15.0
+10577,James Rao,,EAST,UPI,4.0,29.47,29/11/2024,10.0
+10770,Patricia Sharma,,north,Cash on Delivery,3.0,362.29115350347945,2024-02-10,0.0
+11776,Mary Jones,Toys,South,Debit Card,2.0,26.78,02/03/2024,15.0
+10435,Richard Johnson,toys,west,UPI,3.0,26.78,09/02/2023,0.0
+11063,William Gupta,TOYS,,Credit Card,1.0,25.5,07-16-2024,0.0
+10974,Karen Nair,Beauty,East,Debit Card,1.0,32.47,19/07/2023,20.0
+10551,Susan Singh,SPORTS,east,UPI,1.0,59.12,13/06/2023,
+11411,David Patel,BEAUTY,South,Cash on Delivery,4.0,24.88,05/01/2023,
+11420,Rahul Rodriguez,Home & Kitchen,West,Debit Card,4.0,80.78,"November 22, 2023",15.0
+11013,Aditya Reddy, Beauty,NORTH,PayPal,5.0,29.26,11-01-2024,0.0
+11910,Jessica Jones,toys,EAST,Credit Card,1.0,16.35,2023-05-15,0.0
+10466,,TOYS,east,UPI,1.0,33.54,11-02-2024,10.0
+11649,James Das,BOOKS,EAST,Cash on Delivery,1.0,$14.76,"September 14, 2024",10.0
+11321,Elizabeth Nair,Home & Kitchen,East ,Credit Card,4.0,66.67,2024-07-16,0.0
+10277,Joseph Patel, Beauty,North,Cash on Delivery,3.0,29.47,2024-03-25,0.0
+11069,Neha Gupta,home & kitchen,NORTH,UPI,2.0,62.94,02-28-2023,20.0
+11017,Rahul Iyer,toys,north,Credit Card,1.0,18.29,27/03/2023,15.0
+11561,Arjun Garcia,Home and Kitchen,West,Debit Card,3.0,66.55,2023-07-29,10.0
+10722,Kavya Rao,SPORTS,East ,PayPal,3.0,62.64,"July 29, 2024",10.0
+11977,Jennifer Patel,Electronics,south,Debit Card,4.0,58.34,"January 26, 2024",0.0
+10786,James Iyer,SPORTS,SOUTH,PayPal,2.0,74.94,"March 14, 2023",10.0
+11565,Vikram Reddy,Electronic ,east,Credit Card,2.0,412.89,02-05-2023,15.0
+11324,Sarah Kumar,Sports,West,Cash on Delivery,1.0,47.34,"September 08, 2023",0.0
+11385,Sarah Reddy,Books,east,Credit Card,1.0,,18/08/2023,
+11318,Jessica Miller,toys,South,UPI,2.0,26.27,18/09/2024,0.0
+10906,  John Davis  ,Cloth ing,south,Cash on Delivery,1.0,48.82,"December 09, 2023",5.0
+10563,Mary Patel,electronics,South,Credit Card,5.0,$210.09,22/01/2023,10.0
+10388,John Davis,BEAUTY,west,PayPal,3.0,30.2,09/11/2023,0.0
+10022,Michael Reddy,HOME & KITCHEN,West,PayPal,1.0,,"October 01, 2024",5.0
+11929,Michael Kumar,sports,South,UPI,5.0,43.4,11-28-2024,20.0
+10124,James Brown,Home and Kitchen,East ,PayPal,5.0,69.74,11-08-2023,0.0
+11261,Barbara Singh,Beauty,East,Debit Card,4.0,25.0,01-30-2024,0.0
+10773,Jennifer Smith,Home & Kitchen,SOUTH,Debit Card,2.0,79.15,01-28-2024,0.0
+10880,Kavya Reddy,toys,west,Debit Card,2.0,$27.73,04-11-2023,0.0
+11144,Kavya Garcia,electronics,WEST,Cash on Delivery,3.0,262.32,27/02/2024,10.0
+11166,Thomas Davis,Sports,west,Cash on Delivery,4.0,24.07,12/09/2024,0.0
+10050,Richard Rao,Toys, North,UPI,1.0,27.07,08/12/2023,10.0
+11412,Barbara Patel,home & kitchen,east,UPI,2.0,63.94,04-25-2023,0.0
+11679,,Beauty,North,UPI,5.0,13.77,01-25-2024,0.0
+11105,Karen Gupta,Sports,North,PayPal,5.0,45.3,2023-04-09,5.0
+10703,  Barbara Martinez  , Electronics, North,Debit Card,1.0,205.27,2023-12-17,0.0
+10482,Jessica Davis,Toys,WEST,UPI,2.0,37.65,07-29-2023,0.0
+11145,Charles Patel,Toy's,WEST,Debit Card,1.0,27.64,11-05-2023,20.0
+11935,Barbara Martinez,sports,east,UPI,3.0,70.98,04-02-2024,15.0
+10066,John Martinez,electronics,NORTH,Credit Card,5.0,$250.39,2024-07-18,10.0
+11742,Susan Gupta,Electronics,west,Debit Card,3.0,221.78,08-27-2023,5.0
+10733,Linda Jones,clothing,,,3.0,37.38,"August 08, 2023",5.0
+11807,William Singh,TOYS,EAST,Debit Card,1.0,17.25,2024-07-26,0.0
+10801,Thomas Sharma,CLOTHING,north,PayPal,3.0,23.79,26/05/2024,5.0
+11566,Elizabeth Smith,Cloth ing,East ,UPI,1.0,26.4,"December 07, 2023",20.0
+11994,Arjun Martinez,Toy's,East,Debit Card,2.0,24.61,06-04-2023,15.0
+10907,Robert Garcia,sports,east,UPI,1.0,56.02,"October 23, 2024",0.0
+10031,Robert Reddy,Electronics,west,Debit Card,5.0,$303.55,10/06/2023,0.0
+10417,Linda Johnson,Books,north,UPI,1.0,9.91,09-04-2023,0.0
+10881,Kavya Das,books,NORTH,Credit Card,1.0,9.58,07-07-2023,0.0
+10632,Arjun Nair,Electronics,SOUTH,PayPal,3.0,255.43,16/12/2024,5.0
+11581,Jessica Davis,Cloth ing,North,Credit Card,3.0,64.48,01-17-2023,0.0
+11455,Rahul Rao,Electronics,WEST,,3.0,220.98,03/08/2024,0.0
+10064,James Reddy,Electronics,SOUTH,Cash on Delivery,1.0,157.62,01-09-2024,
+11642,Charles Rao,Beauty, North,PayPal,2.0,20.52,2023-08-08,0.0
+11627,John Davis,toys,East ,PayPal,3.0,22.0,"April 06, 2023",10.0
+10077,Linda Iyer,SPORTS,North,UPI,,17.33,2023-09-14,20.0
+10491,Jessica Johnson,Sports, North,UPI,1.0,49.94,07-24-2024,0.0
+11426,Mary Brown,Books,WEST,,5.0,14.84,22/02/2023,0.0
+11544,Kavya Das,,South,PayPal,3.0,10.98,2024-04-25,10.0
+10532,Joseph Patel,Toys,East ,UPI,2.0,40.5,12/10/2023,10.0
+10065,Richard Smith,books,North,PayPal,3.0,15.85,"November 19, 2024",20.0
+11857,, Beauty,SOUTH,Cash on Delivery,1.0,30.98,"April 25, 2023",20.0
+10296,Thomas Davis,BEAUTY,West,,1.0,32.22,10-29-2023,20.0
+10591,  David Davis  ,CLOTHING, North,Credit Card,2.0,51.99,07-08-2023,15.0
+10767,Charles Johnson,BOOKS,west,PayPal,2.0,16.21,14/08/2023,20.0
+10724,Aditya Miller,Beauty,East,PayPal,3.0,30.64,"October 18, 2023",
+11441,  Priya Garcia  ,CLOTHING,South,Cash on Delivery,2.0,36.97,2023-01-10,20.0
+10626,Sarah Iyer,Toys,south,Credit Card,2.0,49.23,"January 10, 2023",5.0
+11686,Elizabeth Smith,HOME & KITCHEN,south,Credit Card,2.0,31.42,20/07/2024,0.0
+11971,William Smith,books,north,Cash on Delivery,3.0,20.77,02/03/2024,15.0
+11212,William Davis,Home and Kitchen,WEST,Credit Card,3.0,53.63,01-03-2024,0.0
+11632,Karen Williams,sports,East ,Credit Card,2.0,61.29,"September 22, 2023",15.0
+10251,Mary Reddy,CLOTHING,EAST,UPI,4.0,25.83,2024-06-19,5.0
+11843,Arjun Kumar,Toys,WEST,PayPal,2.0,,"November 18, 2023",0.0
+11329,Barbara Jones,Home & Kitchen,south,Debit Card,4.0,70.41,"December 21, 2023",
+11927,Richard Williams,clothing,south,UPI,2.0,$40.57,"November 24, 2024",10.0
+10982,Mary Rao,HOME & KITCHEN,west,Credit Card,4.0,50.53,2023-12-08,0.0
+11795,  Susan Singh  ,toys,North,Credit Card,2.0,18.61,31/07/2023,15.0
+10706,Sarah Williams,SPORTS,south,,2.0,43.12,23/12/2023,0.0
+10487,Rohan Smith,Electronic ,west,Cash on Delivery,1.0,170.28,09-19-2024,20.0
+10273,William Jones,Electronic ,east,PayPal,5.0,265.96,"November 18, 2024",
+11522,Mary Nair,CLOTHING,WEST,Debit Card,2.0,2132.001438312657,05-08-2024,15.0
+11690,Richard Brown, Beauty,West,Debit Card,2.0,20.75,"July 10, 2023",10.0
+10963,Charles Brown,CLOTHING,West,UPI,5.0,28.07,"September 19, 2024",0.0
+10877,Vikram Rodriguez,BOOKS,EAST,UPI,1.0,$594.50,"September 08, 2024",
+11524,Barbara Smith,Electronic ,west,UPI,5.0,328.56,"October 25, 2024",0.0
+11836,Arjun Gupta,Home and Kitchen,West,UPI,5.0,68.1,28/10/2023,
+10411,Sarah Miller,,South,UPI,4.0,358.27,21/01/2023,0.0
+10667,John Miller,sports,north,UPI,4.0,73.89,09-15-2023,20.0
+11262,Robert Patel,sports,West,PayPal,4.0,46.75,"March 16, 2023",0.0
+10149,William Miller,electronics,East ,Debit Card,2.0,337.7,01-29-2024,15.0
+10644,Robert Das,Toy's,East,Debit Card,4.0,25.79,"July 28, 2024",0.0
+11625,Thomas Davis,SPORTS, North,Cash on Delivery,1.0,25.9,2024-03-18,0.0
+10218,Susan Smith,clothing, North,Cash on Delivery,,31.33,"June 13, 2023",5.0
+10239,Vikram Reddy,Electronic ,north,UPI,3.0,173.86,"May 04, 2023",10.0
+11131,Aditya Jones,Books, North,Credit Card,4.0,$9.53,23/05/2024,10.0
+11216,Charles Rodriguez,Home and Kitchen,EAST,Credit Card,4.0,77.71,18/02/2023,20.0
+10792,Jessica Kumar,Home and Kitchen,east,PayPal,4.0,42.39,03-17-2024,0.0
+10191,Joseph Smith,Toy's,east,Cash on Delivery,1.0,35.13,12-25-2024,0.0
+10333,Joseph Johnson,CLOTHING,SOUTH,PayPal,5.0,47.3,2023-07-03,15.0
+11336,Vikram Miller,sports,south,Credit Card,1.0,44.49,2023-12-24,
+11831,Charles Iyer,BOOKS,East ,Cash on Delivery,2.0,14.71,"August 22, 2023",0.0
+10962,Kavya Iyer,sports,East ,Cash on Delivery,4.0,103.3,"March 08, 2023",5.0
+11454,Joseph Rodriguez,Sports,East,Cash on Delivery,1.0,71.19,2024-12-15,0.0
+11975,Patricia Iyer,HOME & KITCHEN,EAST,Credit Card,,38.11,2024-04-09,0.0
+11900,  Jessica Johnson  ,Toy's,North,Cash on Delivery,5.0,,2023-02-17,10.0
+11637,Mary Rao,Home and Kitchen,north,Cash on Delivery,5.0,$79.68,2023-11-04,0.0
+10582,Vikram Davis,HOME & KITCHEN,South,Cash on Delivery,1.0,$81.32,16/06/2024,
+11933,Rahul Sharma,Sports,SOUTH,UPI,1.0,65.85,08-27-2023,0.0
+11450,Sarah Garcia,SPORTS,east,Debit Card,3.0,66.85,"July 08, 2023",10.0
+10839,Robert Das, Beauty,south,Cash on Delivery,1.0,24.84,01-29-2024,5.0
+10627,Jennifer Rao,electronics,south,Cash on Delivery,5.0,155.22,2023-02-27,0.0
+10323,Thomas Rao,,south,UPI,4.0,11.12,08-04-2024,5.0
+11663,Neha Iyer,Home and Kitchen,east,Cash on Delivery,3.0,38.27,"April 22, 2024",10.0
+11160,Rahul Johnson,SPORTS,east,Cash on Delivery,1.0,55.53,08/04/2024,10.0
+10778,Kavya Garcia,sports,North,Debit Card,5.0,61.27,20/01/2023,0.0
+11076,Jessica Rao,electronics,NORTH,PayPal,1.0,161.33,10-08-2024,10.0
+10939,Neha Williams,books,WEST,Debit Card,2.0,20.08,25/11/2023,0.0
+10437,Kavya Smith,home & kitchen,South,UPI,3.0,87.35,"August 10, 2023",10.0
+10119,Patricia Kumar,electronics,SOUTH,Cash on Delivery,3.0,,2024-05-08,0.0
+11374,John Johnson,Toy's,South,Credit Card,5.0,29.84,"January 16, 2023",15.0
+11582,Meera Sharma,Toy's, North,Cash on Delivery,4.0,32.38,03-13-2024,0.0
+11026,Charles Rao, Electronics,WEST,UPI,483.0,289.06,31/08/2024,0.0
+11253,Ananya Rodriguez,clothing,East ,PayPal,2.0,,"June 01, 2024",0.0
+11628,Vikram Reddy,home & kitchen,north,Credit Card,5.0,65.62,22/03/2024,20.0
+10076,Vikram Gupta,Clothing,south,PayPal,5.0,40.69,"March 14, 2023",20.0
+11053,William Brown, Beauty,SOUTH,Debit Card,1.0,23.08,"August 06, 2024",0.0
+10900,Richard Johnson,clothing,north,Cash on Delivery,3.0,25.18,2023-03-18,0.0
+10371,Robert Patel,sports,WEST,PayPal,3.0,65.85,2024-10-22,10.0
+11887,Arjun Davis,Home and Kitchen,North,UPI,1.0,52.53,2023-04-03,0.0
+11457,  Kavya Williams  ,BEAUTY,East ,PayPal,3.0,27.28,"February 14, 2023",20.0
+11282,  Aditya Reddy  ,Books,west,Cash on Delivery,2.0,19.72,2024-02-15,
+10941,Susan Sharma,,NORTH,Credit Card,-1.0,$17.23,"November 02, 2023",5.0
+10577,James Rao,,EAST,UPI,4.0,29.47,"November 29, 2024",10.0
+10819,Jessica Rodriguez,Books,South,Cash on Delivery,4.0,5.61,"January 09, 2024",10.0
+11484,Joseph Brown,SPORTS,north,Cash on Delivery,4.0,39.67,2024-04-09,0.0
+11506,Neha Martinez,BOOKS,east,Cash on Delivery,1.0,$17.36,"April 24, 2023",20.0
+11754,Rohan Rodriguez,,SOUTH,Cash on Delivery,2.0,69.38,"March 20, 2023",5.0
+11395,David Das,TOYS,South,Debit Card,2.0,35.93,2024-11-16,15.0
+10886,Mary Sharma,sports,north,Debit Card,4.0,62.12,02/04/2024,0.0
+10968,Thomas Singh,Electronic ,West,Cash on Delivery,1.0,194.7,"November 30, 2023",
+11616,Barbara Sharma,TOYS,west,UPI,4.0,35.0,"September 14, 2024",10.0
+10785,Susan Das,sports,NORTH,Cash on Delivery,1.0,53.37,05/07/2023,20.0
+11734,Mary Gupta,Clothing,WEST,UPI,2.0,34.15,"May 19, 2024",0.0
+11702,Rohan Davis,TOYS,WEST,Debit Card,1.0,37.19,"April 22, 2023",0.0
+11752,Michael Reddy,,South,Debit Card,5.0,11.9,2023-08-02,0.0
+10301,Priya Kumar,SPORTS,WEST,Credit Card,1.0,63.39,23/06/2023,
+10689,Vikram Nair,books,SOUTH,UPI,1.0,15.7,12/03/2023,5.0
+10812,Sarah Sharma, Beauty,east,UPI,3.0,24.46,15/04/2023,15.0
+11061,Thomas Rodriguez,Home & Kitchen,SOUTH,PayPal,1.0,69.17,05/04/2023,15.0
+10236,Sarah Williams,Books,west,UPI,2.0,$17.73,04-07-2024,15.0
+11115,John Smith,Toys,West,Credit Card,5.0,$16.45,"November 27, 2023",0.0
+11475,Arjun Singh,Clothing,South,Credit Card,2.0,38.48,18/08/2023,10.0
+10499,Susan Kumar,BEAUTY, North,UPI,1.0,26.12,"June 09, 2024",20.0
+11677,David Gupta, Electronics,South,Debit Card,4.0,236.13,04-12-2023,5.0
+11079,Barbara Garcia,CLOTHING,NORTH,PayPal,5.0,45.52,"September 14, 2023",0.0
+11326,Patricia Rao,Electronics,EAST,Credit Card,4.0,146.92,17/04/2023,5.0
+10794,William Iyer,HOME & KITCHEN,WEST,UPI,4.0,34.32,2023-08-23,15.0
+11948,Priya Williams,beauty,south,Debit Card,2.0,40.8,25/02/2023,15.0
+11549,Ananya Rodriguez,Electronic ,North,UPI,4.0,202.23,30/10/2024,
+11956,Kavya Kumar,SPORTS,south,Cash on Delivery,1.0,53.85,11-25-2024,0.0
+10990,Mary Singh,CLOTHING,North,PayPal,1.0,39.1,02-25-2023,20.0
+11386,Elizabeth Das,beauty,east,PayPal,2.0,28.62,07-12-2023,0.0
+10934,Jessica Miller,CLOTHING,WEST,UPI,1.0,32.31,07-08-2023,0.0
+10387,Neha Sharma,home & kitchen,,UPI,4.0,94.7,2024-08-14,20.0
+11485,Karen Martinez,books,West,UPI,3.0,20.09,2023-08-14,10.0
+10390,Meera Singh,Sports,east,PayPal,1.0,48.95,05-31-2024,
+10743,Patricia Brown, Beauty, North,,5.0,11.21,12-22-2023,0.0
+10352,William Davis,Sports,WEST,Credit Card,3.0,71.96,01/04/2024,10.0
+11217,Linda Nair,CLOTHING,East,Debit Card,4.0,37.16,2024-06-02,
+10235,John Davis,HOME & KITCHEN,east,UPI,2.0,63.34,18/09/2023,
+11982,Mary Gupta,beauty,North,PayPal,3.0,26.85,09/04/2024,0.0
+10480,William Brown,toys,East,UPI,2.0,31.45,26/06/2023,0.0
+10567,  Robert Davis  ,Toy's,NORTH,Debit Card,5.0,22.76,"May 27, 2023",5.0
+11140,  Robert Jones  ,HOME & KITCHEN,East,Debit Card,3.0,51.08,05/11/2023,5.0
+11703,Vikram Johnson,sports,West,Debit Card,5.0,33.22,"January 02, 2024",
+11888,Barbara Das,Electronic ,East,PayPal,2.0,$203.37,2023-04-08,
+11732,Karen Nair,clothing,SOUTH,Cash on Delivery,3.0,20.39,05-21-2023,0.0
+10120,Thomas Jones,Toys,south,Debit Card,1.0,42.12,03/02/2023,5.0
+11388,Karen Rao,Beauty,East,Cash on Delivery,3.0,13.08,10-12-2024,15.0
+11749,Linda Rao,Books,south,UPI,1.0,16.1,04-08-2023,5.0
+11024,Joseph Jones,books, North,Credit Card,,12.73,"May 26, 2023",0.0
+11086,Jennifer Rodriguez, Beauty,,PayPal,2.0,32.86,12-14-2023,0.0
+11272,Neha Martinez,Beauty,SOUTH,UPI,2.0,17.49,06/08/2024,0.0
+10926,Linda Garcia,clothing,SOUTH,Debit Card,2.0,24.47,"August 24, 2024",0.0
+10515,,Sports,South,Debit Card,3.0,46.69,17/01/2023,5.0
+10223,David Singh,Home and Kitchen,NORTH,UPI,3.0,86.83,"May 29, 2023",0.0
+11493,John Rao, Beauty,south,Debit Card,1.0,30.47,2023-07-27,0.0
+10613,Kavya Garcia,TOYS,south,Credit Card,2.0,12.49,14/03/2024,0.0
+10843,Patricia Jones,Toy's,East ,Credit Card,1.0,25.06,18/02/2023,20.0
+11245,Joseph Reddy,Cloth ing,EAST,UPI,5.0,11.71,01-24-2024,
+10052,,Sports,NORTH,Cash on Delivery,3.0,38.4,2024-04-13,10.0
+11867,Jessica Davis,BOOKS,WEST,Credit Card,2.0,11.01,19/11/2023,10.0
+10485,Barbara Gupta,home & kitchen,WEST,Debit Card,1.0,75.37,23/11/2024,5.0
+11939,Linda Smith,electronics,south,UPI,2.0,$339.91,11/03/2024,0.0
+10818,Linda Johnson,Electronic ,SOUTH,Credit Card,3.0,$174.37,"December 14, 2023",0.0
+10155,Susan Johnson,Clothing,,Credit Card,2.0,33.69,2024-04-26,0.0
+11366,Susan Sharma,Cloth ing,south,UPI,4.0,34.28,08/11/2023,15.0
+10600,Arjun Sharma,clothing,EAST,PayPal,1.0,34.85,11-16-2024,15.0
+11623,John Rodriguez,Clothing,SOUTH,PayPal,2.0,56.57,"January 30, 2024",15.0
+10248,Patricia Gupta,Home & Kitchen,East ,UPI,5.0,73.0,11-28-2024,0.0
+10761,Kavya Miller,HOME & KITCHEN,West,Credit Card,2.0,78.66,"November 12, 2024",0.0
+11851,Vikram Martinez, Beauty,East,Cash on Delivery,4.0,27.25,04-26-2023,5.0
+11130,Mary Nair,Toys,SOUTH,Debit Card,4.0,35.28,"March 01, 2023",0.0
+10542,Karen Kumar,Electronic ,East,UPI,4.0,313.21,07-23-2023,0.0
+10793,Susan Reddy,Home & Kitchen,west,Credit Card,4.0,43.47,"December 04, 2023",5.0
+11141,Joseph Reddy,Beauty,west,Cash on Delivery,2.0,3.0,12/04/2024,10.0
+11471,Mary Iyer,beauty,south,PayPal,4.0,35.27,06/12/2024,0.0
+10628,Priya Jones,Books,east,Debit Card,4.0,$14.40,"September 12, 2024",0.0
+10150,Neha Iyer,Sports,North,Debit Card,5.0,42.1,15/02/2023,5.0
+11740,Susan Gupta,toys,south,Cash on Delivery,5.0,33.36,19/10/2024,5.0
+10291,Richard Gupta,Electronic ,south,UPI,1.0,314.45,2023-01-08,15.0
+10381,David Johnson,ELECTRONICS,east,Credit Card,4.0,309.47,22/03/2023,20.0
+10686,James Iyer,CLOTHING,south,Cash on Delivery,5.0,56.05,27/01/2024,15.0
+11367,Michael Davis,Beauty,east,,1.0,31.08,2024-03-03,5.0
+11224,Vikram Reddy,Toys,west,UPI,4.0,25.8,08/09/2024,0.0
+10897,William Das,TOYS,South,PayPal,5.0,33.79,2024-11-07,5.0
+10854,Joseph Martinez,beauty,west,Credit Card,1.0,32.44,03-07-2023,0.0
+11071,Arjun Johnson, Electronics,south,,2.0,349.07,2023-07-03,0.0
+10631,Vikram Johnson,beauty,West,UPI,2.0,26.58,05/08/2024,0.0
+11972,James Brown,Electronics,NORTH,Debit Card,1.0,274.43,03-15-2024,
+11709,Jessica Patel,clothing,east,Debit Card,1.0,16.62,02-10-2023,0.0
+10891,Patricia Gupta,Books,South,Debit Card,2.0,8.36,11-11-2024,0.0
+11778,James Rao,Toy's,north,Cash on Delivery,2.0,22.35,07/07/2023,0.0
+10558,Barbara Brown,electronics,west,Cash on Delivery,2.0,203.23,04-18-2023,20.0
+11364,Sarah Das,BOOKS,WEST,Debit Card,2.0,$10.64,"August 11, 2023",20.0
+10615,Patricia Garcia,beauty,south,Debit Card,1.0,17.55,"March 14, 2024",0.0
+10154,Jennifer Gupta,BEAUTY,East ,,5.0,27.75,"February 02, 2023",0.0
+11193,,books,EAST,Credit Card,4.0,15.85,"February 02, 2024",10.0
+11837,Sarah Brown,TOYS,east,PayPal,2.0,$24.69,05-20-2023,10.0
+11926,Rahul Nair,BOOKS,south,Cash on Delivery,2.0,13.56,02/08/2023,0.0
+11803,Aditya Smith,Home & Kitchen,EAST,Cash on Delivery,3.0,36.93,2024-10-28,0.0
+10322,Michael Jones,Clothing,East ,UPI,5.0,32.86,01-30-2024,0.0
+11567,Richard Martinez,Toy's,East ,PayPal,1.0,39.05,"November 20, 2024",0.0
+11282,Aditya Reddy,Books,west,Cash on Delivery,2.0,$19.72,02-15-2024,
+10082,Elizabeth Rodriguez,Clothing,east,UPI,1.0,58.75,17/08/2024,0.0
+10512,Elizabeth Reddy,clothing,SOUTH,PayPal,2.0,35.52,05-01-2023,0.0
+11545,Sarah Nair,,WEST,PayPal,5.0,29.69,"April 14, 2024",10.0
+11502,Meera Williams,sports,East ,Debit Card,5.0,51.44,2024-12-02,20.0
+10929,Rahul Gupta,clothing,West,Cash on Delivery,3.0,43.58,2023-04-17,5.0
+11653,Priya Gupta,Clothing,SOUTH,UPI,2.0,35.52,31/10/2024,10.0
+11357,Mary Kumar,toys,East ,PayPal,2.0,39.52,09-13-2023,15.0
+10010,James Williams,Books,SOUTH,PayPal,3.0,20.31,30/06/2024,0.0
+10831,Charles Davis,beauty,west,Cash on Delivery,1.0,$33.72,2023-07-27,10.0
+10032,  Neha Martinez  ,toys,west,Credit Card,2.0,$35.72,2024-09-30,0.0
+11532,Karen Gupta,books,East,UPI,5.0,14.19,2024-01-13,0.0
+10413,Richard Singh,BOOKS,South,UPI,,$9.97,02/06/2023,15.0
+10580,Rahul Kumar,TOYS,east,Credit Card,3.0,39.67,12-18-2023,10.0
+11406,  Sarah Nair  ,BOOKS,North,UPI,2.0,12.44,2023-02-27,0.0
+11705,Richard Jones,Beauty,south,Credit Card,1.0,30.78,03/06/2023,0.0
+11508,Vikram Garcia,BOOKS,West,PayPal,5.0,$20.46,01-15-2024,0.0
+11930,Jennifer Patel,sports,east,UPI,5.0,71.88,08-17-2024,5.0
+10614,Kavya Reddy,BOOKS,NORTH,PayPal,4.0,18.43,"September 17, 2023",0.0
+11045,Vikram Reddy,beauty,EAST,PayPal,1.0,27.05,03-24-2024,5.0
+11402,James Iyer,BOOKS,South,UPI,2.0,21.21,12-26-2023,
+11014,Aditya Johnson,Electronics,EAST,Cash on Delivery,5.0,,2023-02-28,0.0
+10089,James Jones,Clothing,North,Credit Card,2.0,,08-18-2024,0.0
+11916,John Williams,BOOKS,WEST,,5.0,22.25,16/01/2023,0.0
+10601,Jennifer Singh,CLOTHING,west,Cash on Delivery,3.0,50.6,03-16-2023,15.0
+11237,John Martinez,,SOUTH,Credit Card,4.0,,"July 10, 2023",0.0
+11862,William Sharma,electronics, North,Credit Card,4.0,265.3,25/09/2024,20.0
+10133,Sarah Smith,Sports,south,UPI,1.0,47.1,01/02/2024,
+11370,Sarah Rodriguez,beauty,West,Cash on Delivery,5.0,24.57,05-04-2024,0.0
+10555,Vikram Brown,Electronics,WEST,Debit Card,3.0,385.54,"May 16, 2024",
+11031,Charles Kumar,Books,South,Debit Card,1.0,17.23,14/03/2024,
+11586,James Martinez,clothing,EAST,Debit Card,4.0,42.25,07-30-2024,0.0
+10320,Vikram Rao,Sports,NORTH,Cash on Delivery,1.0,$40.12,25/10/2024,
+11794,Priya Davis,Toys,east,UPI,4.0,3.24,19/02/2024,0.0
+11211,Arjun Rodriguez,Toy's,SOUTH,Debit Card,3.0,35.97,10-05-2024,0.0
+11760,,Home & Kitchen,SOUTH,Cash on Delivery,1.0,57.68,"August 17, 2024",
+10634,Elizabeth Jones,ELECTRONICS,East,Credit Card,2.0,195.89,12-15-2024,10.0
+10552,Elizabeth Gupta,Home & Kitchen,west,UPI,1.0,57.55,2023-12-24,0.0
+11328,Patricia Kumar,BEAUTY,South,Cash on Delivery,3.0,26.71,2024-08-15,0.0
+11055,Michael Rodriguez,Toy's,WEST,Credit Card,3.0,19.22,"March 07, 2023",0.0
+11936,Susan Williams,SPORTS,WEST,Credit Card,3.0,41.5,08-21-2024,0.0
+10796,Rohan Reddy,home & kitchen,SOUTH,PayPal,4.0,$77.60,"January 23, 2024",0.0
+11683,Vikram Nair,BEAUTY,SOUTH,Credit Card,2.0,28.01,"March 21, 2024",0.0
+11264,Barbara Jones,books, North,Debit Card,5.0,17.16,07-18-2023,0.0
+11733,Richard Patel,CLOTHING,East,Debit Card,1.0,15.09,20/05/2023,0.0
+10174,Vikram Patel,BEAUTY,South,Debit Card,2.0,34.88,"January 06, 2024",10.0
+10766,Richard Rodriguez,beauty,East,PayPal,2.0,30.86,08-23-2024,0.0
+10245,Elizabeth Johnson,BEAUTY,West,Debit Card,3.0,23.25,2023-08-12,
+11080,Vikram Patel,BOOKS,SOUTH,UPI,1.0,14.19,19/04/2024,20.0
+11759,Karen Garcia,TOYS,WEST,,1.0,14.48,"November 11, 2024",10.0
+10145,Jessica Kumar,Cloth ing,South,Cash on Delivery,5.0,44.01,11-12-2023,0.0
+10090,Rahul Patel,books,west,Cash on Delivery,1.0,20.8,08-03-2024,0.0
+11416,William Das,Books,SOUTH,PayPal,2.0,12.84,"August 23, 2023",
+10682,Vikram Das,BOOKS,WEST,UPI,4.0,15.39,"February 13, 2023",10.0
+10310,Aditya Jones,TOYS,West,Credit Card,2.0,35.19,03-15-2024,0.0
+11383,Susan Brown,beauty,west,PayPal,4.0,18.04,02-16-2024,
+10093,Linda Davis,SPORTS,south,PayPal,1.0,62.85,"February 06, 2024",10.0
+11588,Robert Brown,Electronic ,east,UPI,2.0,261.97,"May 23, 2023",20.0
+10924,Arjun Patel,SPORTS,East,Debit Card,5.0,60.19,"April 11, 2023",
+11708,Rohan Sharma,BEAUTY,south,Cash on Delivery,3.0,25.07,02-21-2023,5.0
+11035,Rahul Rao,beauty,North,PayPal,5.0,28.7,24/05/2024,15.0
+11400,David Kumar,Clothing,west,Cash on Delivery,1.0,44.68,27/03/2024,0.0
+10243,Rohan Rao,SPORTS,North,UPI,3.0,44.25,"December 03, 2024",20.0
+11500,Joseph Davis,Beauty,EAST,PayPal,5.0,16.76,01-16-2023,0.0
+11111,Meera Das,SPORTS,WEST,Cash on Delivery,1.0,84.43,"June 30, 2023",0.0
+10214,Rahul Brown,electronics,NORTH,PayPal,1.0,158.48,06-29-2023,
+10808,Patricia Martinez,toys,,Credit Card,2.0,32.41,"April 30, 2024",20.0
+11197,Robert Das,Electronic ,NORTH,PayPal,2.0,431.96,16/09/2023,
+10998,Aditya Rao,Home and Kitchen, North,PayPal,5.0,86.23,2023-11-26,20.0
+10853,Susan Brown,Electronics,South,UPI,4.0,154.48,2023-06-10,10.0
+10425,Jessica Rodriguez,ELECTRONICS, North,PayPal,1.0,166.6,2024-08-20,15.0
+11913,Jessica Iyer, Beauty,west,UPI,1.0,25.06,13/10/2024,0.0
+11142,Susan Davis,HOME & KITCHEN,west,Cash on Delivery,2.0,,09/01/2024,0.0
+11143,Jessica Miller,CLOTHING,west,UPI,5.0,19.65,"July 18, 2023",0.0
+10226,Jennifer Gupta,Sports,south,Debit Card,5.0,45.64,03/09/2023,20.0
+11648,Rahul Davis,Toy's,south,UPI,1.0,17.72,2024-07-07,0.0
+10000,William Sharma,Books,WEST,Cash on Delivery,,$10.00,2023-08-03,0.0
+11418,Rahul Garcia,Home and Kitchen, North,Debit Card,2.0,20.35,2024-11-20,
+10401,,Sports,south,Debit Card,2.0,50.78,2023-09-19,0.0
+11428,Barbara Garcia,BEAUTY,south,UPI,4.0,$23.08,04-12-2024,
+11103,Kavya Garcia,Beauty,East,Cash on Delivery,2.0,30.26,2023-09-03,5.0
+10084,Linda Jones,HOME & KITCHEN,SOUTH,Debit Card,1.0,1680.6284065300295,"August 31, 2023",
+10162,  Richard Iyer  ,Books,south,Debit Card,3.0,7.84,2023-03-05,15.0
+10114,Elizabeth Miller,Beauty,NORTH,Cash on Delivery,2.0,22.93,"January 07, 2023",0.0
+10670,Priya Nair,Toys,North,Credit Card,5.0,35.98,02-25-2024,0.0
+11174,Arjun Nair,Toy's,SOUTH,Debit Card,3.0,34.69,2023-02-22,15.0
+11547,Ananya Patel,BOOKS, North,Credit Card,4.0,19.0,07-06-2023,10.0
+11535,James Smith,Electronics,east,Credit Card,4.0,237.26,2024-03-18,5.0
+11392,James Jones,Electronics,west,Debit Card,4.0,,22/03/2023,0.0
+10889,Susan Rao,CLOTHING,south,UPI,2.0,27.64,"July 20, 2023",10.0
+11501,David Jones,Home and Kitchen,north,PayPal,4.0,60.8,"October 28, 2024",15.0
+10625,Michael Patel,BOOKS,east,Cash on Delivery,4.0,10.04,2024-11-23,5.0
+11813,Susan Garcia,Books,West,Cash on Delivery,2.0,19.88,11/06/2023,
+11550,Aditya Brown,TOYS,North,PayPal,3.0,34.18,"January 07, 2023",10.0
+11986,Neha Martinez,Sports,North,PayPal,4.0,$57.79,26/09/2023,15.0
+10952,William Williams,Beauty,east,Cash on Delivery,1.0,34.67,"May 07, 2024",0.0
+10807,John Johnson,CLOTHING,SOUTH,UPI,2.0,32.11,"March 16, 2024",20.0
+10258,Meera Brown,Toys,east,,4.0,27.53,"October 25, 2024",0.0
+10624,Patricia Martinez,SPORTS,North,Credit Card,2.0,51.98,"March 06, 2023",0.0
+10826,Elizabeth Patel,Sports,South,PayPal,1.0,24.87,03/10/2023,0.0
+10234,Karen Gupta,ELECTRONICS,NORTH,PayPal,4.0,,2024-10-12,5.0
+10135,Ananya Patel,Toys, North,UPI,5.0,29.82,14/11/2023,20.0
+10616,William Miller, Electronics,north,Credit Card,1.0,$242.97,17/08/2023,20.0
+11952,William Brown,toys,,Credit Card,2.0,$21.42,2023-12-24,5.0
+11987,Mary Sharma,home & kitchen,east,UPI,3.0,39.55,10-16-2023,0.0
+10836,,Home & Kitchen,north,Debit Card,3.0,28.8,21/11/2024,0.0
+10842,Michael Iyer,Books,South,Debit Card,4.0,13.53,13/11/2024,20.0
+10959,Jessica Rao,Toys,EAST,Debit Card,4.0,27.2,2024-09-10,15.0
+10592,Arjun Kumar,Sports,east,UPI,5.0,47.18,2023-06-13,0.0
+11314,Aditya Reddy,TOYS,West,UPI,5.0,28.45,2024-08-12,5.0
+11525,Susan Rao,SPORTS,NORTH,PayPal,1.0,71.65,2023-12-22,0.0
+11291,Charles Kumar,books,,PayPal,1.0,22.09,11-04-2023,15.0
+10343,Rohan Nair,BEAUTY, North,Credit Card,2.0,$18.77,"April 11, 2023",0.0
+11671,Rahul Williams,CLOTHING,WEST,PayPal,2.0,62.57,07-20-2023,0.0
+11596,Neha Reddy,HOME & KITCHEN,East,PayPal,3.0,$59.09,2023-06-10,5.0
+10293,  Patricia Patel  ,,WEST,UPI,4.0,64.14,06-23-2024,0.0
+10364,Rahul Smith,CLOTHING,SOUTH,Credit Card,4.0,32.3,"May 09, 2024",0.0
+10178,Rohan Singh, Beauty,north,Cash on Delivery,2.0,$19.25,"December 07, 2024",0.0
+10659,Sarah Das,Toy's,East ,Debit Card,1.0,33.25,03-18-2024,0.0
+10996,,Toys,West,PayPal,2.0,45.89,05/06/2024,0.0
+10014,  Barbara Das  ,sports,south,PayPal,4.0,70.1,11/09/2024,0.0
+11110,Joseph Martinez,BEAUTY,WEST,Cash on Delivery,2.0,17.16,2024-04-08,0.0
+11394,Mary Williams,Toys,WEST,PayPal,2.0,37.01,15/02/2023,0.0
+10165,Karen Miller,clothing,north,Debit Card,1.0,40.57,2024-08-11,
+11905,Thomas Das, Electronics,NORTH,PayPal,5.0,202.97,2023-06-24,10.0
+11359,  John Rodriguez  ,sports, North,Cash on Delivery,1.0,,"July 30, 2024",0.0
+10059,Jessica Sharma,Sports,WEST,PayPal,5.0,56.47,29/05/2023,5.0
+10709,Robert Brown,Toys,West,PayPal,3.0,38.41,2024-04-27,20.0
+10676,Kavya Reddy,CLOTHING,WEST,Credit Card,3.0,54.55,2024-06-04,20.0
+11378,Elizabeth Iyer,Books,south,Debit Card,2.0,19.26,13/01/2024,
+10780,Joseph Williams, Beauty,West,UPI,,19.07,"November 27, 2024",20.0
+10424,Vikram Nair,Electronics,east,UPI,5.0,446.56,"February 20, 2024",0.0
+10292,Linda Rao,books,East ,Credit Card,,18.99,"February 10, 2024",10.0
+11065,Linda Kumar,Sports,SOUTH,PayPal,2.0,45.18,04-08-2024,0.0
+11815,Jessica Smith,home & kitchen,South,UPI,2.0,78.13,"February 26, 2023",10.0
+10329,Rahul Gupta,CLOTHING,NORTH,Debit Card,3.0,37.1,26/11/2024,0.0
+10429,Susan Davis,Home and Kitchen,EAST,UPI,3.0,60.61,11-24-2024,0.0
+11012,Arjun Jones,Clothing,east,Cash on Delivery,1.0,28.18,24/05/2023,20.0
+10079,Richard Reddy,books,east,PayPal,3.0,$15.25,22/05/2024,0.0
+11052,Aditya Smith,Cloth ing,EAST,Debit Card,2.0,47.08,09-28-2024,0.0
+10937,  Michael Gupta  ,Home & Kitchen,EAST,,5.0,33.11,09-01-2023,0.0
+10834,Linda Das,toys,WEST,,2.0,19.39,"October 17, 2024",0.0
+10749,David Reddy,Electronics,WEST,Debit Card,4.0,262.14,2024-10-19,10.0
+10890,William Miller,sports,south,,1.0,$73.02,14/04/2023,0.0
+10254,Jessica Gupta,Home and Kitchen,EAST,UPI,4.0,$41.56,2024-10-21,0.0
+11757,Aditya Garcia, Beauty,East ,Cash on Delivery,3.0,18.81,10/05/2023,20.0
+11482,Vikram Iyer, Electronics,WEST,Cash on Delivery,1.0,$109.00,2023-06-05,20.0
+11998,Mary Davis,beauty,SOUTH,Credit Card,1.0,23.41,2023-07-01,5.0
+11407,Richard Patel,CLOTHING,north,UPI,5.0,32.98,03-24-2023,10.0
+11337,Rahul Kumar,books,west,PayPal,5.0,18.5,05-26-2023,
+11108,Karen Johnson,Electronic ,South,UPI,4.0,187.71,07-18-2024,10.0
+10136,James Iyer,ELECTRONICS,South,Debit Card,4.0,$230.03,01-24-2024,5.0
+11135,Patricia Williams,Home & Kitchen,WEST,Credit Card,1.0,57.47,2023-11-04,20.0
+11218,Neha Iyer,BOOKS, North,PayPal,1.0,18.52,2024-09-29,0.0
+10852,Jennifer Das,Toys,North,Cash on Delivery,5.0,$32.79,11-06-2024,20.0
+11202,Vikram Singh,electronics,west,Cash on Delivery,5.0,274.76,16/11/2023,20.0
+11911,  Elizabeth Miller  ,Beauty,South,UPI,5.0,994.8097620378462,2024-04-25,
+10723,William Smith,Beauty,EAST,Debit Card,1.0,3.0,"March 17, 2024",0.0
+10859,,clothing,SOUTH,Cash on Delivery,1.0,-44.79,2024-08-22,15.0
+10969,James Smith, Electronics,West,Credit Card,3.0,187.44,27/02/2024,15.0
+10496,Susan Singh,TOYS,South,Cash on Delivery,5.0,32.55,2023-06-12,0.0
+10950,Charles Martinez,Toys,west,PayPal,5.0,15.98,2024-08-28,5.0
+10805,Karen Martinez,HOME & KITCHEN,SOUTH,Debit Card,2.0,51.46,11-05-2024,15.0
+10129,Meera Patel,,NORTH,Debit Card,1.0,17.79,04-10-2024,
+10337,William Rodriguez,Books,EAST,Credit Card,2.0,14.02,2023-12-20,20.0
+10881,Kavya Das,books,NORTH,Credit Card,1.0,9.58,07/07/2023,0.0
+10608,Sarah Miller,Beauty,,Cash on Delivery,5.0,$26.42,04-08-2023,0.0
+11148,Arjun Patel,clothing,north,Cash on Delivery,1.0,34.63,22/09/2023,0.0
+10195,William Nair,Home and Kitchen,North,UPI,5.0,63.08,"February 11, 2024",20.0
+11250,Elizabeth Johnson,SPORTS,south,Debit Card,1.0,$48.81,10-23-2023,10.0
+11292,Susan Jones,clothing,SOUTH,,2.0,$47.56,11-13-2023,0.0
+11210,Neha Jones,Clothing,East,UPI,1.0,30.88,2024-07-08,10.0
+10909,John Patel,sports,East ,Cash on Delivery,3.0,48.53,"April 21, 2023",0.0
+10584,  Susan Johnson  ,Cloth ing,NORTH,Cash on Delivery,5.0,17.92,16/03/2023,0.0
+10103,Vikram Singh,Electronic ,south,Credit Card,5.0,300.43,2024-02-09,0.0
+11617,Richard Rao,books,SOUTH,,3.0,24.24,11-08-2024,0.0
+11874,Jessica Nair,electronics, North,Cash on Delivery,4.0,353.17,31/10/2023,20.0
+11893,Susan Nair,BOOKS,WEST,UPI,5.0,13.7,20/10/2023,20.0
+10719,Charles Martinez,TOYS,north,PayPal,5.0,24.89,2024-04-22,
+10884,Neha Iyer,SPORTS,South,Debit Card,3.0,$51.10,13/11/2023,
+10776,Rahul Singh,Home & Kitchen,EAST,UPI,1.0,62.28,27/02/2024,5.0
+11569,Ananya Johnson,toys,East ,Credit Card,5.0,41.1,"March 24, 2023",0.0
+10849,David Smith,SPORTS,North,PayPal,4.0,35.58,2024-03-30,15.0
+10894,David Williams,Beauty,east,UPI,3.0,24.54,"September 10, 2023",20.0
+10227,Vikram Reddy,Sports,North,Cash on Delivery,5.0,48.57,2023-08-01,0.0
+11907,Mary Iyer,ELECTRONICS,South,Debit Card,1.0,388.23,23/06/2024,0.0
+11325,Richard Patel,BOOKS,East,Debit Card,3.0,25.12,2024-03-19,0.0
+11299,Priya Johnson,Home and Kitchen,WEST,Credit Card,4.0,69.76,24/11/2023,10.0
+10126,William Davis,sports,North,PayPal,1.0,57.97,02/03/2023,0.0
+10405,Neha Kumar,Toy's,east,PayPal,3.0,13.1,13/06/2023,0.0
+10775,,Books,West,PayPal,2.0,22.0,2023-09-05,10.0
+10821,Elizabeth Iyer,Electronics,North,PayPal,3.0,255.2,"January 12, 2023",15.0
+10711,Karen Johnson,Electronic , North,PayPal,2.0,278.76,2024-08-11,0.0
+11957,Richard Rao,SPORTS,south,Credit Card,-1.0,83.0,07/02/2024,
+11060,Patricia Garcia,SPORTS,west,PayPal,2.0,45.92,"February 03, 2023",10.0
+11163,Rohan Das,Electronics,West,UPI,5.0,$247.95,2023-11-17,5.0
+10303,Charles Gupta,Electronics,NORTH,Debit Card,4.0,159.62,13/01/2024,20.0
+10267,Michael Das,clothing,EAST,UPI,3.0,64.12,07-14-2024,15.0
+11557,Mary Miller,HOME & KITCHEN,SOUTH,PayPal,2.0,60.57,2024-10-08,15.0
+10545,  Aditya Rodriguez  ,Cloth ing,East ,PayPal,3.0,39.54,03-18-2023,20.0
+10212,  Michael Smith  ,Beauty, North,UPI,2.0,25.56,31/03/2024,15.0
+10896,Rohan Iyer,Electronic ,East,PayPal,3.0,312.69,08-24-2023,0.0
+11492,Patricia Miller,clothing,east,UPI,2.0,59.36,2023-10-08,0.0
+11222,Sarah Miller,CLOTHING,East,Credit Card,4.0,51.72,2024-01-24,
+10916,Susan Singh,Books,north,Debit Card,1.0,10.3,21/01/2024,0.0
+11551,Rohan Nair,BOOKS,west,Debit Card,2.0,14.68,06-08-2024,15.0
+10675,Charles Rao,home & kitchen, North,UPI,5.0,43.93,2023-08-09,20.0
+11289,Rohan Johnson, Beauty,east,Debit Card,5.0,34.54,09/03/2023,0.0
+10814,James Gupta,Electronic ,SOUTH,Cash on Delivery,5.0,381.11,2024-03-19,
+11265,Jennifer Patel,CLOTHING,west,Credit Card,3.0,51.97,2023-07-15,0.0
+10342,Joseph Rodriguez,Home & Kitchen, North,PayPal,3.0,49.56,2024-03-27,0.0
+10549,Rohan Brown,SPORTS,South,Debit Card,1.0,74.18,2023-04-26,0.0
+11410,Joseph Rodriguez,electronics,NORTH,UPI,1.0,,12-28-2024,5.0
+11214,Charles Reddy,BOOKS,east,Cash on Delivery,4.0,23.08,"March 01, 2023",0.0
+10966,Patricia Jones,ELECTRONICS,SOUTH,,1.0,292.98,2024-10-24,0.0
+11230,John Kumar,books,East ,PayPal,4.0,13.81,"August 27, 2023",15.0
+10295,Kavya Kumar,Beauty,SOUTH,PayPal,1.0,37.71,03-16-2024,10.0
+10695,Richard Brown,Electronics,East,UPI,4.0,276.22,"February 28, 2024",5.0
+11452,Rohan Reddy,SPORTS,east,PayPal,,47.22,24/09/2023,
+10073,Jessica Davis,Electronic ,East ,UPI,3.0,247.55,01-09-2024,0.0
+10605,Joseph Williams,sports,WEST,Cash on Delivery,3.0,75.28,"January 07, 2024",10.0
+10104,David Rodriguez,books,South,Cash on Delivery,5.0,26.42,2024-03-06,0.0
+10645,Thomas Patel,clothing,South,Cash on Delivery,4.0,39.82,13/10/2023,15.0
+11404,John Iyer,, North,UPI,5.0,28.91,15/12/2024,20.0
+11991,Jessica Singh,Beauty,West,PayPal,4.0,16.57,2024-05-12,
+11040,Arjun Johnson,Home & Kitchen,north,UPI,4.0,48.32,28/05/2024,0.0
+10439,  Aditya Davis  ,Sports,West,Cash on Delivery,4.0,$32.44,06-10-2023,10.0
+11019,Michael Gupta,Electronic ,SOUTH,PayPal,2.0,279.85,08-21-2023,10.0
+10091,James Davis,Electronic ,South,PayPal,372.0,284.84,2024-06-30,0.0
+11112,David Brown,BEAUTY,north,PayPal,4.0,17.42,2023-12-02,0.0
+11780,Elizabeth Williams,Sports,WEST,PayPal,4.0,$59.80,27/06/2023,0.0
+10908,Neha Sharma,Books,North,PayPal,1.0,23.18,07-22-2024,0.0
+11474,John Jones,Electronics,EAST,Credit Card,3.0,326.42,23/05/2023,5.0
+10102,Kavya Singh,Sports,west,PayPal,2.0,74.88,2023-02-20,20.0
+10238,William Martinez,Home and Kitchen,West,Debit Card,4.0,59.34,14/08/2023,20.0
+10447,Elizabeth Das,sports,West,PayPal,2.0,31.91,23/04/2023,0.0
+10942,Jennifer Smith,books,south,Cash on Delivery,3.0,13.05,"April 03, 2024",15.0
+11270,Robert Brown,Toys,west,Credit Card,1.0,36.78,"September 18, 2023",15.0
+10938,Arjun Reddy,BEAUTY, North,Credit Card,1.0,-26.1,15/02/2023,
+11717,David Gupta,Cloth ing,WEST,Debit Card,4.0,,12-28-2024,0.0
+11181,Michael Gupta,BOOKS,South,PayPal,,11.74,09-25-2023,15.0
+11503,Meera Brown,BOOKS,west,Cash on Delivery,1.0,16.5,2024-12-03,0.0
+11669,John Gupta,BOOKS,west,Debit Card,2.0,15.3,2023-01-21,0.0
+10005,,books,east,Debit Card,1.0,19.26,07-15-2024,5.0
+11842,Vikram Patel,Home and Kitchen,WEST,UPI,1.0,$51.87,15/08/2023,5.0
+10965,  Patricia Brown  ,Home & Kitchen,north,,1.0,71.63,21/02/2024,0.0
+10018,Thomas Johnson,books,south,Cash on Delivery,1.0,11.59,29/11/2024,0.0
+11430,Vikram Martinez,books,West,Cash on Delivery,2.0,16.67,2024-05-10,0.0
+10121,Ananya Garcia,BOOKS, North,,2.0,15.57,12-08-2023,5.0
+10661,Mary Reddy,BOOKS,West,Cash on Delivery,1.0,20.04,"August 01, 2023",0.0
+11707,Robert Williams,Beauty,East,Cash on Delivery,2.0,26.96,2024-04-09,0.0
+10274,Rahul Kumar,beauty,East ,UPI,5.0,28.91,16/06/2024,15.0
+10433,Aditya Garcia,Home & Kitchen,east,Credit Card,4.0,,"September 22, 2023",20.0
+10811,Michael Gupta,Toy's,WEST,Debit Card,1.0,32.75,02-07-2024,20.0
+11300,  James Rao  ,BOOKS,West,Credit Card,1.0,20.9,2024-09-12,5.0
+11335,  Linda Sharma  ,sports,West,Credit Card,,59.24,2024-03-15,20.0
+11894,Mary Reddy,beauty,South,Credit Card,2.0,24.42,03-24-2023,20.0
+11917,David Davis,home & kitchen,WEST,,2.0,43.38,13/04/2024,0.0
+11570,Elizabeth Martinez,Cloth ing,west,Debit Card,1.0,45.57,06/10/2024,10.0
+10181,Kavya Das,beauty,east,,4.0,13.66,09-08-2023,0.0
+10184,Priya Patel,sports,,Cash on Delivery,3.0,29.52,2023-06-27,5.0
+10406,Kavya Garcia,TOYS,North,Credit Card,1.0,38.8,"March 14, 2023",5.0
+10865,William Smith,books,South,PayPal,2.0,8.87,13/05/2023,0.0
+11630,Karen Singh,beauty,SOUTH,PayPal,1.0,$29.62,08-31-2024,0.0
+10520,Joseph Das,Beauty, North,UPI,4.0,21.48,27/08/2023,0.0
+11003,Priya Rao,TOYS,west,UPI,3.0,36.95,"December 21, 2024",0.0
+10380,Ananya Jones,home & kitchen,West,Credit Card,1.0,31.41,2024-09-26,
+11434,,BOOKS,west,PayPal,1.0,14.1,"February 05, 2023",5.0
+11658,Karen Patel,Beauty,EAST,UPI,1.0,28.55,2023-04-20,15.0
+11393,Rohan Jones,Home & Kitchen,WEST,UPI,1.0,75.26,08-28-2023,0.0
+11424,Meera Gupta,Home and Kitchen,south,Cash on Delivery,5.0,,27/06/2023,20.0
+11612,  Charles Miller  ,BOOKS,,PayPal,2.0,11.75,"January 01, 2023",10.0
+10427,Rohan Garcia,HOME & KITCHEN,WEST,Credit Card,2.0,56.35,10-09-2024,5.0
+10078,Arjun Johnson,Books,east,PayPal,4.0,14.84,2023-03-19,0.0
+11597,Priya Sharma,Sports,NORTH,Credit Card,4.0,$57.64,"August 30, 2023",0.0
+11009,Priya Martinez,ELECTRONICS,,PayPal,5.0,260.68,2024-11-05,10.0
+10674,Michael Rodriguez,Cloth ing,South,PayPal,5.0,38.09,"June 28, 2024",
+11661,Joseph Rao,Sports,WEST,PayPal,2.0,86.25,2023-02-18,0.0
+10607,Joseph Kumar,Clothing,west,Cash on Delivery,3.0,47.3,12-02-2024,15.0
+11809,Jennifer Rao,SPORTS,East ,Cash on Delivery,5.0,$75.21,26/08/2024,20.0
+10231,Elizabeth Reddy,clothing,West,UPI,5.0,37.49,04-07-2023,
+11849,Sarah Nair,home & kitchen,EAST,Cash on Delivery,1.0,51.81,12-08-2023,10.0
+11057,,Cloth ing,south,Cash on Delivery,5.0,38.63,"March 21, 2024",0.0
+11440,Elizabeth Garcia,toys,SOUTH,UPI,3.0,39.3,"September 16, 2023",10.0
+11514,Susan Johnson, Beauty,WEST,Credit Card,1.0,32.94,"June 05, 2023",10.0
+11585,Priya Patel,Electronics,West,Cash on Delivery,4.0,$233.50,08-03-2023,20.0
+11091,Vikram Singh,TOYS,South,UPI,5.0,36.18,"January 16, 2024",15.0
+11560,Robert Rodriguez,Home and Kitchen,SOUTH,Credit Card,3.0,$34.87,25/03/2024,0.0
+11101,John Miller,,North,Credit Card,3.0,33.82,06-21-2023,15.0
+11129,Rohan Patel,Clothing,South,PayPal,1.0,41.22,04-25-2024,20.0
+11235,Karen Kumar,,SOUTH,PayPal,2.0,123.76,"September 11, 2023",0.0
+11791,John Martinez,Toy's,WEST,Cash on Delivery,3.0,35.34,02/03/2024,10.0
+10958,Rahul Miller,Cloth ing,EAST,Cash on Delivery,3.0,46.78,"February 21, 2024",15.0
+11662,James Gupta,SPORTS, North,Credit Card,4.0,53.76,"January 30, 2023",0.0
+10559,Vikram Kumar,books,north,UPI,1.0,10.46,01-18-2024,15.0
+10846,Mary Miller,Cloth ing,EAST,Cash on Delivery,1.0,,"March 16, 2023",0.0
+11770,Thomas Gupta,clothing,east,Debit Card,1.0,25.45,05/06/2023,0.0
+10690,Joseph Garcia,Toys,South,PayPal,5.0,27.19,13/06/2024,0.0
+11519,Michael Iyer,Electronic , North,Cash on Delivery,2.0,318.19,2023-10-31,5.0
+11965,Vikram Williams,home & kitchen,West,Credit Card,4.0,42.95,08/01/2023,15.0
+11892,Michael Kumar, Electronics,WEST,Credit Card,5.0,316.6,"February 25, 2024",15.0
+10436,Rahul Iyer, Beauty,east,Credit Card,2.0,18.19,19/10/2024,20.0
+10490,Ananya Jones, Beauty,NORTH,Cash on Delivery,5.0,23.64,08-25-2023,15.0
+10375,Meera Garcia,Sports,North,Debit Card,5.0,75.02,11-11-2024,20.0
+11864,Susan Patel,Cloth ing,North,PayPal,5.0,40.64,"December 28, 2023",15.0
+11629,Arjun Rao,Toy's,WEST,UPI,4.0,37.72,02/02/2023,5.0
+11387,James Smith,SPORTS,West,,3.0,52.62,05/07/2024,0.0
+10069,William Rao,Electronic ,west,Debit Card,5.0,229.88,2024-07-31,0.0
+11572,Sarah Reddy,books,east,,2.0,12.0,2023-02-16,
+10808,Patricia Martinez,toys,,Credit Card,2.0,32.41,04-30-2024,20.0
+11184,William Reddy, Beauty,East,PayPal,4.0,16.48,07/04/2023,0.0
+10011,Joseph Gupta,sports,south,UPI,3.0,$40.18,01-28-2024,10.0
+10144,William Johnson,Electronic ,SOUTH,PayPal,1.0,271.44,2023-09-18,10.0
+10917,Susan Gupta,BOOKS,SOUTH,PayPal,4.0,14.88,04-08-2024,0.0
+11541,Kavya Garcia,BOOKS,West,Credit Card,2.0,18.19,2023-09-11,15.0
+11451,Joseph Martinez,Home and Kitchen,South,Credit Card,5.0,57.83,"October 24, 2024",20.0
+10639,Charles Das,electronics,North,Debit Card,3.0,139.23,2023-09-04,0.0
+10176,Rahul Gupta,toys,SOUTH,Credit Card,5.0,6.51,2024-07-06,5.0
+10994,Michael Jones,Beauty,West,Credit Card,1.0,27.45,2023-09-11,15.0
+10440,Jennifer Singh,Home and Kitchen,East ,Cash on Delivery,2.0,50.32,18/11/2024,20.0
+10521,William Jones,clothing,north,UPI,4.0,22.86,09-29-2024,10.0
+11131,Aditya Jones,Books, North,Credit Card,4.0,9.53,"May 23, 2024",10.0
+11969,Rahul Rao,electronics,SOUTH,PayPal,3.0,336.81,05/06/2023,15.0
+11712,  Mary Davis  ,Sports,South,Cash on Delivery,3.0,62.4,06-19-2023,5.0
+11004,Vikram Rao,Electronic ,south,UPI,190.0,312.77,13/04/2024,10.0
+11255,Richard Brown,HOME & KITCHEN,,UPI,5.0,$44.64,17/08/2024,15.0
+11234,Vikram Kumar,Toy's,south,Cash on Delivery,3.0,29.42,"February 22, 2023",0.0
+11664,Ananya Sharma,Sports,SOUTH,PayPal,4.0,63.79,"May 16, 2023",15.0
+10143,Arjun Williams,SPORTS,South,Credit Card,3.0,70.6,08/09/2024,0.0
+10753,Elizabeth Smith,toys,NORTH,Debit Card,5.0,23.25,10-10-2024,5.0
+10519,,sports,East ,UPI,2.0,$69.28,"October 14, 2024",20.0
+10874,Vikram Davis,Home & Kitchen,North,Credit Card,5.0,65.55,12-03-2023,
+11322,Joseph Davis,BOOKS,east,Cash on Delivery,1.0,15.36,26/02/2024,15.0
+10822,Rohan Brown,Toys,west,UPI,1.0,-15.32,2023-02-25,0.0
+10428,Richard Gupta,Books,WEST,Debit Card,2.0,16.62,29/11/2023,
+10612,Elizabeth Johnson,Electronics,NORTH,UPI,1.0,333.53,09/12/2024,15.0
+11505,Jennifer Kumar,sports,North,Credit Card,4.0,51.76,05-19-2024,15.0
+11783,Meera Johnson,BOOKS,WEST,UPI,1.0,21.66,12/04/2024,10.0
+11032,Rahul Patel,electronics,NORTH,,4.0,220.96,"November 15, 2024",10.0
+10156,Karen Johnson,SPORTS,north,UPI,5.0,$62.26,16/03/2023,15.0
+10539,  Neha Davis  ,BOOKS,North,UPI,2.0,,22/05/2024,5.0
+11530,John Smith,clothing,south,Cash on Delivery,2.0,40.39,02/06/2024,
+11460,Thomas Miller,,east,Credit Card,1.0,47.7,2023-05-17,0.0
+11290,Arjun Das,BOOKS,south,Debit Card,4.0,10.37,"August 26, 2024",
+10461,Priya Martinez,Beauty,SOUTH,Debit Card,1.0,27.12,2023-03-06,10.0
+10576,Charles Sharma,TOYS,south,PayPal,1.0,25.54,2024-12-05,0.0
+11362,Karen Rodriguez,Sports,west,PayPal,4.0,58.99,16/09/2024,20.0
+10255,John Das,Books,north,Debit Card,2.0,23.34,02-04-2024,0.0
+10979,Thomas Garcia,Electronic ,south,UPI,5.0,121.21,2023-11-22,0.0
+11185,Elizabeth Reddy,Beauty,south,,2.0,31.17,"August 03, 2024",20.0
+11006,David Garcia,Clothing,south,Cash on Delivery,1.0,28.55,"June 13, 2023",15.0
+11521,Charles Davis,BOOKS,South,PayPal,3.0,15.58,06-20-2023,0.0
+11689,Linda Williams,sports,south,Debit Card,5.0,57.22,05-25-2024,0.0
+10560,David Patel,Home and Kitchen,North,Credit Card,3.0,$67.18,02-27-2024,
+10208,Rohan Patel, Electronics,west,PayPal,2.0,267.53,03-08-2023,15.0
+10910,, Electronics,SOUTH,PayPal,3.0,277.32,"April 13, 2024",5.0
+11311,Linda Johnson,Electronics,SOUTH,PayPal,3.0,212.19,2023-10-04,20.0
+10001,Aditya Smith, Beauty,south,Cash on Delivery,2.0,27.39,"July 11, 2023",5.0
+11365,David Das,Toys,SOUTH,Cash on Delivery,5.0,30.22,02-10-2023,15.0
+10269,James Martinez,Cloth ing,NORTH,UPI,3.0,45.51,"February 13, 2023",20.0
+10265,Jennifer Singh,toys,north,Credit Card,1.0,24.69,01/09/2024,0.0
+10914,Meera Williams, Beauty, North,Credit Card,2.0,$37.30,2024-12-02,15.0
+10230,David Iyer, Beauty,North,Credit Card,5.0,36.03,"September 16, 2024",0.0
+11315,Karen Davis,Sports,south,PayPal,5.0,66.79,"March 07, 2024",0.0
+11119,Robert Rao,sports,NORTH,PayPal,5.0,55.15,10/09/2024,20.0
+11997,Charles Das,clothing,SOUTH,Cash on Delivery,1.0,21.01,14/08/2023,0.0
+10864,Mary Davis,Cloth ing,east,,1.0,,"August 22, 2024",0.0
+11066,Thomas Smith,Electronics,south,Debit Card,2.0,233.42,2024-01-01,5.0
+10873,Charles Nair,clothing,EAST,Cash on Delivery,462.0,$31.14,"October 07, 2024",0.0
+11820,Joseph Das,Sports,WEST,UPI,2.0,59.88,21/12/2024,0.0
+10398,Vikram Martinez,Beauty,EAST,PayPal,1.0,32.63,2024-08-17,15.0
+11852,Rahul Iyer,Toy's,North,Debit Card,3.0,40.59,"August 10, 2023",0.0
+11652,Robert Garcia,books,NORTH,,1.0,16.6,"July 06, 2023",0.0
+10045,Robert Smith,Home & Kitchen,East ,Debit Card,5.0,53.06,09-25-2023,
+10161,Karen Brown,Toys,east,Credit Card,1.0,38.44,"August 24, 2023",5.0
+10991,Kavya Martinez,Books,South,Credit Card,2.0,22.47,08-25-2023,0.0
+10727,Ananya Kumar,clothing,north,UPI,2.0,37.73,2024-12-01,0.0
+10629,,BOOKS,SOUTH,Cash on Delivery,5.0,16.85,"June 03, 2023",0.0
+10288,Aditya Davis,home & kitchen,North,Cash on Delivery,4.0,78.9,2023-03-09,
+11613,  Charles Brown  ,Sports,East,PayPal,2.0,71.22,"July 06, 2024",
+11059,Jennifer Gupta,Toys,NORTH,PayPal,5.0,$34.80,13/01/2024,0.0
+11981,Priya Martinez,Toys,south,UPI,1.0,33.15,2023-04-18,
+10575,William Rao,SPORTS,SOUTH,Cash on Delivery,1.0,46.29,"March 14, 2024",0.0
+10850,James Das,CLOTHING,south,Credit Card,5.0,16.83,12-06-2023,15.0
+11339,James Das,CLOTHING,west,Credit Card,2.0,51.3,"March 09, 2023",5.0
+10911,,Electronics,South,Cash on Delivery,4.0,,"December 05, 2024",20.0
+11254,Neha Smith,Electronic ,,Cash on Delivery,5.0,330.47,02-13-2023,0.0
+11833,Barbara Gupta, Beauty,West,Credit Card,3.0,30.32,20/07/2023,
+11722,Ananya Brown,Home & Kitchen,south,Debit Card,5.0,25.11,"September 15, 2024",0.0
+11845,Barbara Miller,Beauty,South,UPI,5.0,30.1,2024-01-16,20.0
+11735,Susan Brown, Electronics,West,Credit Card,5.0,83.68,2023-10-09,10.0
+10932,Patricia Patel,Toys,West,PayPal,5.0,$9.72,09-30-2023,10.0
+11100,Kavya Kumar,Books, North,Credit Card,1.0,19.24,10-30-2023,20.0
+11657,Priya Brown,Sports,West,Cash on Delivery,5.0,12.46,04-24-2023,
+11207,Vikram Johnson,HOME & KITCHEN,west,Credit Card,5.0,65.43,12-02-2024,20.0
+10247,Meera Johnson,Toys,West,UPI,,38.51,14/01/2023,0.0
+10476,Barbara Smith,ELECTRONICS,west,PayPal,3.0,268.69,2023-07-09,
+11694,Mary Das,toys,West,Credit Card,4.0,25.94,05/01/2024,10.0
+10085,Rohan Iyer,beauty,East ,,4.0,20.91,2024-10-07,15.0
+10469,David Das,SPORTS,SOUTH,UPI,4.0,45.73,12-11-2023,10.0
+10225,Michael Singh,BOOKS,South,Cash on Delivery,5.0,19.11,27/04/2024,15.0
+10774,Neha Davis,toys,East ,PayPal,5.0,29.17,01-17-2023,5.0
+10331,Patricia Garcia,Home and Kitchen,SOUTH,PayPal,1.0,69.29,"January 19, 2024",15.0
+10233,Meera Sharma,Books,North,PayPal,5.0,5.27,2023-07-19,0.0
+10588,  Jennifer Rodriguez  ,Cloth ing,SOUTH,Debit Card,5.0,64.14,2024-09-25,0.0
+10475,David Gupta,Beauty,SOUTH,PayPal,1.0,9.02,04/11/2023,0.0
+11284,Rohan Das,sports,SOUTH,Credit Card,2.0,$51.81,2024-07-22,15.0
+11895,Joseph Johnson,Cloth ing,South,Debit Card,5.0,18.77,2023-11-10,0.0
+10599,Neha Martinez,books, North,Credit Card,5.0,15.5,07/01/2023,15.0
+10421,Kavya Reddy,clothing,WEST,Cash on Delivery,2.0,45.34,2024-03-24,15.0
+11711,Robert Martinez,HOME & KITCHEN,north,UPI,4.0,78.77,2023-07-03,15.0
+10182,  John Smith  ,Books,NORTH,UPI,5.0,14.41,2023-02-28,0.0
+10988,John Kumar,Toy's,East ,Cash on Delivery,4.0,31.01,2024-10-18,5.0
+11000,,Electronic ,north,PayPal,4.0,$305.41,2024-05-01,20.0
+11641,Charles Martinez,home & kitchen,South,Credit Card,4.0,$75.33,"October 27, 2023",
+11356,Karen Iyer,HOME & KITCHEN, North,Cash on Delivery,2.0,33.42,2023-02-20,0.0
+11462,Linda Martinez,BEAUTY,East ,Credit Card,5.0,35.55,16/01/2023,0.0
+10049,Priya Kumar,BOOKS,South,,5.0,6.56,01-04-2024,0.0
+11902,Priya Reddy,sports,north,Debit Card,5.0,$36.22,16/05/2023,0.0
+11029,Rohan Das,ELECTRONICS,East,UPI,4.0,369.38,2023-12-17,0.0
+10529,John Nair, Electronics,south,Credit Card,2.0,210.67,"October 30, 2023",5.0
+11258,Robert Rao,HOME & KITCHEN,SOUTH,PayPal,5.0,36.98,2024-02-14,0.0
+10486,Meera Johnson,beauty,EAST,Debit Card,1.0,17.17,09-03-2023,10.0
+11978,Robert Nair,Electronics, North,Cash on Delivery,2.0,$375.73,"May 17, 2023",5.0
+10497,Aditya Garcia,Sports,north,Debit Card,5.0,50.2,"November 05, 2024",0.0
+11646,William Williams,electronics,East,PayPal,2.0,$269.64,10/12/2023,0.0
+10106,Rohan Miller,Cloth ing,east,Cash on Delivery,4.0,21.97,2023-06-28,0.0
+10443,Neha Rao,ELECTRONICS,east,UPI,4.0,328.14,"April 03, 2024",10.0
+11512,David Miller, Electronics,NORTH,PayPal,2.0,360.14,06-15-2024,5.0
+10646,Elizabeth Rodriguez,TOYS,SOUTH,Cash on Delivery,4.0,31.24,"July 31, 2024",20.0
+11036,David Martinez,Home & Kitchen,NORTH,Cash on Delivery,1.0,38.23,2024-05-15,10.0
+11762,Elizabeth Brown,clothing,north,Debit Card,1.0,23.57,05-03-2023,5.0
+10726,Barbara Brown, Electronics,South,Credit Card,2.0,361.0,2023-04-24,0.0
+10190,David Rao,Toys,WEST,Credit Card,2.0,39.42,"February 01, 2024",15.0
+11788,Elizabeth Nair,Home and Kitchen,South,PayPal,1.0,110.07,"March 24, 2024",0.0
+11856,  Ananya Rao  ,BOOKS,South,PayPal,2.0,12.13,23/07/2023,0.0
+10282,Thomas Miller,Electronics,NORTH,UPI,4.0,359.35,04/04/2024,10.0
+10029,John Nair,TOYS, North,PayPal,4.0,23.22,25/04/2024,0.0
+10169,Richard Rao,beauty,EAST,UPI,4.0,34.88,20/06/2024,10.0
+11001,Susan Singh,books,north,Cash on Delivery,5.0,,2023-03-18,20.0
+11204,Elizabeth Rodriguez,Sports,west,UPI,1.0,56.45,02-17-2023,5.0
+10100,William Patel,toys,South,Debit Card,2.0,19.4,10-29-2023,0.0
+10197,Jessica Martinez,books,west,Debit Card,3.0,$17.49,09/10/2024,0.0
+10495,Jennifer Williams,Clothing, North,Credit Card,1.0,41.51,01-22-2023,0.0
+11745,Susan Williams,Books,west,PayPal,3.0,$14.87,"November 22, 2023",15.0
+10647,Karen Das,ELECTRONICS,south,PayPal,4.0,406.7,10/05/2023,20.0
+10987,Susan Sharma,Books,WEST,Credit Card,1.0,17.33,08/10/2024,15.0
+10044,Barbara Reddy,BOOKS,South,Credit Card,3.0,,2024-10-25,10.0
+11962,David Rao,BOOKS,East,,5.0,14.76,2023-12-27,5.0
+10710,Jennifer Iyer, Beauty,,Credit Card,5.0,28.71,"October 28, 2024",
+10373,Meera Brown,home & kitchen,WEST,PayPal,4.0,76.59,2024-05-08,10.0
+10678,Neha Williams,beauty,north,Debit Card,2.0,$18.38,03/01/2024,0.0
+10566,Elizabeth Gupta,BOOKS,south,UPI,3.0,$14.50,"December 05, 2023",20.0
+11672,Mary Patel,Toy's,south,PayPal,5.0,$39.83,2023-02-22,
+11821,Arjun Gupta,CLOTHING,west,Debit Card,,52.06,"January 24, 2023",0.0
+10847,Ananya Patel,SPORTS,WEST,Cash on Delivery,5.0,66.75,15/08/2024,
+10460,Jennifer Martinez,books,East ,PayPal,5.0,$21.08,2023-07-11,5.0
+11437,William Williams,Toy's,east,Debit Card,5.0,34.87,01/08/2024,
+11155,Barbara Rodriguez,toys,south,Debit Card,5.0,32.82,09/10/2024,0.0
+10039,James Gupta,sports, North,Credit Card,2.0,,"September 25, 2024",10.0
+10434,Ananya Martinez,books,East,Cash on Delivery,2.0,21.61,29/04/2024,
+10973,John Garcia,clothing,north,Debit Card,1.0,31.69,"May 01, 2023",0.0
+11239,Karen Davis,Clothing,NORTH,UPI,2.0,37.7,2024-08-13,10.0
+11007,Jennifer Reddy,Toy's, North,Cash on Delivery,,34.08,01-18-2023,20.0
+11579,Thomas Miller,clothing,east,,3.0,32.23,"September 19, 2024",0.0
+11590,Joseph Iyer,CLOTHING,north,PayPal,3.0,39.78,06/08/2023,0.0
+11786,Patricia Martinez,CLOTHING,West,Debit Card,2.0,53.56,"October 11, 2023",20.0
+11498,,CLOTHING,south,Cash on Delivery,5.0,$39.58,"June 12, 2023",5.0
+10456,William Johnson,beauty,NORTH,UPI,5.0,30.47,05-08-2024,0.0
+11835,Vikram Brown,BEAUTY,north,PayPal,3.0,25.45,2024-11-19,0.0
+10260,Sarah Sharma,Sports,South,UPI,3.0,54.65,18/08/2024,0.0
+11840,Joseph Rodriguez,Home and Kitchen,south,UPI,2.0,43.0,"July 01, 2023",0.0
+10035,Rohan Rao,Books,west,Cash on Delivery,2.0,15.03,12-27-2024,15.0
+10827,John Nair,sports,EAST,Cash on Delivery,5.0,72.28,2024-09-12,10.0
+10309,Priya Davis,BEAUTY,west,PayPal,1.0,$18.96,2023-03-04,
+10276,Karen Garcia,electronics,west,PayPal,,189.6,09-22-2023,5.0
+10636,Rahul Davis,toys,WEST,Cash on Delivery,5.0,34.26,"January 03, 2024",10.0
+10654,William Patel,Clothing,north,Debit Card,5.0,29.99,2023-11-03,0.0
+10622,Priya Rao,Clothing, North,Debit Card,220.0,53.51,"July 21, 2024",0.0
+11859,Jessica Rodriguez,BOOKS,WEST,Credit Card,5.0,13.75,12-10-2023,
+10844,David Patel,BOOKS,SOUTH,,1.0,12.07,"January 11, 2023",5.0
+10393,Kavya Martinez,Electronics,west,Debit Card,2.0,358.64,2024-07-27,10.0
+11769,Mary Rao,CLOTHING,east,Cash on Delivery,1.0,54.96,19/01/2024,10.0
+10107,Vikram Reddy, Electronics,North,Credit Card,3.0,230.44,10-23-2024,
+10349,Meera Brown,toys,west,Credit Card,5.0,19.8,2023-06-20,5.0
+10524,Arjun Smith,ELECTRONICS,WEST,Cash on Delivery,5.0,222.08,04-17-2023,5.0
+10784,Sarah Singh,CLOTHING,East,Credit Card,3.0,33.44,"April 18, 2024",0.0
+10047,Kavya Brown,Sports,South,Cash on Delivery,5.0,58.43,2023-03-16,0.0
+10203,Mary Smith,BOOKS,North,Credit Card,3.0,17.06,2023-04-18,15.0
+10718,James Reddy,BOOKS,West,Debit Card,1.0,-15.0,21/02/2023,15.0
+11655,Richard Sharma,ELECTRONICS,NORTH,UPI,,275.06,02/10/2024,0.0
+10021,,TOYS,west,PayPal,5.0,42.61,2024-10-21,20.0
+10402,Joseph Brown,Toys,SOUTH,Credit Card,1.0,32.03,2024-01-02,0.0
+11107,  Ananya Williams  ,Books,NORTH,Credit Card,1.0,9.77,"October 16, 2024",10.0
+11154,Rahul Brown,Electronic ,east,PayPal,2.0,98.98,14/10/2024,0.0
+11439,William Garcia,Sports,West,UPI,3.0,50.27,2023-01-21,0.0
+10858,Meera Kumar,Toys,west,Credit Card,3.0,28.42,05/07/2023,15.0
+10989,Meera Reddy,Electronic ,East,Credit Card,3.0,221.95,02/02/2023,0.0
+11865,Mary Miller, Beauty,WEST,PayPal,5.0,$29.71,15/09/2024,15.0
+10741,Sarah Brown,Books,East,UPI,4.0,20.64,2023-10-03,0.0
+11721,Jessica Gupta,Electronic ,west,Debit Card,1.0,198.68,12-01-2024,10.0
+11310,Rahul Gupta,ELECTRONICS,East,Debit Card,1.0,180.33,10-20-2024,
+11147,John Rao,clothing,west,Credit Card,4.0,27.7,"February 06, 2024",
+10033,Priya Williams,electronics,East,Cash on Delivery,5.0,168.98,"November 12, 2024",
+10787,Elizabeth Martinez,Cloth ing,West,PayPal,1.0,39.59,12-08-2024,0.0
+11540,Rahul Reddy,Toy's,,PayPal,5.0,33.97,10-31-2023,10.0
+10923,Elizabeth Martinez,Books,EAST,UPI,2.0,18.97,2023-04-15,15.0
+11043,Michael Garcia,BEAUTY, North,UPI,5.0,24.94,31/03/2024,0.0
+11959,,Sports,west,Cash on Delivery,3.0,56.78,2024-10-08,0.0
+11243,Mary Davis,toys,west,Credit Card,5.0,$21.06,03-15-2023,15.0
+11915,Neha Johnson,Toy's,EAST,Credit Card,2.0,34.56,"July 14, 2023",5.0
+10579,Priya Davis,Sports,South,Credit Card,4.0,89.28,"March 14, 2024",0.0
+10481,Aditya Singh,ELECTRONICS,north,UPI,4.0,440.01,04/09/2023,0.0
+10931,Neha Rao,,west,Cash on Delivery,3.0,38.01,"May 29, 2023",5.0
+10356,William Kumar,Clothing, North,UPI,5.0,55.38,05/12/2023,20.0
+11685,John Martinez,toys,EAST,UPI,,$26.23,11/07/2023,
+11248,Patricia Kumar,SPORTS, North,Cash on Delivery,1.0,29.05,2024-01-14,0.0
+10759,Kavya Davis,sports,East,Credit Card,2.0,68.8,"May 05, 2024",0.0
+10092,Charles Singh,sports,south,UPI,5.0,63.52,01-05-2023,0.0
+11175,Mary Iyer,SPORTS,West,Cash on Delivery,3.0,52.23,2024-03-22,0.0
+11415,Patricia Kumar,clothing,North,Credit Card,4.0,29.96,2023-04-16,0.0
+11341,Aditya Singh,Toy's,south,UPI,2.0,$40.91,2024-03-16,
+11472,Mary Rao,Sports, North,Debit Card,4.0,44.99,11-01-2024,20.0
+10803,Arjun Garcia,toys,East ,PayPal,3.0,20.87,08-17-2023,15.0
+10745,Aditya Rao,Clothing,NORTH,Credit Card,1.0,64.9,2023-12-02,10.0
+11546,Mary Patel,CLOTHING,East,Cash on Delivery,,45.49,12-18-2023,0.0
+10279,William Nair,Electronics,East,,2.0,328.15,"November 10, 2023",0.0
+11607,Aditya Smith,TOYS,north,,2.0,21.39,11-07-2024,20.0
+10764,Jennifer Singh,toys,south,Debit Card,2.0,11.84,2024-01-04,0.0
+10604,Patricia Jones,Electronics,EAST,Credit Card,2.0,$263.40,07-28-2024,
+10654,William Patel,Clothing,north,Debit Card,5.0,29.99,11-03-2023,0.0
+11373,Arjun Nair,Toy's,EAST,Debit Card,2.0,21.76,09-21-2023,0.0
+11951,Robert Patel,home & kitchen,south,Cash on Delivery,2.0,36.33,21/12/2024,5.0
+11398,John Sharma,beauty,East,PayPal,2.0,34.59,04/11/2023,
+10400,Patricia Rao,Beauty,north,UPI,1.0,25.33,2023-05-17,0.0
+11728,Sarah Sharma,HOME & KITCHEN,east,PayPal,5.0,66.99,2024-10-08,0.0
+10257,Ananya Martinez,Sports, North,Debit Card,5.0,25.82,18/02/2023,5.0
+10944,James Gupta,Clothing,west,Credit Card,5.0,30.3,09-14-2023,0.0
+11875,James Miller,ELECTRONICS,East,PayPal,1.0,207.62,01-08-2023,20.0
+11096,Meera Martinez,Books,East ,Credit Card,1.0,11.16,2023-12-14,15.0
+11219,  Thomas Martinez  ,Home & Kitchen,east,Credit Card,3.0,1624.7192779029494,"December 03, 2024",
+11507,Sarah Iyer,clothing,NORTH,Cash on Delivery,4.0,$12.04,"May 15, 2024",0.0
+11879,Richard Smith,books,North,Cash on Delivery,1.0,3.0,27/11/2023,10.0
+11161,John Reddy,beauty,SOUTH,UPI,2.0,27.08,2024-08-20,20.0
+10494,James Smith,Clothing,EAST,Debit Card,5.0,21.94,21/04/2023,15.0
+10772,Vikram Singh,HOME & KITCHEN,South,Credit Card,5.0,55.08,14/07/2023,10.0
+10550,William Gupta,Beauty,south,Credit Card,2.0,$35.76,06-23-2024,15.0
+11486,Rahul Rao,Clothing,north,Cash on Delivery,1.0,35.43,"November 28, 2023",0.0
+10201,Arjun Nair,Electronics,north,PayPal,2.0,$290.75,"August 06, 2024",10.0
+10312,James Brown,,North,Debit Card,4.0,82.0,30/04/2024,
+10290,James Rodriguez,Toys,South,UPI,4.0,46.75,"November 14, 2024",0.0
+11984,David Smith,Cloth ing,East ,Credit Card,4.0,49.6,2024-08-09,20.0
+11213,  Barbara Davis  ,beauty,North,Debit Card,2.0,30.75,11-29-2024,0.0
+10763,William Smith,BOOKS,north,Debit Card,4.0,13.11,03/11/2024,10.0
+11136,Aditya Martinez,Home and Kitchen,south,Credit Card,1.0,46.22,"November 30, 2023",
+10949,Rohan Nair,,south,,5.0,19.93,04/12/2024,0.0
+10183,Neha Sharma,beauty,north,Credit Card,2.0,17.24,"August 04, 2023",0.0
+11176,Joseph Smith,Toys,East,Cash on Delivery,4.0,42.3,31/05/2023,0.0
+11848,John Williams,Books,east,,3.0,9.83,06/03/2023,10.0
+11349,Patricia Brown,Home and Kitchen,East,Credit Card,2.0,98.57,31/05/2024,15.0
+11727,Thomas Nair,HOME & KITCHEN,,Debit Card,3.0,68.98,"December 20, 2023",10.0
+11068,Michael Kumar,BOOKS,WEST,Credit Card,5.0,16.39,06-29-2024,0.0
+11468,Elizabeth Reddy,BOOKS,EAST,PayPal,2.0,$16.41,2023-09-04,20.0
+11811,Linda Smith,home & kitchen,EAST,Cash on Delivery,2.0,52.03,2024-02-11,0.0
+11030,  Susan Brown  , Electronics,SOUTH,Cash on Delivery,1.0,277.86,"April 12, 2024",5.0
+10250,,Toys,west,PayPal,1.0,26.25,29/04/2023,10.0
+10823,Karen Nair,SPORTS,west,Cash on Delivery,3.0,55.91,"December 08, 2024",
+11099,Rahul Miller,ELECTRONICS,SOUTH,PayPal,3.0,278.67,09-02-2023,15.0
+11536,,Clothing, North,UPI,3.0,33.21,04/06/2024,0.0
+10940,Jennifer Miller,BOOKS,SOUTH,Debit Card,3.0,15.39,14/06/2023,0.0
+10391,Rohan Jones,TOYS,south,UPI,1.0,18.48,01-19-2023,0.0
+11919,Rahul Rao,Home and Kitchen,WEST,Credit Card,2.0,$55.64,"August 05, 2024",10.0
+11456,Susan Jones,books,south,Cash on Delivery,3.0,17.39,18/03/2023,0.0
+11092,Patricia Rao,BOOKS,,PayPal,3.0,15.27,2024-01-20,5.0
+11191,John Rodriguez,,North,Credit Card,3.0,41.68,2024-06-08,20.0
+10904,Michael Gupta, Beauty,south,Credit Card,5.0,29.58,04-07-2024,15.0
+10730,Jessica Rodriguez,SPORTS,east,Debit Card,1.0,51.49,"August 27, 2024",0.0
+10554,James Patel,Clothing, North,Debit Card,3.0,57.41,03/11/2024,
+10366,Priya Davis,SPORTS,west,Cash on Delivery,4.0,34.37,18/11/2023,0.0
+10345,Jennifer Sharma,books,south,Credit Card,1.0,9.51,25/11/2023,5.0
+11608,Rahul Garcia,Clothing,north,UPI,4.0,41.89,"August 30, 2023",
+10535,Robert Kumar,BEAUTY,WEST,Cash on Delivery,2.0,19.5,2023-10-21,
+11422,Charles Miller,ELECTRONICS,EAST,,3.0,331.85,"November 07, 2024",5.0
+11209,Karen Reddy,ELECTRONICS,west,Debit Card,3.0,153.43,22/06/2024,10.0
+11372,Karen Brown,books,East,PayPal,3.0,13.26,2023-04-02,5.0
+11639,Rahul Johnson,Toy's,NORTH,Cash on Delivery,5.0,$25.88,23/01/2024,10.0
+10919,Thomas Miller,Electronic ,WEST,Cash on Delivery,1.0,310.37,12-12-2023,5.0
+10211,Aditya Rao,HOME & KITCHEN,west,Cash on Delivery,5.0,71.33,06/10/2023,
+11603,Joseph Davis,Electronics,East,Debit Card,5.0,245.49,12/01/2023,10.0
+10502,Patricia Kumar,books,South,Debit Card,4.0,13.3,"July 09, 2023",20.0
+10537,John Kumar,ELECTRONICS,SOUTH,PayPal,4.0,171.11,01/09/2024,15.0
+11220,Thomas Iyer,beauty,NORTH,Cash on Delivery,1.0,19.08,20/01/2023,10.0
+10175,Patricia Nair,books,NORTH,,3.0,16.98,06-03-2024,5.0
